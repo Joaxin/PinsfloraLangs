@@ -4,9 +4,7 @@ description: Los niños escriben poemas en tiras de papel rojo.
 
 # Introduction
 
-```text
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=17737042&auto=1&height=66"></iframe>
-```
 
 ### Gender
 
@@ -39,17 +37,17 @@ For example, when **tú** has an accent, it means **you**.
 
 ![img](https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/4c12302b60b06e50c8544689e432660b/images/d3f8689f64ad41be81c953acf5ed827f.svg)
 
-​ ¿**Tú** tienes un gato?
+ ¿**Tú** tienes un gato?
 
-​ Do **you** have a cat?
+ Do **you** have a cat?
 
 Without an accent, **tu** means **your**.
 
 ![img](https://d1btvuu4dwu627.cloudfront.net/1935260bb45227d2abc8062355f5ce9f/4c12302b60b06e50c8544689e432660b/images/91d89c980d1a47dd9eefa5278bc2ca6c.svg)
 
-​ ¡**Tu** gato es grande!
+ ¡**Tu** gato es grande!
 
-​ **Your** cat is big!
+ **Your** cat is big!
 
 ### Ser vs. estar
 

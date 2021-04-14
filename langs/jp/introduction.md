@@ -1,5 +1,7 @@
 # Introduction
 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=554600&auto=1&height=66"></iframe>
+
 ### Hiragana/Katakana
 
 Japanese uses three different writing systems, **hiragana**, **katakana**, and **kanji**.
@@ -110,7 +112,7 @@ Below is a table of the kanji that are introduced in this lesson, complete with 
 
 **Tips** ：マリア——maria；さん——honorific\(Mr./Mrs.\);は——is;しゅっしん——from
 
-​ honorific——To show respect or reverence for a person or concept
+ honorific——To show respect or reverence for a person or concept
 
 田中`さんは`日本人です（Mr. Tanaka is Japanese）
 

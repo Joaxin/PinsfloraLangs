@@ -6,11 +6,7 @@ description: >-
 
 # Introduction
 
-```text
-<span style="color: rgb(28, 176, 246); font-size: 19px; font-weight: bold;">German </span>and <span style="color: rgb(120, 200, 0); font-size: 19px; font-weight: bold;">English </span>
-```
-
- are in the same language family? German might seem tricky, but there are also a lot of similarities. Welcome to the German tour! Let’s get started!
+<span style="color: rgb(28, 176, 246); font-size: 19px; font-weight: bold;">German </span>and <span style="color: rgb(120, 200, 0); font-size: 19px; font-weight: bold;">English </span> are in the same language family? German might seem tricky, but there are also a lot of similarities. Welcome to the German tour! Let’s get started!
 
 ### Capitalizing nouns
 

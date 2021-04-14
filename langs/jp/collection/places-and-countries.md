@@ -1,7 +1,5 @@
 # Places & Countries
 
-
-
 ### Countries in Japanese
 
 #### Asia\(アジア\)
