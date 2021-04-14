@@ -120,4 +120,13 @@
 
 * [Klingon](kl/README.md)
   * [Introduction](kl/introduction.md)
+* [Latin](la/README.md)
+  * [Introduction](la/introduction.md)
+
+## Encyclopedia
+
+* [Resources](encyclopedia/resources/README.md)
+  * [Sentences](encyclopedia/resources/sentences.md)
+  * [Words](encyclopedia/resources/words.md)
+  * [Multilingual](encyclopedia/resources/multilingual.md)
 
