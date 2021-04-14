@@ -2,8 +2,6 @@
 
 ## Hiragana/Katakana
 
-{% embed url="https://music.163.com/outchain/player?type=2&id=554600&auto=1&height=66" %}
-
 Japanese uses three different writing systems, **hiragana**, **katakana**, and **kanji**.
 
 **Hiragana**\(平假名\) is the most basic Japanese syllabary. It's like an alphabet that uses **syllables** instead of individual **sounds**.

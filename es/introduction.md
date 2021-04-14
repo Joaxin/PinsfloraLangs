@@ -4,8 +4,6 @@ description: Los niños escriben poemas en tiras de papel rojo.
 
 # Introduction
 
-{% embed url="https://music.163.com/outchain/player?type=2&id=17737042&auto=1&height=66" %}
-
 ## Gender
 
 In Spanish, all nouns are either masculine or feminine.
