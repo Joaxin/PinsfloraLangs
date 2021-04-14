@@ -1,8 +1,8 @@
 # Places & Countries
 
-### Countries in Japanese
+## Countries in Japanese
 
-#### Asia\(アジア\)
+### Asia\(アジア\)
 
 | JP |  | English |
 | :--- | :--- | :--- |
@@ -15,7 +15,7 @@
 |  |  |  |
 |  |  |  |
 
-#### Europe\(ヨーロッパ\)
+### Europe\(ヨーロッパ\)
 
 | JP |  | English |
 | :--- | :--- | :--- |
@@ -38,13 +38,13 @@
 | トルコ | to ru ko | Turkey |
 | オーストリア | o- su to ri a | Austria |
 
-#### Africa\(アフリカ\)
+### Africa\(アフリカ\)
 
 | JP |  | English |
 | :--- | :--- | :--- |
 | エジプト | e ji pu to | Egypt |
 
-#### North America\(きた アメリカ\)
+### North America\(きた アメリカ\)
 
 | JP |  | English |
 | :--- | :--- | :--- |
@@ -52,7 +52,7 @@
 | カナダ | Kanada | Canada |
 | メキシコ | me ki shi ko | Mexico |
 
-#### South America\(みなみ アメリカ\)
+### South America\(みなみ アメリカ\)
 
 | JP |  | English |
 | :--- | :--- | :--- |
@@ -60,7 +60,7 @@
 | チリ | chi ri | Chile |
 | ペルー | pe ru- | Peru |
 
-#### Australia\(ごうしゅう\) / Oceania
+### Australia\(ごうしゅう\) / Oceania
 
 | JP |  | English |
 | :--- | :--- | :--- |

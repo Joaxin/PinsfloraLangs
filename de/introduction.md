@@ -6,17 +6,17 @@ description: >-
 
 # Introduction
 
-<span style="color: rgb(28, 176, 246); font-size: 19px; font-weight: bold;">German </span>and <span style="color: rgb(120, 200, 0); font-size: 19px; font-weight: bold;">English </span> are in the same language family? German might seem tricky, but there are also a lot of similarities. Welcome to the German tour! Let’s get started!
+German and English are in the same language family? German might seem tricky, but there are also a lot of similarities. Welcome to the German tour! Let’s get started!
 
-### Capitalizing nouns
+## Capitalizing nouns
 
 In German, **all nouns are capitalized**.
 
 For example, "my name" is "mein Name," and "the apple" is "der Apfel."
 
- This helps you identify which words are the nouns in a sentence.
+This helps you identify which words are the nouns in a sentence.
 
-### German genders
+## German genders
 
 Gender is a way to sort all nouns. In German, every noun is either **feminine, masculine or neuter**, even when they don't refer to people. For example, "Frau" \(woman\) is feminine, "Mann" \(man\) is masculine, and "Kind" \(child\) is neuter.
 
@@ -59,7 +59,7 @@ If you order Wasser in a German restaurant, you’ll get a bottle of sparkling o
 
 **Generic vs. specific**
 
- German is not Spanish or French
+German is not Spanish or French
 
 Just like in English, using or dropping the definite article makes the difference between specific and generic.
 
@@ -69,9 +69,9 @@ I like the bread = Ich mag das Brot \(specific bread\)
 
 A good general rule is to use an article when you would use on in English. If there is none in English, don't use one in German.
 
-### Verb conjugations
+## Verb conjugations
 
-#### Conjugations of the verb sein
+### Conjugations of the verb sein
 
 Like in English, _sein_ \(to be\) is completely irregular, and its conjugations simply need to be memorized. Again, you will learn the plural forms soon.
 
@@ -89,7 +89,7 @@ A few verbs like "sein" \(to be\) are completely irregular, and their conjugatio
 
 > If you're new to German, _ihr_ and _er_ may sound confusingly similar, but there is actually a difference. _ihr_ sounds similar to the English word "ear", and _er_ sounds similar to the English word "air" \(imagine a British/RP accent\).
 
-#### Conjugating regular verbs
+### Conjugating regular verbs
 
 **Verb conjugation** in German is more complex than in English. To conjugate a regular verb in the present tense, identify the stem of the verb and **add the ending** corresponding to any of the grammatical persons, which you can simply memorize.
 
@@ -115,7 +115,7 @@ Example:
 | you \(formal\) | -en | Sie trink**en** |
 | they | -en | sie trink**en** |
 
-#### Conjugating irregular verbs
+### Conjugating irregular verbs
 
 **And an umlaut on top!**
 
@@ -130,7 +130,7 @@ Some verbs change an **a** to an **ä** in the **du** and **er** / **sie** / **e
 | ihr | schlaft | lauft | fahrt | wascht | tragt |
 | sie/Sie | schlafen | laufen | fahren | waschen | tragen |
 
- Keep in mind the **b** disappears in the **du** and **er** / **sie** / **es** forms of **haben**.
+Keep in mind the **b** disappears in the **du** and **er** / **sie** / **es** forms of **haben**.
 
 |  | **lesen\(to read\)** | **essen\(to eat\)** | **habe**n\(to have\) | **sehen**\(to see\) | Wollen and mögen |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -152,7 +152,7 @@ Some verbs have letters like **d** or **n** in the main part, which can make the
 | ihr | öffn**et** | find**et** |
 | sie/Sie | öffnen | finden |
 
-#### No continuous aspect
+### No continuous aspect
 
 In German, there's no continuous aspect like French , i.e. there are no separate forms for "I drink" and "I am drinking". There's only one form: _Ich trinke._
 
@@ -162,7 +162,7 @@ When translating into English, how can I tell whether to use the simple \(I drin
 
 Unless the context suggests otherwise, either form should be accepted.
 
-#### **What do you like to do?**
+### **What do you like to do?**
 
 You can show that you enjoy doing something by adding the word **gern** after the verb. Don’t like it? Use **nicht gern** instead!
 
@@ -170,7 +170,7 @@ You can show that you enjoy doing something by adding the word **gern** after th
 | :--- | :--- |
 | Ich lese die Zeitung. I read the newspaper. | Ich lese nicht gern die Zeitung. I don’t like to read the newspaper. |
 
-### Plurals
+## Plurals
 
 In English, making plurals out of singular nouns is typically as straightforward as adding _-\(e\)s_ at the end of the word. In German, the transformation is more complex.
 
@@ -197,7 +197,7 @@ In German, there are many ways to make something plural. You’ll get used to th
 | add **‑en** | die Frauen, die menschen, die Zeutungen |
 | add umlaut | die Vögel |
 
-#### You, you and you
+### You, you and you
 
 Most languages use different words to address one person, or several people.
 
@@ -213,7 +213,7 @@ Some English speakers would use "y'all" or "you guys" for this plural form of "y
 
 Note that these only work for people you are familiar with \(friends, family, …\).
 
-### FAQ
+## FAQ
 
 **In the German language, why is juice masculine and cola feminine?**
 

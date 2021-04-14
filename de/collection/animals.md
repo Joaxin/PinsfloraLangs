@@ -1,6 +1,6 @@
 # Animals
 
-![](../../../.gitbook/assets/de_s_animals.jpg)
+![](../../.gitbook/assets/de_s_animals.jpg)
 
 ### **Eating like…!**
 

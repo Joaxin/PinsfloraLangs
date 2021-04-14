@@ -1,8 +1,8 @@
-# Introduction
+# Introduction\(JP\)
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=554600&auto=1&height=66"></iframe>
+## Hiragana/Katakana
 
-### Hiragana/Katakana
+{% embed url="https://music.163.com/outchain/player?type=2&id=554600&auto=1&height=66" %}
 
 Japanese uses three different writing systems, **hiragana**, **katakana**, and **kanji**.
 
@@ -31,7 +31,7 @@ Below are the most basic table of Japanese hiragana and katakana.
 | を | \[o\], although it's most often romanized as "wo" |
 | ん | \[n\] or \[ŋ\], like the _n_ in _pink_, producing a \[m\] when combined with a bilabial\(hmp, 双唇音\) stop, hence "tempura" and not "tenpura".  As the only solitary consonant in hiragana, **ん** is especially notable because it is only found at the end of another syllable. In other words, you will never read a Japanese word that begins with **ん**。 |
 
-### Dakuten & Small tsu
+## Dakuten & Small tsu
 
 > Mnemonics
 >
@@ -74,7 +74,7 @@ The small character changes the two-syllable construction into a one-syllable co
 | :--- | :--- |
 | びよういん \[bi-yō-in\] "beauty salon, 美容院" | びょういん \[byō-in\] "hospital, 病院" |
 
-### Kanji
+## Kanji
 
 **Kanji** literally means "Chinese characters," and they're used to build content words like nouns, verbs, and adjectives.
 
@@ -98,7 +98,7 @@ Below is a table of the kanji that are introduced in this lesson, complete with 
 | 生 | Born, Raw | なま、い•きる | せい |
 | 先 | Previous | さき | せん |
 
-### Basic Grammar
+## Basic Grammar
 
 `田中`です
 
@@ -112,7 +112,7 @@ Below is a table of the kanji that are introduced in this lesson, complete with 
 
 **Tips** ：マリア——maria；さん——honorific\(Mr./Mrs.\);は——is;しゅっしん——from
 
- honorific——To show respect or reverence for a person or concept
+honorific——To show respect or reverence for a person or concept
 
 田中`さんは`日本人です（Mr. Tanaka is Japanese）
 
@@ -148,9 +148,9 @@ Pronouns are relatively rare in Japanese, but they are sometimes used to explici
 | 彼ら | かれら | they, them | Used for an all-male or mixed-gendered group |
 | 彼女たち | かのじょたち | they, them | Used for an all-female group |
 
-### Note \(ノート\)
+## Note \(ノート\)
 
-#### Numbers
+### Numbers
 
 |  | Japanese | Hiragana |
 | :--- | :--- | :--- |
@@ -171,29 +171,29 @@ Pronouns are relatively rare in Japanese, but they are sometimes used to explici
 | 30. | さんじゅう | sanjyuu |
 | 100. | ひゃく | hyaku |
 
-#### Colors
+### Colors
 
 あお \(blue,ao\) あか \(red,aka\) しろ \(white,shiro\)
 
-#### Animals
+### Animals
 
 いぬ\(犬, dog\) とり\(cat\) とり\(bird\) さかな 魚
 
-#### Fruits
+### Fruits
 
 まんが \(mango, manga\) もも\(momo, peach\) バナナ\(banana, banana\) レモン\(lemon, remon\) くだもの\(fruit\)
 
-#### Body
+### Body
 
 め\(eye\) みみ\(ear\) せなか\(back\)
 
 こえ 声
 
-### じん\(人\)
+## じん\(人\)
 
 先生（sensi）：teacher
 
-#### Weather and Time
+### Weather and Time
 
 おはようございます\(Good morning!\)
 
@@ -217,7 +217,7 @@ Pronouns are relatively rare in Japanese, but they are sometimes used to explici
 
 かぜ \(wind\)
 
-#### Foods
+### Foods
 
 すし \(Sushi\)
 
@@ -233,7 +233,7 @@ Pronouns are relatively rare in Japanese, but they are sometimes used to explici
 
 あまい\(sweet, amai\)
 
-#### Places
+### Places
 
 せかい 世界
 
@@ -255,7 +255,7 @@ Pronouns are relatively rare in Japanese, but they are sometimes used to explici
 
 きた 北
 
-#### Objects
+### Objects
 
 おかね 金钱
 
@@ -281,9 +281,9 @@ Pronouns are relatively rare in Japanese, but they are sometimes used to explici
 
 きゅう \(old\)
 
-#### えもじ \(emoji\)
+### えもじ \(emoji\)
 
-#### Verbs
+### Verbs
 
 よむ\(read, yomu\) のむ\(drink, nomu\) すき \(Like, suki\)
 
