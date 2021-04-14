@@ -4,7 +4,7 @@ description: Shopping
 
 # Clothes & Colors
 
-![](../../.gitbook/assets/colores-ejemplos-cosas-tipicas.jpg)
+![](../../../.gitbook/assets/colores-ejemplos-cosas-tipicas.jpg)
 
 ### Colors
 
