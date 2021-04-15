@@ -28,7 +28,7 @@ Note that Spanish greetings are always in the plural \("Good days"\), but you mi
 
 ### **¿Cómo te llamas?**
 
-**¿Cómo te llamas?** is used to ask **What's your name?** in informal interactions.
+**¿Cómo te llamas(Cual es tu nombre)?** is used to ask **What's your name?** in informal interactions.
 
 Hola, ¿cómo te llamas?
 
@@ -143,6 +143,8 @@ In Spanish, we use words like **señor**, **señora**, and **señorita** to show
 
 **Señora** is generally for married women, while **señorita** is usually for young women or unmarried women.
 
+Disculpe, **señora**. \(Excuse me, ma'am.)
+
 **Señor** can be used for any man.
 
 If you are addressing people directly, you will just use **señor**, **señora**, and **señorita**, but if you are speaking of them, you'll have to use words like **el** and **la** before these titles.
@@ -158,8 +160,6 @@ Señor Sánchez, ¿cómo está usted?
 ### Phrases
 
 Por favor. \(Please.\)
-
-Disculpe, señora. \(Excuse me, ma'am.\)
 
 De nada. \(You are welcome.\)
 

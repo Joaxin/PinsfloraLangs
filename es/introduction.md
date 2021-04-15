@@ -144,7 +144,7 @@ Present indicative \(presente del indicativo\):
 
 **er/ar**
 
-**llam**ar **trabaj**ar **regal**ar **compr**ar
+**llam**ar **trabaj**ar **regal**ar **compr**ar **us**ar 
 
 |  | beber | comer | hacer | **poner** | hablar | **llevar** | **tomar** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

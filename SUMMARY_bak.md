@@ -1,7 +1,6 @@
 # Table of contents
 
 * [About](README.md)
-* [CONENTS](SUMMARY_bak.md)
 * [Japanese](jp/README.md)
   * [Collection](jp/collection/README.md)
     * [Places & Countries](jp/collection/places-and-countries.md)

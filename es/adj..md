@@ -155,6 +155,26 @@ Emotional experiences and physical sensations—like hunger, sadness, or surpris
 | _cansado/a_ | tired |
 | _inquieto/a_ | restless |
 
+**Esta mañana estoy muy cansado.**
+
+This morning I am very tired.
+
+**¡Yo estoy muy emocionada!**
+
+I am very excited!
+
+**Yo nunca estoy aburrido en la clase.**
+
+I'm never bored in class.
+
+**Ella siempre está enferma o preocupada.**
+
+She is always sick or worried.
+
+**Estoy sorprendido y enojado.**
+
+I'm surprised and angry.  
+
 ### Adjectives
 
 | Spanish |  |  |  |

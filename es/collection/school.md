@@ -1,5 +1,33 @@
 # School
 
+In English, we say **I am a teacher**, but in Spanish, you don't need to use **a** when talking about occupations.
+
+Mi amigo es profesor.
+
+* My friend is a professor.
+
+Similar to **waiter** and **waitress** in English, many occupation words in Spanish change depending on the gender of the person.
+
+Un maestr**o**, y un estudiante
+
+Una maestr**a**, y una estudiante
+
+* a teacher and a student
+
+ No, señor, yo no hablo francés.
+
+* No, sir, I do not speak French.
+
+Ellos no son estudiantes de inglés.
+
+* They are not English students.
+
+Un hombre español. \(A Spanish man. \)
+
+
+
+
+
 Una escuela. \(A school\)
 
 I study at the university. \(Yo estudio en la Universidad.\)
@@ -51,27 +79,3 @@ Tengo muchos amigos en esta clase. \(I have a lot of friends in this class. \)
 Tengo algunas preguntas para el maestro. \(I have some questions for the teacher. \)
 
 No necesito unas vacaciones. \(I do not need vacations.\)
-
-### Emotions
-
-**Esta mañana estoy muy cansado.**
-
-This morning I am very tired.
-
-**¡Yo estoy muy emocionada!**
-
-I am very excited!
-
-**Yo nunca estoy aburrido en la clase.**
-
-I'm never bored in class.
-
-**Ella siempre está enferma o preocupada.**
-
-She is always sick or worried.
-
-**Estoy sorprendido y enojado.**
-
-I'm surprised and angry.  
-
-

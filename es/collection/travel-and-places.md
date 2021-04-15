@@ -1,30 +1,56 @@
-# Travel & Places
+---
+description: Transportation, Travel & Places
+---
 
+# Travel, Transportation & Places
+
+### At the Airport
+
+| Spanish                                     |                                           | Spanish                              |                                            |
+| ------------------------------------------- | ----------------------------------------- | ------------------------------------ | ------------------------------------------ |
+| rribos/Llegadas                             | Arrivals                                  | Salidas/Partidas                     | Departures                                 |
+| El pasaporte                                | Passport                                  | La terminal                          | Terminal                                   |
+| El vuelo                                    | Flight                                    | La aduana                            | Customs                                    |
+| El equipaje                                 | Luggage                                   | La pista                             | Runway                                     |
+| El pasaje/boleto                            | Ticket                                    | La escala                            | Layover                                    |
+| ¿Dónde está... (la terminal sur/la aduana)? | Where is... (the south terminal/customs)? | ¿A qué hora sale/llega el vuelo 222? | At what time does flight 222 leave/arrive? |
 
 
 ### Transportation
 
-There are two cases where the preposition **a** is used, when you go on foot or on horseback.
+For by somthing, there are two cases where the preposition **a** is used, when you go on foot or on horseback, otherwise, you should use **en**.
 
-_el pie_ – foot **a** pie – on foot
+_el pie_ – **a** pie – on foot
 
-_el caballo_ – horse **a** caballo – on horseback
+_el caballo_ – **a** caballo – on horseback
 
-| Spanish | English | by |
-| :--- | :--- | :--- |
-| el avión | plane | en |
-| el barco | boat | en |
-| el bus, el autobús | bus | en |
-| el coche, el carro, el auto, el automóvil | car | en |
-| el metro | subway | en |
-| la bicicleta/la bici | bicycle | en |
-| la motocicleta, la moto | motorbycle | en |
-| el taxi | taxi | en |
-| el tren | train | en |
-|  |  |  |
-|  |  |  |
+| Spanish | English |
+| :--- | :--- |
+| el avión | plane |
+| el barco | boat |
+| el bus, el autobús | bus |
+| el coche, el carro, el auto, el automóvil | car |
+| el metro | subway |
+| la bicicleta/la bici | bicycle |
+| la motocicleta, la moto | motorbycle |
+| el taxi | taxi |
+| el tren | train |
+|  |  |
 
 > Note: The bus has several different names in Latin American Spanish: _liebre_ \(small bus – Chile\), _camión_ \(Mexico\), _colectivo_ \(Argentina\), among others. When in doubt, use _bus_ or _autobús_
+
+| *¿Cómo puedo ir a...?*                                       | How can I get to...?                                       |
+| ------------------------------------------------------------ | ---------------------------------------------------------- |
+| *¿De dónde sale el autobús/tren para (Madrid)?*              | Where does the bus/train to (Madrid) leave from?           |
+| *¿A qué hora sale el próximo autobús/tren para (Barcelona)?* | At what time does the next bus/train to (Barcelona) leave? |
+| *¿Este autobús para en (Córdoba)?*                           | Does this bus stop in (Córdoba)?                           |
+| *Un boleto, por favor.*                                      | One ticket, please.                                        |
+| *Me bajo en la próxima parada.*                              | I get off at the next stop.                                |
+| *¿Me puede llamar un taxi?*                                  | Can you call a taxi for me?                                |
+| *¿Este taxi está libre?*                                     | Is this taxi free (available)?                             |
+| *Quiero ir a...*                                             | I want to go to...                                         |
+| *Pare aquí, por favor.*                                      | Stop here, please.                                         |
+| *Espere aquí, por favor.*                                    | Wait here, please.                                         |
 
 ### Navigate the city
 
@@ -86,11 +112,11 @@ El banco está **cerrado**.
 
 * The bank is **closed**.
 
-### Countries
+### Navigate the countries
 
 **viv**ar - to live
 
-| Los continentes | Continents |  |  |
+| Los continentes | Continents | Los continentes | Continents |
 | :--- | :--- | :--- | :--- |
 | África | Africa | Antártida | Antarctica |
 | Asia | Asia | Australia | Australia |

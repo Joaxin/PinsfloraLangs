@@ -1,37 +1,134 @@
+---
+description: Schedule
+---
 # Numbers & Days
 
-### Numbers
+### Numbers(los números)
 
-1. uno
-2. dos
-3. tres
-4. cuatro
-5. cinco
-6. seis
-7. siete
-8. ocho
-9. nueve
-10. diez
-11. once
-12. doce
-13. trece
-14. catorce
-15. quince
-16. dieciséis
-17. diecisiete
-18. dieciocho
-19. diecinueve
-20. veinte
-21. veintiuno
-22. veintidós
-23. veintitrés
-24. veinticuatro
-25. veinticinco
-26. veintiséis
-27. veintisiete
-28. veintiocho
-29. veintinueve
-30. treinta
+> cero(zero)
+
+|  uno              |  dos              |  tres              |  cuatro              |  cinco              |  seis              |  siete              |  ocho              |  nueve              |  diez      |
+| ------------------ | ------------------ | ------------------- | --------------------- | -------------------- | ------------------- | -------------------- | ------------------- | -------------------- | ------------ |
+|  once            |  doce            |  trece            |  catorce            |  quince            |  dieciséis        |  diecisiete        |  dieciocho        |  diecinueve        |  veinte    |
+|  veintiuno       |  veintidós       |  veintitrés       |  veinticuatro       |  veinticinco       |  veintiséis       |  veintisiete       |  veintiocho       |  veintinueve       |  treinta   |
+|  treinta y uno   |  treinta y dos   |  treinta y tres   |  treinta y cuatro   |  treinta y cinco   |  treinta y seis   |  treinta y siete   |  treinta y ocho   |  treinta y nueve   |  cuarenta  |
+|  cuarenta y uno  |  cuarenta y dos  |  cuarenta y tres  |  cuarenta y cuatro  |  cuarenta y cinco  |  cuarenta y seis  |  cuarenta y siete  |  cuarenta y ocho  |  cuarenta y nueve  |  cincuenta |
+|  cincuenta y uno |  cincuenta y dos |  cincuenta y tres |  cincuenta y cuatro |  cincuenta y cinco |  cincuenta y seis |  cincuenta y siete |  cincuenta y ocho |  cincuenta y nueve |  sesenta   |
+|  sesenta y uno   |  sesenta y dos   |  sesenta y tres   |  sesenta y cuatro   |  sesenta y cinco   |  sesenta y seis   |  sesenta y siete   |  sesenta y ocho   |  sesenta y nueve   |  setenta   |
+|  setenta y uno   |  setenta y dos   |  setenta y tres   |  setenta y cuatro   |  setenta y cinco   |  setenta y seis   |  setenta y siete   |  setenta y ocho   |  setenta y nueve   |  ochenta   |
+|  ochenta y uno   |  ochenta y dos   |  ochenta y tres   |  ochenta y cuatro   |  ochenta y cinco   |  ochenta y seis   |  ochenta y siete   |  ochenta y ocho   |  ochenta y nueve   |  noventa   |
+|  noventa y uno   |  noventa y dos   |  noventa y tres   |  noventa y cuatro   |  noventa y cinco   |  noventa y seis   |  noventa y siete   |  noventa y ocho   |  noventa y nueve   |  cien     |
+| ciento uno | doscientos | trescientos | cuatrocientos | quinientos | seiscientos | setecientos | ochocientos | novecientos | mil |
+> 1.  numbers have masculine and feminine forms, and so they must agree with the noun.
+>
+> - ochocient**o**s libros
+> - ochocient**a**s personas
+>
+> 2. 1,000 is mil, not un mil. For un millón, you can't leave out the un.
+
+### Time
+
+| SPANISH             | ENGLISH                                        |
+| ------------------- | ---------------------------------------------- |
+| **de la madrugada** | *in the (early) morning* or *in the wee hours* |
+| **de la mañana**    | *in the morning*                               |
+| **de la tarde**     | *in the afternoon*                             |
+| **de la noche**     | *in the evening* or *at night*                 |
+| **a. m.**           | *a.m.*                                         |
+| **p. m.**           | *p.m.*                                         |
+| **en punto**        | *on the dot*                                   |
+| **más o menos**     | *around*                                       |
+| **medianoche**      | *midnight*                                     |
+| **mediodía**        | *noon*                                         |
+
+Y **mañana por la mañana** actually means **tomorrow morning**!
+
+#### La semana
+
+> **Los días de la semana son siete nada más.**
+>
+> There are only seven days of the week(The days of the week are only seven).
+
+| SPANISH       | ENGLISH     |
+| ------------- | ----------- |
+| **lunes**     | *Monday*    |
+| **martes**    | *Tuesday*   |
+| **miércoles** | *Wednesday* |
+| **jueves**    | *Thursday*  |
+| **viernes**   | *Friday*    |
+| **sábado**    | *Saturday*  |
+| **domingo**   | *Sunday*    |
+
+In Spanish, the days of the week are not capitalized.
+
+**¿Qué día es hoy, amigo?**
+
+- Hoy es **lunes**.
+
+To say **on Monday** or **on Saturday**, use **el** before the day of the week.
+
+La fiesta es **el** viernes.
+
+* The party is on Friday.
+
+#### Months
+
+**la primavera**/**el verano**/**el otoño**/**el invierno**
+
+spring/summer/autumn/winter
+
+| SPANISH        | ENGLISH     |
+| -------------- | ----------- |
+| **enero**      | *January*   |
+| **febrero**    | *February*  |
+| **marzo**      | *March*     |
+| **abril**      | *April*     |
+| **mayo**       | *May*       |
+| **junio**      | *June*      |
+| **julio**      | *July*      |
+| **agosto**     | *August*    |
+| **septiembre** | *September* |
+| **octubre**    | *October*   |
+| **noviembre**  | *November*  |
+| **diciembre**  | *December*  |
+
+#### O'Clock
+
+You can use these formulas for talking about **la una**(*one o'clock*)
+
+The following can all be used to say It's ___ o'clock or It's (hour) (minute).
+
+- **es** + **la** + **una** + minutes
+- **es** + **la** + **una** + **y** + minutes
+- **es** + **la** + **una** + **con** + minutes
+
+You can use these formulas for talking about the hours from two to twelve.
+
+- **son** + **las** + number from two to twelve + minutes
+- **son** + **las** + number from two to twelve + minutes
+- **son** + **las** + number from two to twelve + minutes
+
+This formula can be used to say **It's  XX minutes until/'til XX hour.**
+
+- **es la/son las** + **number** + **menos** + minutes
+
+- Son las once menos cinco. (It's five minutes to eleven.)
+
+To indicate that it's half past the hour in Spanish, use the phrase **y media**
+To indicate that it's a quarter past the hour, use the phrase **y cuarto**
+To indicate that it's a quarter 'til the hour, use the phrase **menos cuarto**
+
+### Festivals
+
+¿Cuándo es tu **cumpleaños**?
+
+When is your birthday?
+
+¡Mañana es mi **cumpleaños**!
+
+* Tomorrow is my birthday!
+
+### Useful Phrases
 
 #### Age
 
@@ -45,123 +142,7 @@ Yo **tengo** diez años.
 
 I am ten years old.
 
-### Days
-
-**mañana por la mañana** actually means **tomorrow morning**!
-
-#### La semana
-
-In Spanish, the days of the week are not capitalized.
-
-Hoy es **lunes**.
-
-* Today is Monday.
-
-To say **on Monday** or **on Saturday**, use **el**before the day of the week.
-
-La fiesta es **el** viernes.
-
-* The party is on Friday.
-
-**lunes** Monday
-
-**martes** Tuesday
-
-**miércoles** Wednesday
-
-**jueves** Thursday
-
-**viernes** Friday
-
-**sábado** Saturday
-
-**domingo** Sunday
-
-**la primavera**
-
-spring
-
-**el verano**
-
-summer
-
-**el otoño**
-
-autumn
-
-**el invierno**
-
-winter
-
-```text
-el 29 de febrero de 1996
-February 29, 1996
-​
-29.2.96
-2/29/96
-```
-
-### Months
-
-* **nero**
-
-  January
-
-* **febrero**
-
-  February
-
-* **marzo**
-
-  March
-
-* **abril**
-
-  April
-
-* **mayo**
-
-  May
-
-* **junio**
-
-  June
-
-* **julio**
-
-  July
-
-* **agosto**
-
-  August
-
-* **septiembre**
-
-  September
-
-* **octubre**
-
-  October
-
-* **noviembre**
-
-  November
-
-* **diciembre**
-
-  December
-
-### Festivals
-
-¿Cuándo es tu **cumpleaños**?
-
-When is your birthday?
-
-¡Mañana es mi **cumpleaños**!
-
-* Tomorrow is my birthday!
-
-### Phrases
+---
 
 **¿Qué día es tu fiesta de cumpleaños?**
 
