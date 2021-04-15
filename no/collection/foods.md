@@ -7,10 +7,10 @@ description: Heter du Marius?
 In this skill, you'll learn the verb **lager**, which translates to _make_. There's no separate verb for cooking, instead, we use **lager mat**, literally _make food_.
 
 > **Han lager mat**. He is cooking.
-
+>
 > the food: maten
 
-#### Measure Words
+## Measure Words
 
 Remember that in Norwegian, the word for _of_, **av**, is omitted where one would normally use it in English to join a measure word with another noun.
 

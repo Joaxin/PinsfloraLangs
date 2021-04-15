@@ -1,20 +1,20 @@
 # Introduction
 
-### Tips
+## Tips
 
- Russian does not have articles, nor does it normally use the verb “to be” in the Present tense.
+Russian does not have articles, nor does it normally use the verb “to be” in the Present tense.
 
- AN **EM-DASH** IS USED INSTEAD OF "THE VERB “TO BE” BETWEEN THE TWO NOUNS: «МОККА — КОФЕ» \("A MOCHA IS COFFEE"\).
+AN **EM-DASH** IS USED INSTEAD OF "THE VERB “TO BE” BETWEEN THE TWO NOUNS: «МОККА — КОФЕ» \("A MOCHA IS COFFEE"\).
 
- What is **EM-DASH**？
+What is **EM-DASH**？
 
- In **TeX**：
+In **TeX**：
 
- 　for a hyphen, type a hyphen \(-\); 　　　for an en-dash, type two hyphens \(--\); 　　　for an em-dash, type three hyphens \(---\); 　　　for a minus sign, type a hyphen in mathematics mode \($-$\).
+for a hyphen, type a hyphen \(-\); for an en-dash, type two hyphens \(--\); for an em-dash, type three hyphens \(---\); for a minus sign, type a hyphen in mathematics mode \($-$\).
 
-### Alphabet \(Алфавит, alfavit\)
+## Alphabet \(Алфавит, alfavit\)
 
- Russian uses a version of the **Cyrillic** Alphabet. Many letters look similar to their Latin counterparts. As Cyrillic typography was remodeled around 300 years ago, both alphabets have a similar style.
+Russian uses a version of the **Cyrillic** Alphabet. Many letters look similar to their Latin counterparts. As Cyrillic typography was remodeled around 300 years ago, both alphabets have a similar style.
 
 | Captilize | Lowercase | Latin / Greek |
 | :--- | :--- | :--- |
@@ -52,13 +52,13 @@
 | 32. Ю | ю | Yu |
 | 33. Я | я | Ya |
 
-### LETTERS AND SOUNDS
+## LETTERS AND SOUNDS
 
- **К**, **О**, **М**, **Т**, **А** sound similar to their Latin counterparts \(to be more precise, "о" is the sound in "more"\). However, in handwriting and typed italics, the letter **Т** can look rather like a lower case 'm' in the Latin alphabet. E.g. in the verb _просить_ \(to ask for, to request\), _т_ = t.
+**К**, **О**, **М**, **Т**, **А** sound similar to their Latin counterparts \(to be more precise, "о" is the sound in "more"\). However, in handwriting and typed italics, the letter **Т** can look rather like a lower case 'm' in the Latin alphabet. E.g. in the verb _просить_ \(to ask for, to request\), _т_ = t.
 
- **Е** actually sounds more like "ye", as in "yell", not as in "Hear ye, hear ye!" \(this will work for now; it's more complicated after a consonant\).
+**Е** actually sounds more like "ye", as in "yell", not as in "Hear ye, hear ye!" \(this will work for now; it's more complicated after a consonant\).
 
- **В** sounds like 'v', **Б** sounds like 'b'. **Н** is "n" and **И** is "i" \('eeh'\). The remaining letters are included in the table below:
+**В** sounds like 'v', **Б** sounds like 'b'. **Н** is "n" and **И** is "i" \('eeh'\). The remaining letters are included in the table below:
 
 |  |  |  |
 | :--- | :--- | :--- |
@@ -85,7 +85,7 @@
 
 ![a picture with a table of Russian letters](https://cdn.jsdelivr.net/gh/joaxin/img_bed/img/duo/ru/ru_letters.png)
 
-### CASES AND WORD ORDER
+## CASES AND WORD ORDER
 
 Russian is an inflected language, so the forms of nouns and modifying adjectives correspond to their role in the sentence.
 
@@ -100,9 +100,9 @@ That includes words like “here”, “in this way”, “then” and so on.
 
 Unlike English, adverbs are NOT universally grouped at the end. So pay attention to the typical positions for the expressions of time, place and manner. Eg. “very much” is typically in the end-position in English, but in Russian it is just before the thing that is "very" or “very much”:
 
-* _She likes to read \*_very much**\* = Она́** о́чень\*\* лю́бит чита́ть
+* \_She likes to read \*\_very much**\* = Она́** о́чень\*\* лю́бит чита́ть
 
-### VOWEL REDUCTION
+## VOWEL REDUCTION
 
 Like in English, vowel letters aren't _all_ pronounced just like in the alphabet. In Russian, unstressed syllables have vowels _reduced_:
 
@@ -114,7 +114,7 @@ So, when a vowel is not stressed, it becomes weaker, somewhat shorter, and also 
 
 The unstressed syllable is strongest just before the stress. In all other places it is even weaker than that \(though, some long words, especially compounds, may acquire a secondary stress\). This makes the system different from the English one, where stronger and weaker syllables tend to alternate.
 
-### MORE ON THE CASE SYSTEM
+## MORE ON THE CASE SYSTEM
 
 For now, we only study simple sentences that either use the dictionary form, the _Nominative_ case, or use the _Accusative_ \(direct object of an action\), which has the same form for many classes of nouns.
 
@@ -131,7 +131,7 @@ As you can see, these names are of little use until you know what sentence, verb
 
 * some nouns of foreign origin are _indeclinable_, i.e. all their forms are the same. This includes words like метро, Дженни or кафе.
 
-### _I have a cat_
+## _I have a cat_
 
 English prefers to express ownership and “possession” with the verb “have”. In Russian “existence” is almost universally used instead \(in the official/academic style «иметь» _to have_ is OK to use\).
 
@@ -141,11 +141,11 @@ Use it like that:
 
 The owner is in the _Genitive case_ \(more on that later\) while X is formally the subject. For now we will only study the Genitive form for some pronouns.
 
-### _You \*_have_\* wonderful eyes!_
+## _You \*\_have_\* wonderful eyes!\_
 
 **Omit ”есть”** if the _existence_ of the object is obvious or not the point — very typical for describing traits or a number of objects \(“Tom has a beautiful smile/large eyes”, “She has a very fat cat”\). This also applies to expressing temporary states and illnesses \(“She has a migraine”\).
 
-### _I eat/ She eat\*_s\*\*\*
+## \_I eat/ She eat\*\_s\*\*\*
 
 In English, the only way a verb changes in the present tense is that you add -s for the 3rd person singular. In Russian, all 6 forms are different and fit two regular patterns.
 
@@ -153,7 +153,7 @@ However, **eat** «есть» and **want** «хоте́ть» are two of the fou
 
 Note that the "present" tense is formed from one stem and the "past" and infinitive from the second one. In general, these two are slightly different. For now, don't worry about the infinitive stem.
 
-### Hard and soft
+## Hard and soft
 
 Russian consonants are split into two groups of 15, which are pronounced in two different ways, _palatalized_ \(aka "soft"\) and _non-palatalized_ \(aka "hard"\). We'll stick to the shorter "soft" and "hard" \(sorry\).
 
@@ -171,7 +171,7 @@ To show you how it works, here is an example, using an ad-hoc transcription:
 
 There are dictionaries \(«орфоэпический словарь»\) that show the recommended pronunciation of words and contain general pronunciation rules, too.
 
-### Voicing
+## Voicing
 
 Some consonants let your voice come out immediately \(voiced\) while others wait for the release of the consonant and only then let your voice escape \(unvoiced\). In Russian there are 6 pairs of such consonants: Б/П, В/Ф, Г/К, Д/Т, Ж/Ш, З/С.
 
@@ -182,7 +182,7 @@ Some consonants let your voice come out immediately \(voiced\) while others wait
 
 **UNLIKE UKRAINIAN, RUSSIAN ONLY USES \[Ɣ\], \[ДЖ'\] AND \[ДЗ\] AS VOICED VARIANTS OF Х, Ч, Ц. UKRAINIAN HAS THEM AS FULL-FLEDGED CONSONANTS—THE ONES THAT ARE AN INTRINSIC PART OF A WORD AND CAN APPEAR ANYWHERE.**
 
-### Excerpt
+## Excerpt
 
 анна \(anna\)
 
@@ -202,7 +202,7 @@ Some consonants let your voice come out immediately \(voiced\) while others wait
 
 Они `не` женщин**ы**. \(They are not women. \) \[Oni ne zhenshchiny\]
 
-`наше`  такси \(our taxi\) \[nashe  taksi \]
+`наше` такси \(our taxi\) \[nashe taksi \]
 
 Это наш мальчик. \(This is our boy.\)
 
@@ -304,7 +304,7 @@ Some consonants let your voice come out immediately \(voiced\) while others wait
 
 цирк \(circus\)
 
- в метро \(in the subway\)
+в метро \(in the subway\)
 
 яйцо \(egg\) \[yaytso\]
 

@@ -4,9 +4,7 @@ description: Basics and Phrases 4 High Valyrian
 
 # Introduction
 
-
-
-#### JIŌRNA!
+## JIŌRNA!
 
 High Valyrian is the language of the old Valyrian Freehold, a thriving civilization destroyed by a mysterious cataclysm centuries before the action of _Game of Thrones_ begins. It was a language of dragon tamers and warriors, but is now a language of refinement and education—a memory of a bygone era. It's the language of **the Mad King Aerys, of Aegon the Conqueror, and of Daenerys Targaryen, Mother of Dragons**.
 
@@ -118,25 +116,25 @@ As you begin your study of Valyrian, you may want to know how the Roman letters 
 
 **Note:** As a shortcut, you can type a double version of the vowel to stand in for a vowel with a macron. Thus, if you type **yy** it will be understood as **ȳ** by Duolingo.
 
-#### SINGULAR AND PLURAL
+## SINGULAR AND PLURAL
 
 In this lesson you'll be learning the singular and plural pairs for some common words. In High Valyrian there are a number of pluralization strategies, so pay close attention to the ending of each word you learn.
 
 High Valyrian is a language whose nouns inflect for gender, number, and case. Adjectives will agree with all three of these elements. In this lesson, you'll only be focusing on plural agreement; other types of agreement will come later.
 
-#### ADJECTIVE PLACEMENT
+## ADJECTIVE PLACEMENT
 
 Adjectives most commonly precede the nouns they modify, but they _may_ follow the nouns they modify either for stylistic reasons, or to prevent overcrowding. Thus, if you have _sȳz_ which means "good", then "good man" can be translated as _sȳz vala_ or _vala sȳz_.
 
-#### SIMPLE COORDINATION
+## SIMPLE COORDINATION
 
 High Valyrian doesn't use a word like "and" when coordinating two _non-modifying consecutive_ elements. Instead, the last word in a pair or trio of nouns, adjectives, or even verbs is modified in some way to indicate that it is participating in a coordinative structure. One common strategy is to lengthen the final vowel of the last word in a list and shift the word's stress to the end. Watch out for word-final long vowels in sentences with coordination!
 
-#### PRO-DROP
+## PRO-DROP
 
 You'll be learning some High Valyrian pronouns later. For now, if you see a verb, the subject will either be listed first, or will be a pronoun not present. Take, for example, the sentence _Vala issa_. Translated simply, it _could_ mean "The man is", but that's not a very useful sentence. A better translation would be "He is a man", where "he" is simply not necessary.
 
-#### YES AND NO
+## YES AND NO
 
 You may recognize the word for "yes" from the previous lesson. In fact, it's identical to the word for "is". In High Valyrian, what we translate as "yes" is more accurately translated as "it is".
 
@@ -144,7 +142,7 @@ You may recognize the word for "yes" from the previous lesson. In fact, it's ide
 
 Negation is a bit more complex in High Valyrian than other languages, so you'll be learning about it later.
 
-#### STRESS
+## STRESS
 
 High Valyrian words are stressed most commonly on the penultimate \(second-to-last\) syllable. When the antepenultimate \(third-to-last\) syllable is heavy \(i.e. it contains a long vowel, a diphthong, or ends with a consonant\), _and_ the penultimate syllable is light \(i.e. it contains a short vowel with no coda consonant\), then the antepenultimate syllable is stressed.
 

@@ -2,7 +2,7 @@
 
 Finnish spelling rules are so simple that Finnish children never have to worry about participating in spelling bee competitions. There, quite simply, is no need for them.
 
-#### **Vowels**
+## **Vowels**
 
 The Finnish vowels always sound the **same** regardless of their place in the word. The instructions refer to General American English unless stated otherwise.
 
@@ -19,7 +19,7 @@ The Finnish vowels always sound the **same** regardless of their place in the wo
 
 The dots above Ä and Ö are **NOT** accents nor stress marks used to modify A and O. The two letters stand for distinct sounds made in the front part of the mouth, whereas the sounds represented by the dotless letters are produced at the back. Forgetting your dots results either in incomprehensible gobbledygook or in some wholly unrelated word. It is better to tell someone that they are _hellä_ \(tender, gentle\) than to call them _hella_ \(kitchen stove\).
 
-#### **GOOOOAAAAL!**
+## **GOOOOAAAAL!**
 
 **Long vowels** are written with double letters. They are the same sounds as the single letter ones but longer. If you get the length wrong, there is a risk of either being misunderstood or not being understood at all. If your biology paper is _tuulessa_, the wind has caught it. If it is _tulessa_, it is on fire. If your language doesn’t have a long sound found in Finnish, a good way to practice is to take the corresponding short sound and stretch it like an excited sports announcer after a goal or a touchdown.
 
@@ -36,7 +36,7 @@ The dots above Ä and Ö are **NOT** accents nor stress marks used to modify A a
 
 Foreign names and loanwords sometimes defy these rules. For example, _Chile_ has a long I in the middle and _duo_ has a long U.
 
-#### **Consonants**
+## **Consonants**
 
 Let's aspire to not aspirate. **Aspiration** is a feature in Germanic languages, which can be found in most varieties of English. It means releasing a concise but violent puff of air while producing the sounds \[k\], \[p\], and \[t\] beginning stressed syllables, as in _kind_, _pampered_, _tomcat_. However, when one of these three sounds appears after the sound \[s\], or ends a syllable, the sounds are **unaspirated**, as in _skydiving_, _wasp_, _stung_, or _Mick_, _lip_, _fat_. In Finnish, \[k\], \[p\], and \[t\] are **always unaspirated** regardless of their place in the word. Native English speakers from India, Pakistan, and some parts of Africa often pronounce the sounds like Finns do - no huffing and puffing.
 
@@ -65,7 +65,7 @@ The instructions refer to General American English unless stated otherwise.
 | X | \[ks\] | extremely rare; always as in "E**x**terminate!", never as in "e**x**istence" | e**x**-partneri |
 | Z | \[ts\] | rare and found only in loanwords; as in "papara**zz**i", never as in "**z**one" | **z**en, gorgon**z**ola |
 
-#### **Seeing double**
+## **Seeing double**
 
 **Long consonant sounds** are marked by double letters or ng. The Finnish double letter sounds are very similar to those found in Italian. Splitting words with long consonants into syllables usually helps those with trouble pronouncing them: _alt-to_, _mok-ka_, _karamel-li_, _bas-so_.
 
@@ -83,13 +83,13 @@ The instructions refer to General American English unless stated otherwise.
 
 In spoken language and some loanwords BB, DD, FF, GG, HH, JJ, and VV are also possible.
 
-#### **Happily married**
+## **Happily married**
 
 Finnish **diphthongs and vowel unions** are blissfully happy. The letters in them represent the same sounds they stand for on their own. For example,
 
 > **a + u = au** \[ɑ\] + \[u\] = \[ɑu\].
 
-#### **Stressed for success**
+## **Stressed for success**
 
 In words that have three or fewer syllables, the stress is always on the first syllable. Unlike in English, the place of the stress does not affect the quality of the sounds.
 
@@ -97,7 +97,7 @@ In words that have three or fewer syllables, the stress is always on the first s
 
 This applies to Standard Finnish and many of the southern dialects. Most other forms of Finnish are considerably "bouncier".
 
-#### **Words are wind**
+## **Words are wind**
 
 Whenever **the letter H** appears in some other place than the beginning of the word, it should be pronounced more violently, or the listener may interpret it as a long vowel, or not notice it at all. They may think that you are lamenting how quickly the past few weeks, _viikot_, have gone, when you actually need new notebooks, _vihkot_. Or that you are going to visit your friend Pia instead of going to your yard, _piha_. To find the right sounds, imitate the wind howling on a snowy plain and observe how the movement of air changes the sound.
 

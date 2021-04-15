@@ -8,7 +8,7 @@ description: Just to keep learning things interesting. Jeg er glad du er glad.
 
 Norwegian is a language with `simpler grammar` than many other European languages, but it is still a gendered language with three grammatical genders: masculine, feminine and neuter.
 
-### Grammatical Gender
+## Grammatical Gender
 
 | Masculine | Feminine | Neuter |
 | :--- | :--- | :--- |
@@ -24,7 +24,7 @@ Norwegian is a language with `simpler grammar` than many other European language
 
 The choice really is up to you! Both **en kvinne** and **ei kvinne** are grammatically correct, and the tendency to use the feminine gender depends on geography and dialect. We have decided to teach it where it is most natural to use it, with words such as **en jente** meaning _girl_, for example.
 
-### Pronouns & Conjugation
+## Pronouns & Conjugation
 
 Norwegian pronouns are very straightforward and correspond well to English ones:
 
@@ -69,7 +69,7 @@ Conjugation couldn't be simpler. All conjugated verbs have an `-r stem` in the p
 |  |  |  |  |
 |  |  |  |  |
 
-### Pronunciation
+## Pronunciation
 
 As a general rule, words are spelled as they're pronounced in Norwegian. One exception is words beginning with **hv**, such as **hva**, meaning _what_. In this word, the **h** is silent.
 
@@ -103,7 +103,7 @@ In addition, there are several letters and letter combinations that are pronounc
 | V | \[v\] |
 | Y | \[y\] or \[ʏ\], like the _e_ in _email_, but more closed |
 
-#### Norwegian vowels
+### Norwegian vowels
 
 Norwegian also has three special Norwegian vowels, **Æ**, **Ø** and **Å**.
 
@@ -121,7 +121,7 @@ Norwegian also has three special Norwegian vowels, **Æ**, **Ø** and **Å**.
 | **Ø** | OE |
 | **Å** | AA |
 
-#### Special Notes on Common Words
+### Special Notes on Common Words
 
 | Norweg. | Meaning | Pronunciation |
 | :--- | :--- | :--- |
@@ -130,7 +130,7 @@ Norwegian also has three special Norwegian vowels, **Æ**, **Ø** and **Å**.
 | **det** | it, that | _deh_, silent _t_ |
 | **de** | they | _dee_ |
 
-### Definite Forms
+## Definite Forms
 
 The definite form, _the man_, _the woman_, et cetera, is formed by attaching the indefinite article onto the end of the noun. This ending is called a postfix or a suffix.
 
@@ -161,7 +161,7 @@ It is also normal to use the masculine article "en" for indefinite forms, even w
 | en jente | _a girl_ | jenta | _the girl_ |
 | en øy | _an island_ | øya | _the island_ |
 
-### Plurals
+## Plurals
 
 With few exceptions, most masculine or feminine nouns \(most nouns\) pluralize with **-er** or **-r**.
 
@@ -204,7 +204,7 @@ Here are some additional common irregular plurals, a couple of which are also ir
 | tann | tenner | _tooth - teeth_ |
 | tre | trær | _tree - trees_ |
 
-### Question Words
+## Question Words
 
 | Norwegian | English |
 | :--- | :--- |
@@ -214,7 +214,7 @@ Here are some additional common irregular plurals, a couple of which are also ir
 
 Isn't it neat how they all resemble their English counterparts? You've probably noticed by now that English and Norwegian have many things in common, both when it comes to grammar and vocabulary. This is because they're closely related Germanic languages.
 
-### Words
+## Words
 
 | **Vocabulary** | Meaning in English |
 | :--- | :--- |

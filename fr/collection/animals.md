@@ -1,6 +1,6 @@
 # Animals
 
-### Noun Genders
+## Noun Genders
 
 As you learned in "Basics 1", French has two grammatical genders: masculine and feminine. All nouns have a gender, and most nouns have a fixed gender. For instance, la pomme is always feminine and un bébé \("a baby"\) is always masculine, even for baby girls.
 
@@ -24,7 +24,7 @@ Third: Nouns with these endings are usually masculine, although they end in -e:
 
 -é is masculine, but -té is feminine. le résumé \(masc\) — the resumé la liberté \(fem\) — the liberty -de is masculine, but -ade, -nde, and -ude are feminine. le guide — the guide la parade — the parade -ste and -me tend to be masculine, but there are dozens of exceptions. Words for people ending in -ste are often gender-neutral, e.g. le/la cycliste. -eur is masculine for most professions or technical terms, but it's feminine for some emotions and abstract things. le chauffeur — the driver la peur — the fear That's it! Memorize these, and you'll be able to guess most noun genders.
 
-### Feminine Animals
+## Feminine Animals
 
 In French, female animal nouns are generally formed as follows by taking the last consonant, doubling it, and adding a mute -e to the end.
 

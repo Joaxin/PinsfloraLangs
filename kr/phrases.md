@@ -4,7 +4,7 @@ Common Phrases
 
 Tips and notes
 
-### **Speech Level**
+## **Speech Level**
 
 Korean has **7** speech levels.
 
@@ -20,7 +20,7 @@ Throughout these Tips&Notes, we usually talk about verbs in the infinitive, whic
 
 More on this form in **Verbs 1**.
 
-### **Chinese Loanwords**
+## **Chinese Loanwords**
 
 Korean, like most languages in East Asia, has a lot of loanwords from Chinese.
 
@@ -32,11 +32,11 @@ Unlike in Japanese, where one Chinese character \(한자\) may have multiple pro
 
 It should be noted that most of these words were initially borrowed hundreds of years ago, so they don't match Mandarin pronunciation 100%. Sometimes the Korean is closer to Cantonese or Shanghainese.
 
-### **Phrases**
+## **Phrases**
 
 Most pleasantries \(hello, thank you, excuse me, etc\) in Korean are a single word. You don't need to form a whole sentence when the listener knows what you mean, and so often just the verb is used
 
-### **Thank You**
+## **Thank You**
 
 A few words on thank you. We have two versions here in Phrases 1, **고맙다** and **감사하다**.
 
@@ -44,23 +44,23 @@ In most cases, the two are interchangeable. When there is a difference, 감사�
 
 Also **감사하다** literally means "to thank," while 고맙다 is "to be thankful," so that can also lead to some differences in usage.
 
-### **Sorry and Excuse Me**
+## **Sorry and Excuse Me**
 
 죄송하다 is a more formal form of apology. We'll introduce the other form later on in the course when we get to the next speech level.
 
 실례하다 is the word you'd use if you're trying to get past someone on a crowded subway or if you bump into someone. 실례합니다 literally means "I am being rude," so in other situations there are other alternatives that we will be teaching later on.
 
-### **Nice to Meet You**
+## **Nice to Meet You**
 
 Nice to meet you, **만나서 반갑습니다**, is a set phrase that literally means "Glad to have met."
 
-### Colloquial
+## Colloquial
 
 안녕하세요 \(hello\)
 
 안녕하십니까? \(hello?\)
 
-안녕**/**안녕하십니까  \(Hi!\)
+안녕**/**안녕하십니까 \(Hi!\)
 
 환영합니다! \(welcome\)
 
@@ -74,5 +74,5 @@ Nice to meet you, **만나서 반갑습니다**, is a set phrase that literally 
 
 `처음 뵙겠습니다!`, 만나서 반갑습니다! \(Nice to meet you! \)
 
- 괜찮아 **/** 괜찮습니다. \( I'm okay. \)
+괜찮아 **/** 괜찮습니다. \( I'm okay. \)
 

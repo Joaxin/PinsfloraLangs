@@ -4,7 +4,7 @@ description: 'אבא, אהבה באה?'
 
 # Introduction
 
-### Welcome to the Hebrew course!
+## Welcome to the Hebrew course!
 
 We are very excited that you have chosen to learn Hebrew. Remember that you can access the Tips and Notes from a lesson at any time by clicking the top-left corner, or by clicking the lightbulb if you are using Duolingo with skill levels enabled.
 
@@ -12,7 +12,7 @@ Before we get started, just be aware that the Hebrew language is written from **
 
 ![img](http://imgur.com/qOMGBjM.png?1)
 
-### The Hebrew Alphabet
+## The Hebrew Alphabet
 
 In Hebrew there are 22 letters, some of their sounds exist in English and some don't. A few letters have an ending form - that means that those letters look different when written at the end of a word \(their pronunciation **does not change**\).
 
@@ -49,7 +49,7 @@ Each letter is given with the pronunciation in the International Phonetic Alphab
 
 \*\*A common example for the use of "א" as a silent letter is the word לא \(/lo/\), which means "no".
 
-### The letter "vav" \(ו\)
+## The letter "vav" \(ו\)
 
 The basic sound of the letter "vav" is "v". However, it is also used in Hebrew as the vowel "u" and "o".
 
@@ -58,7 +58,7 @@ For example:
 * א**ו**הב = \(**o**hev\).
 * ה**ו**א = \(h**u**\).
 
-### Articles
+## Articles
 
 Hebrew has only a definite article \(_i.e. "the"_\). This means that there are no indefinite articles \(i.e. "a/an"\). In order to add the definite article to a noun we simply attach the letter ה to the beginning of the noun.
 
@@ -70,7 +70,7 @@ For example:
 
 \(Throughout the notes we add accents \[like these: áéíóú\] merely to show which syllable is stressed. In this case **ye**led and not ye**led**\)
 
-### Connecting words
+## Connecting words
 
 In order to connect words in Hebrew using the word "and", we attach the letter **ו** \(vav\) to the beginning of the second word. When using it to connect words, the letter **ו** will usually sound like "ve".
 
@@ -84,7 +84,7 @@ We can also use both **ה** and **ו** together \("the" and "and"\):
 
 והילד = ו + ה + ילד - **and the** boy \(**ve-ha**-yeled\)
 
-### Yes/No questions
+## Yes/No questions
 
 Yes/No questions in Hebrew do not change the sentence structure. You can simply add a question mark in writing, and in speech, you can use a questioning intonation.
 
@@ -102,7 +102,7 @@ For example:
 >
 > ?האם אני אבא \(ha-ím aní ába?\) - Am I a father?
 
-### The verbs "לבוא" and "לאהוב"
+## The verbs "לבוא" and "לאהוב"
 
 In this lesson we come across our first two verbs - לבוא \(to come\) and לאהוב \(to love/like\). We are not going to teach verb conjugation yet, but just to clarify what we're dealing with:
 
@@ -112,6 +112,5 @@ In this lesson we come across our first two verbs - לבוא \(to come\) and ל�
 
 אוהב \(ohév\) - "loves/likes" for singular _masculine_ nouns.
 
-אוהבת \(ohévet\) - "loves/likes" for singular _feminine_ nouns.  
-
+אוהבת \(ohévet\) - "loves/likes" for singular _feminine_ nouns.
 

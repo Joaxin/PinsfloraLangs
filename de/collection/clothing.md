@@ -8,7 +8,7 @@ In a simple German sentence, the verb is the second chunk of the sentence! As yo
 
 \[**Das Mädchen**\] \[**trägt**\] \[**einen Hut**\]. The girl wears a hat.
 
- \[**Frauen und Männer**\] \[**haben**\] \[**Schmuck**\]. Women and men have jewelry.
+\[**Frauen und Männer**\] \[**haben**\] \[**Schmuck**\]. Women and men have jewelry.
 
 > Remember that **die Hose** is a singular item in German. So you say **Die Hose** **ist** **groß**, not **sind**!
 

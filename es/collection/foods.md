@@ -7,7 +7,7 @@ description: >-
 
 # Foods
 
-### A sandwich of fish
+## A sandwich of fish
 
 In English, we might ask for **a cup of coffee**. In Spanish, you do the same thing.
 
@@ -37,7 +37,7 @@ Un café con leche. \(A coffee with milk\)
 
 Una hamburguesa con queso. \(A burger with cheese.\)
 
-### Un restaurante español
+## Un restaurante español
 
 Una mesa para tres personas.
 
@@ -48,8 +48,6 @@ A simple way to ask for the check in Spanish is to say **La cuenta, por favor.**
 Quiero pagar el cheque / la cuenta. \(I want to pay the check.\)
 
 Tengo que pagar **/** Yo requiero pagar **/** Yo necesito pagar. . \(I need to pay.\)
-
----
 
 | Spanish |  | Spanish |  |
 | :--- | :--- | :--- | :--- |
@@ -82,19 +80,19 @@ Tengo que pagar **/** Yo requiero pagar **/** Yo necesito pagar. . \(I need to p
 | el tostado | toast | las \(patatas\) fritas | fries |
 |  |  | la mayonesa | mayonnaise |
 
-###La bebida
+## La bebida
 
-> Order a drink or quench your thrist while traveling：)
+> Order a drink or quench your thrist while traveling：\)
 
-| Spanish          |         | Spanish                      |            |
-| ---------------- | ------- | ---------------------------- | ---------- |
-| el café/espresso | coffee  | la gaseosa                   | soft drink |
-| el té            | tea     | Jugo de fruta/toronja/tomate | /          |
-| el jugo          | juice   | Jugo de manzana/naranja      | /          |
-| el alcohol       | alcohol | la coca cola                 | /          |
-| el vino          | wine    | la cerveza                   | beer       |
+| Spanish |  | Spanish |  |
+| :--- | :--- | :--- | :--- |
+| el café/espresso | coffee | la gaseosa | soft drink |
+| el té | tea | Jugo de fruta/toronja/tomate | / |
+| el jugo | juice | Jugo de manzana/naranja | / |
+| el alcohol | alcohol | la coca cola | / |
+| el vino | wine | la cerveza | beer |
 
-### La fruta
+## La fruta
 
 | Spanish |  | Spanish |  |
 | :--- | :--- | :--- | :--- |
@@ -106,7 +104,7 @@ Tengo que pagar **/** Yo requiero pagar **/** Yo necesito pagar. . \(I need to p
 | el durazno | peach | la lima | lime |
 | la pera | pear | la fresa | strawberry |
 
-### La Verduras
+## La Verduras
 
 | Spanish |  | Spanish |  |
 | :--- | :--- | :--- | :--- |
@@ -117,7 +115,7 @@ Tengo que pagar **/** Yo requiero pagar **/** Yo necesito pagar. . \(I need to p
 | el rábano | radish | la cebolla | onion |
 |  |  | la patata | potato |
 
-### La carne
+## La carne
 
 | Spanish |  | Spanish |  |
 | :--- | :--- | :--- | :--- |
@@ -126,6 +124,4 @@ Tengo que pagar **/** Yo requiero pagar **/** Yo necesito pagar. . \(I need to p
 | el pescado | fish | la ternera | veal |
 | el cordero | lamb | el pavo | turkey |
 | el cerdo | pork | el biftec | steak |
-
-
 

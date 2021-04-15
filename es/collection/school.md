@@ -14,7 +14,7 @@ Una maestr**a**, y una estudiante
 
 * a teacher and a student
 
- No, señor, yo no hablo francés.
+  No, señor, yo no hablo francés.
 
 * No, sir, I do not speak French.
 
@@ -23,10 +23,6 @@ Ellos no son estudiantes de inglés.
 * They are not English students.
 
 Un hombre español. \(A Spanish man. \)
-
-
-
-
 
 Una escuela. \(A school\)
 
@@ -40,7 +36,7 @@ Una clase importante. \(An important class\)
 
 Mi libro. \(My book\)
 
- La biblioteca tiene ocho computadoras. \( The library has eight computers. \)
+La biblioteca tiene ocho computadoras. \( The library has eight computers. \)
 
 La biblioteca tiene muchos libros. \(The library has a lot of books. \)
 
@@ -79,3 +75,4 @@ Tengo muchos amigos en esta clase. \(I have a lot of friends in this class. \)
 Tengo algunas preguntas para el maestro. \(I have some questions for the teacher. \)
 
 No necesito unas vacaciones. \(I do not need vacations.\)
+

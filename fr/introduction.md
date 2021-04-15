@@ -1,6 +1,6 @@
 # Introduction
 
-### Genders
+## Genders
 
 French has two grammatical genders: **masculine** and **feminine**.
 
@@ -26,12 +26,12 @@ le français
 
 Le Petit Prince
 
-### Articles
+## Articles
 
 ```text
 **Articles** (e.g. "the" or "a") provide context for a noun. In English, articles may be omitted, but French nouns almost always have an article.
 ​
- French has three types of articles: 
+ French has three types of articles:
 ```
 
 * **Definite articles** \(the\) : nouns that are known to the speakers / the general sense of a noun
@@ -44,7 +44,7 @@ Le Petit Prince
 | Indefinite | un | une | des | **une** _femme_ — a woman |
 | Partitive | du/de l' | de la/de l' |  | **de l**'eau— \(some\) water |
 
-### Personal Subject Pronouns
+## Personal Subject Pronouns
 
 The **subject** is the person or thing that performs an action or is being described.
 
@@ -61,7 +61,7 @@ Notice above that the verb **manger** \(as well as its English equivalent, "to e
 | vous | êtes | mangez | avez | parlez | lisez | écrivez | buvez |
 | ils/elles | sont | mangent | ont | parlent | lisent | écrivent | biovent |
 
-### Elisions
+## Elisions
 
 _Le_ and _la_ become just **l'** if they're followed by a `vowel sound`. This is an example of **elision**, which is the removal of a vowel sound in order to prevent consecutive vowel sounds and make pronunciation easier.
 
@@ -69,10 +69,10 @@ Elisions are mandatory—for instance, _je aime_ is incorrect. It must be _j'aim
 
 _Tu_ can also be elided in casual speech, but not in writing.
 
-### Contractions
+## Contractions
 
 ```text
-In a **contraction**, two words combine to form one shortened word. For instance, the partitive article *du* is a contraction of the preposition *de* with *le*. 
+In a **contraction**, two words combine to form one shortened word. For instance, the partitive article *du* is a contraction of the preposition *de* with *le*.
 ```
 
 * _du pain_ — \(some\) bread
@@ -82,13 +82,13 @@ In a **contraction**, two words combine to form one shortened word. For instance
 * _de l'**a**nanas_ \[masc.\] — \(some\) pineapple
 * _de l'**e**au_ \[fem.\] — \(some\) water
 
-### Words Beginning with H
+## Words Beginning with H
 
 The letter H is always mute \(silent\) in French, but when H starts a word, it can act as a consonant \(aspirate\) or vowel \(non-aspirate\). For example, the H in _homme_ acts as a vowel. This means that "the man" must be written as _l'homme_.
 
 Conversely, an aspirate H doesn't participate in elisions or liaisons. It's usually found at the beginning of loanwords from German or other languages. For instance, "the hero" is _le héros_.
 
-### Plurals
+## Plurals
 
 ```text
 Many French words have plural forms. Plural nouns and adjectives can be formed by appending an *-s* to the singular, but remember that this *-s* is usually silent.
@@ -107,13 +107,13 @@ Many French words have plural forms. Plural nouns and adjectives can be formed b
 
 **Notes** : Not all adjectives change forms. For instance, _riche_ is the same for both masculine and feminine singular nouns.
 
-### _Tu_ or _Vous_?
+## _Tu_ or _Vous_?
 
 French has two words for the subject pronoun "you": **tu** and **vous**. For a singular "you", _tu_ should only be used for friends, peers, relatives, children, or anyone else who's very familiar to you.
 
 In all other cases and also for plurals, the more polite _vous_ should be used to show respect. When in doubt, use _vous_.
 
-### Gallicism
+## Gallicism
 
 `A gallicism is a phrase or grammatical construction peculiar to the French language`
 
@@ -126,10 +126,10 @@ When describing people and things with a noun after _être_ in French, you usual
 
 These pronouns aren't interchangeable. The basic rule is that you must use _ce_ when _être_ is followed by any determiner—for instance, an article or a possessive adjective\(my, your...\). Note that _c'est_ should be used for singulars and _ce sont_ should be used for plurals.
 
-* _C'est \*_un_\* homme._ — He's a man. / This is a man. / That is a man.
-* _Ce sont \*_des_\* chats._ — They're cats. / These are cats. / Those are cats.
-* _C'est \*_la_\* fille._ — She is the girl. / This is the girl. / That is the girl.
-* _Ce sont \*_les_\* femmes._ — They are the women. / These are the women. / Those are the women.
+* _C'est \*\_un_\* homme.\_ — He's a man. / This is a man. / That is a man.
+* _Ce sont \*\_des_\* chats.\_ — They're cats. / These are cats. / Those are cats.
+* _C'est \*\_la_\* fille.\_ — She is the girl. / This is the girl. / That is the girl.
+* _Ce sont \*\_les_\* femmes.\_ — They are the women. / These are the women. / Those are the women.
 
   If an adjective, adverb, or both appear after _être_, then use the personal pronoun.
 
@@ -138,14 +138,14 @@ These pronouns aren't interchangeable. The basic rule is that you must use _ce_ 
 
   As you know, nouns generally need determiners, but one important exception is that professions can act as adjectives after _être_. This is optional; you can also choose to treat them as nouns.
 
-* He is a doctor. — _Il est médecin._ / _C'est \*_un_\* médecin._
+* He is a doctor. — _Il est médecin._ / _C'est \*\_un_\* médecin.\_
 
   However, _c'est_ should be used when using an adjective to make a general comment about \(but not describe\) a thing or situation. In this case, use the masculine singular form of the adjective.
 
 * _C'est normal ?_ — Is this normal?
 * _Non, c'est étrange._ — No, this is strange.
 
-### To Be and To Have
+## To Be and To Have
 
 _Être_ and _avoir_ are the most common verbs in French. Like many common verbs, they have irregular conjugations.
 
@@ -162,7 +162,7 @@ One of the most common idioms in French is the use of the verb _avoir_ in certai
 * _Elle a deux ans._ — She is two years old.
 * _J'ai peur !_ — I am afraid!
 
-### Continuous Tenses
+## Continuous Tenses
 
 English has two present tenses: **simple** \("I write"\) and **continuous** \("I am writing"\), but French has no specialized continuous verb tenses. This means that "I write", "I am writing", and "I do write" can translate to _j'écris_ \(not _je suis écris_\) and vice versa.
 
@@ -172,7 +172,7 @@ However, the idiomatic phrase _« être en train de »_ is often used to indicat
 
   When translating, remember that English stative verbs have no continuous forms. For instance, _« j'aime un garçon »_ cannot be translated as "I am loving a boy".
 
-### Excerpt
+## Excerpt
 
 un journal \(a newspaper\)
 
@@ -180,14 +180,13 @@ Tu es riche.\(He is rich.\)
 
 Le chat noir est calme.\(The black cat is calm.\)
 
- La fille a `un livre`.\(The girl has a book.\)
+La fille a `un livre`.\(The girl has a book.\)
 
 Le garçon mange `une pizza`. \(The girl is eating a pizza.\)
 
- La fille a `une robe` rouge.\(The girl has a red dress. \)
+La fille a `une robe` rouge.\(The girl has a red dress. \)
 
 C'est une fille et elle est calme. \(She is a girl and she is calm. \)
 
-**Mnemonic learning trick**：Men have education. Women have all the money. \(`La livre` is the pound, lb or £.\) \)  
-
+**Mnemonic learning trick**：Men have education. Women have all the money. \(`La livre` is the pound, lb or £.\) \)
 

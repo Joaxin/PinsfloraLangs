@@ -4,9 +4,7 @@ description: Arabic Introduction(Alphabet 1/Alphabet 2)
 
 # Introduction
 
-
-
-### Reading back to front
+## Reading back to front
 
 Did you know that Arabic is written right to left?
 
@@ -20,7 +18,7 @@ Did you know that Arabic is written right to left?
 
 This means that when you pick up a book or magazine written in Arabic, you should start reading from the back cover — which, of course, is the front!
 
-### Aah!!
+## Aah!!
 
 When Arabic is written using English letters, sometimes there’ll be two vowels in a row.
 
@@ -32,7 +30,7 @@ When Arabic is written using English letters, sometimes there’ll be two vowels
 
 This doesn’t mean that there are two vowels in Arabic, but rather that there is one loooong vowel. Arabic has both short and long vowels!
 
-### Oh, duh
+## Oh, duh
 
 When you see a tiny forward slash above a letter, it means this letter has a short ah sound right after it. We’ll talk more about this later.
 
@@ -41,7 +39,7 @@ When you see a tiny forward slash above a letter, it means this letter has a sho
 | d | د |
 | da | دَ |
 
-### Wow, yeah!
+## Wow, yeah!
 
 Sometimes و = **uu** \(long vowel\) and other times و = **w**.
 
@@ -72,7 +70,7 @@ Same with the letter ي: sometimes ي = **ii** \(long vowel\) and sometimes ي =
 
 The key is other vowels! If there is a vowel right **before or right** after و or ي, then they become w and y. Otherwise, they’re just the long vowels **uu** and **ii**.
 
-### Mighty Morphing Power Letters
+## Mighty Morphing Power Letters
 
 In English, letters can change shape, like if they’re uppercase or lowercase. Letters in Arabic, instead, change shape, based on where they are in comparison to other letters because they can connect to neighbouring letters. Look at the shapes of ب b:
 
@@ -117,7 +115,7 @@ Note that this is **not** the same sound as th in the following set of English w
 | **raaj** | راج |
 |  |  |
 
-### Name
+## Name
 
 | English Name | Arabic |
 | :--- | :--- |

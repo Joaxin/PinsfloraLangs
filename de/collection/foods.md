@@ -16,7 +16,7 @@ The man has oil.
 
 The salt is good.
 
-### Das Obst
+## Das Obst
 
 > die Frucht, die Früchte, das Obst
 >
@@ -43,7 +43,7 @@ The üblichsten \(most common\) sentences:
 
 **Die Erdbeere ist frisch.**
 
-### Das Gemüse
+## Das Gemüse
 
 | vegetables |  | vegetables |  |
 | :--- | :--- | :--- | :--- |
@@ -80,7 +80,7 @@ The coffee is bad.
 
 The wine is good.
 
-### Das Essen
+## Das Essen
 
 |  |  |  |  |
 | :--- | :--- | :--- | :--- |

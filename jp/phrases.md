@@ -4,7 +4,7 @@ description: どうもありがとうございます
 
 # Phrases
 
-### Saying Thank You
+## Saying Thank You
 
 The phrase "thank you" in Japanese is dependent on the situation. Below is a table of the most common forms, from least to most formal. Note that the formality increases with the length of the phrase.
 
@@ -16,7 +16,7 @@ The phrase "thank you" in Japanese is dependent on the situation. Below is a tab
 | ありがとう ございます\[… gozaimasu\] | **Thank you**, used with strangers, teachers, and bosses. |
 | どうも ありがとう ございます | **Thank you very much**, used with strangers, teachers, and bosses. |
 
-### Saying Thank You for a Past Action
+## Saying Thank You for a Past Action
 
 If you'd like to thank someone for something they did in the past, you change the ございます ending to ございました。
 
@@ -25,7 +25,7 @@ If you'd like to thank someone for something they did in the past, you change th
 | ありがとうございま\[した\] | Thank you for what you did, used with strangers, teachers, and bosses. |
 | どうも ありがとうございま\[した\] | Thank you very much for what you did, used with strangers, teachers, and bosses. |
 
-### Excerpt
+## Excerpt
 
 はい \(Yes\)\[hai\]
 

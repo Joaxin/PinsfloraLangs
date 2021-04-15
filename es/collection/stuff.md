@@ -1,6 +1,6 @@
 # Stuff
 
-### En la escuela
+## En la escuela
 
 A lot of what happens in school happens in the classroom, so let's start with some words and phrases that will help you communicate in this context.
 
@@ -37,8 +37,7 @@ A lot of what happens in school happens in the classroom, so let's start with so
 * _Prestar_ - To lend
 * _Tomar prestado_ - To borrow
 * _Traer_ - To bring
-* 
-### Navigate the house
+* **Navigate the house**
 
 **el baño está aquí**
 

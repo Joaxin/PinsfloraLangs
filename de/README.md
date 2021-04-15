@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-### 网站
+## 网站
 
 德语教程:[https://www.thegermanproject.com/](https://www.thegermanproject.com/)
 
@@ -14,7 +14,7 @@
 
 德语语法: [https://www.deutschplus.net/](https://www.deutschplus.net/)
 
-### 词性
+## 词性
 
 **凡是以Ge-开头的，并且表示“一类事物总称”的名词，100%是中性的**，例如：das Gebäude 建筑物；das Gericht 菜肴、法院；das Getränk 饮料；das Gemüse 蔬菜；das Gebäck 烘烤饼干；das Gepäck 行李；das Gespräch 谈话、对话。
 
@@ -32,16 +32,15 @@
 
 **die Geschichte历史，是阴性的，因为讲了是以-e结尾的**；der Gebrauch用法，这个词来源于动词gebrauchen\(使用\)的词干, 动词词干构成名词往往是阳性的；der Geschäftsmann商人，这是一个复合词，复合名词的词性取决于最后的一个单词，Mann是阳性的，所以是它也是阳性的。
 
-### 语法
+## 语法
 
 **直陈式现在时 = \(主语\) + 动词现在时形式**
 
- **直陈式 现在时 弱变化**： 动词词干加人称变化词尾：e,st,t,en,t,en
+**直陈式 现在时 弱变化**： 动词词干加人称变化词尾：e,st,t,en,t,en
 
 * 备注： 1\) 词干t, d, ffn, chn，dm,tz结尾的，第二人称单、复数及第三人称单数要在变位词尾前加个e 2\) 词干s, ss, x, z, tz结尾的，第二人称单数变位词尾省去s，只要t
 
 **直陈式 现在时 强变化：** 动词词干加人称变化词尾，单数第二和第三人称词干元音发生变音或换音 如：e – ie ;e - i ;a - ä ; au - äu
 
-**直陈式 现在时 混合变化词：**尾变化同弱变化规则  
-
+**直陈式 现在时 混合变化词：**尾变化同弱变化规则
 

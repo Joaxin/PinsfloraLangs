@@ -4,7 +4,7 @@ description: Dieses Schloss ist schön.
 
 # Stuff
 
-### House
+## House
 
 das Apartment / Die Wohn**ung**
 
@@ -56,7 +56,7 @@ Does the apartment have a balcony?
 
 I am walking up the stairs.
 
-### Das Zeug
+## Das Zeug
 
 Understanding how German words are built can help you dissect larger words! Check out some examples with **das Zeug**!
 
@@ -68,7 +68,7 @@ Understanding how German words are built can help you dissect larger words! Chec
 | **das Spiel** | **das Spielzeug** the toy |
 | **das Werk** | **das Werkzeug** the tool |
 
-### Power
+## Power
 
 If you’re traveling, make sure you have adapters for your **Ladegerät**\(charger\) ! In much of Europe, the **Steckdosen** are shaped with two circular pegs.
 

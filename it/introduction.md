@@ -8,7 +8,7 @@ description: >-
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
-### Italino Personal pronouns
+## Italino Personal pronouns
 
 The subject pronouns in Italian are:
 
@@ -26,7 +26,7 @@ The subject pronouns in Italian are:
 
 The verb is always conjugated to match the subject, and the subject is only specified for clarity or emphasis.
 
-### Genders
+## Genders
 
 maschile, femminile
 
@@ -40,7 +40,7 @@ maschile, femminile
 |  |  |
 |  |  |
 
-### Articles
+## Articles
 
 Articles have to match gender and number of the noun they refer to.
 
@@ -58,7 +58,7 @@ The indeterminate articles \(_a_/_an_\) are:
 * Una - feminine, used before all consonants.
 * Un' - feminine, used before vowels.
 
-### Plural articles
+## Plural articles
 
 The plural definite articles \(_the_\) are:
 
@@ -79,9 +79,9 @@ When some prepositions are followed by a definite article they merge into a sing
 
 The compounds formed by _con_ and _per_ are archaic and literary, with the exception of _col_ \(con + il\) for which the contraction is optional.
 
-### Verbs
+## Verbs
 
-#### Regular Verbs
+### Regular Verbs
 
 The verb is always conjugated to match the subject, and the subject is only specified for clarity or emphasis.
 
@@ -105,7 +105,7 @@ The verb is always conjugated to match the subject, and the subject is only spec
 
 Gli uomini scrivono nello zucchero. \(The men write in sugar.\)
 
-#### Irregular Verbs
+### Irregular Verbs
 
 Check out the irregular conjugations of the following **-are** verbs:
 

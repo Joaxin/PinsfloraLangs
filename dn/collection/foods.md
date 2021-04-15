@@ -4,8 +4,6 @@ description: De kinderen hebben honger en dorst.
 
 # Foods
 
-
-
 |  |  | the breakfast | het ontbijt |
 | :--- | :--- | :--- | :--- |
 |  |  | the dinner/supper | het avondeten |
@@ -14,7 +12,7 @@ description: De kinderen hebben honger en dorst.
 |  |  | the salt | het zout |
 |  |  | the plate | het bord |
 
-### Het eten
+## Het eten
 
 | de | het |
 | :--- | :--- |
@@ -28,7 +26,7 @@ description: De kinderen hebben honger en dorst.
 | boterham |  |
 | de sap\(juice\)/de koffie |  |
 
-### De groenten
+## De groenten
 
 | de pepper |  |  |  |
 | :--- | :--- | :--- | :--- |
@@ -37,7 +35,7 @@ description: De kinderen hebben honger en dorst.
 |  |  |  |  |
 |  |  |  |  |
 
-### Het fruit
+## Het fruit
 
 |  |  |  |  |
 | :--- | :--- | :--- | :--- |

@@ -1,7 +1,5 @@
 # Tenses
 
-
-
 > [https://www.clozemaster.com/blog/spanish-tenses/](https://www.clozemaster.com/blog/spanish-tenses/)
 >
 > [https://www.clozemaster.com/blog/future-tense-spanish/](https://www.clozemaster.com/blog/future-tense-spanish/)
@@ -17,19 +15,19 @@
 | vosotros | regaláis | habéis regalado | regalasteis |
 | ellos/ustedes | regalan | han regalado | regalaron |
 
-### Present tenses
+## Present tenses
 
 The Spanish present simple tense is generally formed when you want to talk about a habit or something that happens in general.
 
 For example “I eat rice every night” \(**Como** arroz todas las noches\) or “She believes no-one deserves to live this way” \(Ella **cree** que nadie merece vivir así\).
 
-### Past tenses
+## Past tenses
 
 The past tense is used when you want to talk about events that happened any time before the present moment, whether that be 2000 years ago, 5 months ago, yesterday, or 2 minutes ago.
 
 However, while in English we get by with only one, in Spanish there are two tenses which are used to express the past, and they have very different uses.
 
-#### Past preterite tense
+### Past preterite tense
 
 The past preterite is used when you want to talk about specific events that happened at a certain time in the past. For example, “I sold my house,” \(**Vendí** mi casa\) or “the little boy ate a worm” \(El niño se **comió** un gusano\).
 
@@ -49,7 +47,7 @@ Like the present tense, the past preterite is formed by changing the endings of 
 
 I gave him a toy.
 
-#### Past imperfect tense
+### Past imperfect tense
 
 The past imperfect tense is used for speaking about past habitual events, like “I used to eat cereal every day,” \(Yo **comía** cereales todos los días\) or to give background information or set a scene in the past, such as “The door was opening and closing” \(La puerta se **abría** y se **cerraba**\).
 
@@ -65,11 +63,11 @@ In the imperfect tense, the regular -er and -ir endings are exactly the same, so
 | vosotros | \(habl\)abais | \(com\)íais |
 | ellos/ellas | \(habl\)aban | \(com\)ían |
 
-### Future tenses
+## Future tenses
 
 The future tense is used to talk about events that **will** happen any time after the present moment. There are two ways to form this in Spanish, which is similar to how we talk about the future in English.
 
-#### Future inflection
+### Future inflection
 
 The future inflection is similar to using the world **will** in English. Instead of changing the endings of the verbs, the future tense takes the whole verb and adds to the end of it. This is therefore a lot easier to remember as there is only one conjugation for all types of verbs.
 
@@ -83,7 +81,7 @@ The future inflection is similar to using the world **will** in English. Instead
 | vosotros | \(hablar\)áis |
 | ellos/ellas | \(hablar\)án |
 
-#### Conditional future/past future
+### Conditional future/past future
 
 This is essentially the equivalent of the English “would” do something. This could be both in the case of a condition, such as “I would go if you wanted me to” \(Yo iría si tú quisieras\), or when referring to the future from a point in the past, like “She asked me if I would come back” \(Ella me preguntó si yo volvería\).
 
@@ -101,11 +99,11 @@ Only in Spanish, instead of having a separate word to express this \(as we do in
 
 The conditional tense, like the past imperfect, uses the exact same forms for the first and third person, so being clear with who you’re talking about is usually necessary.
 
-### Spanish subjunctive mood
+## Spanish subjunctive mood
 
 All the previous formations mentioned are in indicative mood, which is named as such because it is indicative of reality. The subjunctive, sometimes referred to as _irrealis_ mood, is used when we talk about something which is uncertain, unknown, or something which is imposed on by something else. There is a whole list of uses for the subjunctive, but you’ll notice that they all follow this same basic notion of surrealism.
 
-#### Present subjunctive
+### Present subjunctive
 
 By far the most common form of subjunctive, the Spanish present subjunctive expresses the idea of uncertainty or unknown-ness in all present or future situations.
 
@@ -145,7 +143,7 @@ These are just the instances I could think of off the top of my head, but there 
 
 For the conjugation of the subjunctive, you’ll notice that the endings are almost opposites of the regular present tense endings.
 
-#### Spanish present subjunctive regular verb chart:
+### Spanish present subjunctive regular verb chart:
 
 |  | **AR** | **ER/IR** |
 | :--- | :--- | :--- |
@@ -159,7 +157,7 @@ For the conjugation of the subjunctive, you’ll notice that the endings are alm
 
 Once again, be careful with the first and third person formations as they are identical. Make it clear who you are talking about.
 
-### Past subjunctive
+## Past subjunctive
 
 The past subjunctive is basically used in the same way as the present one, but when you are talking about instances in the past. Taking some of the above examples, we can put them in the past tense and employ the past subjunctive instead.
 

@@ -6,13 +6,13 @@ description: HANGEUL Introduction
 
 ![Korean alphabet](https://cdn.jsdelivr.net/gh/joaxin/img_bed/img/duo/kr/kr_alphabet.jpg)
 
-### **Syllable Blocks**
+## **Syllable Blocks**
 
 Unlike English, written Korean is organized into **syllable blocks**. Each block represents a single syllable and consists of two to four letters. The Korean word for ‘hello,’ 안녕하세요, is composed of 12 letters organized into five syllable blocks. Annyeonghaseyo!
 
 Both letters and syllable blocks are written from left to right and from top to bottom.
 
-### **Basic Vowels**
+## **Basic Vowels**
 
 We begin with the six **basic vowels** of Korean: ㅏ, ㅓ, ㅗ, ㅜ, ㅡ, and ㅣ. Their names are 아, 어, 오, 우, 으, and 이, respectively, where the letter ㅇ, or **ieung**, remains silent, acting as a place holder. In the same way, you may just add an ㅇ to get the name of any other vowel. Note that ‘ㅏ,’ ‘ㅓ,’ and ‘ㅣ’ are written to the side of the initial consonant while ‘ㅗ,’ ‘ㅜ,’ and ‘ㅡ’ are written beneath the initial consonant.
 
@@ -29,7 +29,7 @@ We begin with the six **basic vowels** of Korean: ㅏ, ㅓ, ㅗ, ㅜ, ㅡ, and �
 
 ‘으’ is also difficult, being rare in English, although it is a short ‘u’ something close to the uh in uh-oh.
 
-### **Iotized Vowels**
+## **Iotized Vowels**
 
 By adding an additional dash we get a y-sound.
 
@@ -40,7 +40,7 @@ By adding an additional dash we get a y-sound.
 | ㅠ | yu | /ju/ |
 | ㅛ | yo | /jo/ |
 
-### **Diphthongs**
+## **Diphthongs**
 
 Korean has two way of forming diphthongs. The first is to add an ㅣ to the base vowel.
 
@@ -69,7 +69,7 @@ The second set of diphthongs is formed by adding an ㅗ or an ㅜ.
 
 Due to sound changes, 왜, 외, and 웨 sound the same in most modern Korean dialects.
 
-### **Basic Consonants**
+## **Basic Consonants**
 
 | 한글 | Romanization | Pronunciation |
 | :--- | :--- | :--- |
@@ -89,7 +89,7 @@ Due to sound changes, 왜, 외, and 웨 sound the same in most modern Korean dia
 
 ㅅ in most situations sounds like an s, but before ㅣ or "iotized" vowels it sounds more like "sh".
 
-### **Aspirants**
+## **Aspirants**
 
 | 한글 | Romanization | Pronunciation |
 | :--- | :--- | :--- |
@@ -101,7 +101,7 @@ Due to sound changes, 왜, 외, and 웨 sound the same in most modern Korean dia
 
 **Aspirants** are consonants followed by a puff of air. Hold a small sheet of paper in front of your mouth. Notice that the paper moves when you pronounce the English words ‘pen’ and touch’ due to the aspiration.
 
-### **Tense Consonants**
+## **Tense Consonants**
 
 | 한글 | Romanization | Pronunciation |
 | :--- | :--- | :--- |
@@ -113,7 +113,7 @@ Due to sound changes, 왜, 외, and 웨 sound the same in most modern Korean dia
 
 **Tense consonants** are pronounced with extra emphasis. Sometimes regular ㄱ, ㅂ, ㅈ, ㅅ, and ㄷ sound become tense in the middle of words, especially for younger speakers.
 
-### **Final Consonants**
+## **Final Consonants**
 
 Korean only have a few possible sounds at the end of a syllable, so many consonants' pronunciations change.
 
@@ -150,7 +150,7 @@ When followed by a vowel, final consonants \(except ㅇ and ㅎ\) move to the st
 | 많이 | 마니 |
 | 엮음 | 여끔 |
 
-### **Assimilation**
+## **Assimilation**
 
 Many consonants change their pronunciations when a consonant at the end of one syllable influences or is influenced by the consonant at the start of the next.
 
@@ -167,21 +167,21 @@ Many consonants change their pronunciations when a consonant at the end of one s
 
 _Nasal sounds:_ ㄴ, ㅁ, _final_ ㅇ
 
-### **Anglicization vs Korean**
+## **Anglicization vs Korean**
 
 We introduce two of the most famous Korean companies, Samsung and Hyundai. Don't be surprised that some companies and given names don't fit the romanization we're using.
 
 Korean has had several standard systems of romanization over the years, with Revised Romanization currently the official system in use by South Korea and in this course. It came about in the 90s, so proper nouns and words that had previously entered English often make use of one of the older systems.
 
- **Tips** ：
+**Tips** ：
 
 * 삼성 ——Samsung \[samseong\]
 
-  현대Hyundai 모터스 —— Hyundai motors\[hyeondae otase\]    
+  현대Hyundai 모터스 —— Hyundai motors\[hyeondae otase\]
 
 * 블루윙즈 —— bluewings
 
-### **Transliteration**
+## **Transliteration**
 
 Transliteration into Korean is based on Korean approximation of English pronunciation.
 
@@ -191,11 +191,11 @@ Sometimes single syllables become split since Korean doesn't really do consonant
 
 Of course, non-English words may be transliterated based on native language pronunciation, as in 파리 for Paris.
 
-### **To Be**
+## **To Be**
 
 In this lesson we're going to learn how to make some sentences using the verb ~이다, corresponding to the English verb _to be_. Let's get started!
 
-### **Nouns**
+## **Nouns**
 
 Korean nouns do not decline for number, case, or gender. The noun is the noun. Period. Simpler than English.
 
@@ -203,11 +203,11 @@ However, Korean is an **agglutinating** or **agglutinative**language. Rather tha
 
 While that may seem scary, agglutinating languages usually have very clear rules so that people don't get confused when a basic word becomes buried inside a larger piece. The same is true for Korean. This means that you don't have to worry about memorizing exceptions to the rules, like we do in English!
 
-### **The** and **A\(n\)**
+## **The** and **A\(n\)**
 
 Korean does not have articles, and only context tells you whether you would need a "the" if said in English. The article "a\(n\)" is not used.
 
-#### **And**
+### **And**
 
 One common piece is **and**. Unlike in English where there is one word for "and" that can function in all situations, Korean has several. We introduce two here; both of which are used with nouns.
 
@@ -217,7 +217,7 @@ One common piece is **and**. Unlike in English where there is one word for "and"
 | ~와 | 남자와 | Common in writing, after a vowel |
 | ~과 | 소년과 | Common in writing, after a consonant |
 
-#### **Topic and Subject**
+### **Topic and Subject**
 
 The most common, and trickiest, particles represent the topic and the subject of a sentences. These two particles represent two different, but overlapping, ideas.
 
@@ -289,11 +289,11 @@ There is a plural suffix, **들**, but using **들** is often optional. It can b
 
 As an exception, 의 as a particle \(meaning _of_\) can also be pronounced 에.
 
-### **Existence**
+## **Existence**
 
 Korean has a set of basic verbs that indicate existence. Two of the most common verbs, they form a class of their own and are used in many compound verbs and phrases.
 
-#### **있다 and 없다**
+### **있다 and 없다**
 
 The two verbs are **있다** and **없다**.
 
@@ -313,7 +313,7 @@ In our current speech level, these verbs become 있습니다 and 없습니다.
 
 When used with place, the place is always marked with **에**.
 
-#### **To Have**
+### **To Have**
 
 있다 and 없다 are the most common verbs used to translate "to have" and "not to have" into Korean, respectively. There are other verbs that mean "to possess," "to own," or "to hold," but those are usually more formal and less frequently used. Instead, most Koreans use 있다 and 없다.
 
@@ -328,7 +328,7 @@ The basic sentence is similar to the ones above, with the item marked with 이/�
 
 Grammatically the word order does not matter as long as proper markers are used and the verb is at the end. However, the order shown in the examples above is the most common, and what is emphasized tends to come later in the sentence when you change the order.
 
-### **있다 Adjectives**
+## **있다 Adjectives**
 
 있다 and 없다 can be used to create a wide range of compound adjectives in Korean. This is similar to adjectives ending in -ful or -less in English.
 
@@ -339,7 +339,7 @@ These compound adjectives can be broken down into their respective parts and sti
 | 맛있다 | delicious, tasty \(flavorful\) | 맛이 있다 |
 | 맛없다 | not delicious, disgusting \(flavorless\) | 맛이 없다 |
 
-### Digest
+## Digest
 
 듀오링고 \(Duolingo\)
 

@@ -4,7 +4,7 @@ description: Ein Sechstel reicht.
 
 # Number
 
-### **What is there?**
+## **What is there?**
 
 In English, we’d say **There is** **a dog!** or **There are twenty books!**
 
@@ -14,7 +14,7 @@ In German, you can use the phrase **Es gibt**...
 
 Careful not to say phrase **Da ist…** ‑ that’s used to point out a location! For example, **Da ist irgendwas**.
 
-### **Die Nummer/Zahl**
+## **Die Nummer/Zahl**
 
 Similarly to English, the numbers **thirteen** through **nineteen** all end with **‑zehn**. Notice that there are some letters dropped from **sechs** and **sieben**!
 
@@ -27,7 +27,7 @@ Similarly to English, the numbers **thirteen** through **nineteen** all end with
 | **acht** eight | **achtzehn** eighteen |
 | **neun** nine | **neunzehn** nineteen |
 
-### **Culture and Numbers**
+## **Culture and Numbers**
 
 When counting with your fingers, Germans start with their thumb for **eins**! If you raise your pointer finger for one, a German person might automatically read it as **zwei**!
 
@@ -49,6 +49,5 @@ Why do you eat thirteen tomatoes?
 
 **Zwölf sind ein Dutzend.**
 
-Twelve are a dozen.  
-
+Twelve are a dozen.
 

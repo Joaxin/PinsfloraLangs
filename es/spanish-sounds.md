@@ -1,13 +1,13 @@
 # Spanish Sounds
 
-### Accent Marks
+## Accent Marks
 
 Vowels in Spanish can have an accent mark, such as the "u" in "menú" \(menu\).
 
 * to indicate which syllable should be stressed in the pronunciation ,for example, in "teléfono" \(telephone\), the second "e" has the most stress.
 * to distinguish homophones , for example, "él" and "el" are homophones because they have the same pronunciation. However, "él" is a masculine pronoun \(meaning "he" or "him"\) and "el" is a masculine article \(meaning "the"\).
 
-### Spanish sounds
+## Spanish sounds
 
 Spanish pronunciation is easier than you think! In general, Spanish vowels are always pronounced the same way.
 
@@ -57,7 +57,7 @@ In Spanish, **double l** \(**ll**\) sounds similar to **y** in the English word 
 
 ca**ll**e, **ll**amo
 
-### Rr
+## Rr
 
 In Spanish, **r** has a different sound depending on where it is in a word.
 
@@ -69,7 +69,7 @@ ba**r**ato: Tap roof of mouth with tongue, as in wa**t**er \(middle or end of wo
 
 You can practice **rr** by placing the tip of your tongue on the roof of your mouth and exhaling forcefully across the surface of your tongue. As you do so, release the tip of your tongue so that it lightly flutters against the roof of your mouth. It takes some practice, but you'll get there!
 
-### **Stress**
+## **Stress**
 
 All words in Spanish have one syllable that is pronounced with extra emphasis. This is called **stress**. An accent mark tells you which syllable should be stressed.
 

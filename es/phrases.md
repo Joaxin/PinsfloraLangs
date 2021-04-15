@@ -8,11 +8,11 @@ You probably already know that "hello" in Spanish is "hola", right? But Spanish 
 
 Just like in English, there are a bunch of ways you can say "hi", "how are you?" and "goodbye", depending on the situation.
 
-### Greetings
+## Greetings
 
 Many Spanish greetings depend on the time of day.
 
-#### Tardes and Noches
+### Tardes and Noches
 
 In English, "afternoon" comes before "evening," which in turn comes before "night."
 
@@ -20,15 +20,15 @@ In Spanish there are only two words that cover these times of the day: "tarde" w
 
 Therefore, at 6:30pm it is ok to say either "buenas tardes" or "buenas noches."
 
-#### Buenos Días
+### Buenos Días
 
 Even though "buenos días" literally means "good days," it is used in the mornings to mean "good morning."
 
 Note that Spanish greetings are always in the plural \("Good days"\), but you might occasionally hear the singular **"buen día"** instead of **"buenos días"**.
 
-### **¿Cómo te llamas?**
+## **¿Cómo te llamas?**
 
-**¿Cómo te llamas(Cual es tu nombre)?** is used to ask **What's your name?** in informal interactions.
+**¿Cómo te llamas\(Cual es tu nombre\)?** is used to ask **What's your name?** in informal interactions.
 
 Hola, ¿cómo te llamas?
 
@@ -57,7 +57,7 @@ Hola, señor. ¿Cómo se llama usted?
 
 * Hello, sir. What's your name?
 
-### ¿Cómo está?
+## ¿Cómo está?
 
 Just like in English, it's nice to follow up with _"how are you?"_, _"what's up?" "how's it going?" "how you doin'?"_ etc. \(Although just like in English, don't always expect to get an answer.\)
 
@@ -73,7 +73,7 @@ Just like in English, it's nice to follow up with _"how are you?"_, _"what's up?
 
 ¿que pasa?
 
-### Muy bien
+## Muy bien
 
 Yup, just as you do in English, if someone asks you _"How are you?"_ you will usually say _"good, thanks!"_ Although just like in English, often the person blurting out a quick **"¿Qué tal?"** isn't really expecting a response.
 
@@ -97,7 +97,7 @@ Even if you're feeling really terrible, it's bad form to ever come straight out 
 
 In some Spanish-speaking countries \(eg, Argentina\) people will often only say that they're "very good" when they're being ironic. If you hear someone say "**¡Mejor imposible!**" \(_"it doesn't get any better than this!"_\) — there's a good chance they're probably not having a very good day.
 
-### Encantado de conocerle
+## Encantado de conocerle
 
 **Conocerle** and **conocerles** don't have a gender difference they mean **to meet him/her** and **to meet them**, but the others.
 
@@ -121,7 +121,7 @@ Girl to Girl : Encantada de conocerla
 
 Informal: Encantada de conocerle
 
-### Adiós
+## Adiós
 
 \(It's well worth getting familiar with **Hasta**. It's very adaptable and useful for saying goodbye, and it's easy to remember: Just think of Arnie in Terminator: _Hasta la vista, baby_.\)
 
@@ -137,13 +137,13 @@ Hasta la próxima semana \(See you next week\)
 
 Hasta el próximo lunes \(See you next Monday\)
 
-### **Buenos días, señor**
+## **Buenos días, señor**
 
 In Spanish, we use words like **señor**, **señora**, and **señorita** to show respect to someone. These words are often followed by the person's last name when you know it.
 
 **Señora** is generally for married women, while **señorita** is usually for young women or unmarried women.
 
-Disculpe, **señora**. \(Excuse me, ma'am.)
+Disculpe, **señora**. \(Excuse me, ma'am.\)
 
 **Señor** can be used for any man.
 
@@ -157,7 +157,7 @@ Señor Sánchez, ¿cómo está usted?
 
 * Mr. Pérez is American.
 
-### Phrases
+## Phrases
 
 Por favor. \(Please.\)
 

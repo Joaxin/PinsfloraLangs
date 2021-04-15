@@ -1,6 +1,6 @@
 # Introduction
 
-#### **Hawaiian spelling**
+### **Hawaiian spelling**
 
 **ʻOkina**
 
@@ -12,7 +12,7 @@ The **¯** you will see in words like ʻōlelo \(language, speak\) and kāne \(m
 
 It is important not to forget an ʻokina or a kahakō, because the word could have a very different meaning without them.
 
-#### **E**
+### **E**
 
 **Imperative E**
 
@@ -58,7 +58,7 @@ Eʻai
 
 > eat
 
-#### **Determiners**
+### **Determiners**
 
 **Ke vs. Ka**
 
@@ -86,11 +86,11 @@ So in terms of distance from the speaker, remember this order: **kē**
 |  |  |
 |  |  |
 
-### **Aloha**
+## **Aloha**
 
 **Aloha** is used to express the feeling one feels when greeting someone or departing \(it may be love, sorrow, joy, etc.\). Therefore, this greeting of "aloha" always includes the speaker because "aloha" begins with the one who says it.
 
-### **Personal Pronouns**
+## **Personal Pronouns**
 
 **"We"**
 

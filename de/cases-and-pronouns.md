@@ -8,19 +8,19 @@ description: Alles ist toll! (Everything is great!)
 
 In English, we say **He** **likes Sam**, but **Sam likes** **him**.
 
- **He** changes to **him** because of the role it plays in the sentence.
+**He** changes to **him** because of the role it plays in the sentence.
 
 German does the same thing, but with lots of words, including **ein** and **der**!
 
 This change in form is known as case, and the four German cases are **nominative**, **accusative**, **dative**, and **genitive**.
 
-### Der Nominativ
+## Der Nominativ
 
 The nominative case is used for **sentence subjects**, answers the question, **“wer\(who\)?”**. The subject is the person or thing that does the action.
 
 For example, in the sentence, “the girl kicks the ball”, “the girl” is the subject.
 
-#### Nominative Pronouns
+### Nominative Pronouns
 
 **Der Words**
 
@@ -43,7 +43,7 @@ And here’s something neat — there’s a whole group of words called **der wo
 
 * This apple is round.
 
-#### **Die beiden Frauen?**
+### **Die beiden Frauen?**
 
 Some words, such as **beide** and **alle**, are usually pretty noun‑y. Sometimes, though, they can be used as adjectives!
 
@@ -58,7 +58,7 @@ Some words, such as **beide** and **alle**, are usually pretty noun‑y. Sometim
 
 Notice the **n** in die beide**n** Frauen? Adjectives have endings to match the noun they’re with.
 
-### Der Akkusativ
+## Der Akkusativ
 
 The accusative case is for **direct objects**, known as the objective case in English, answers the question **“wen\(whom\)?”** and describes the **direct object** of a sentence.
 
@@ -80,7 +80,7 @@ Ask yourself, **What do you have?** or **What do you like?** Your answer will us
 
 > Note that only the masculine articles change in the accusative case.
 
-#### **A Quick Note On Word Order**
+### **A Quick Note On Word Order**
 
 German allows for more **freedom of word placement**, as long as we use the correct case.
 
@@ -96,7 +96,7 @@ Following are a few examples of the accusative case:
 
 As you can see, the **meaning of the sentence is derived from the case**, rather than the word order.
 
-#### Accusative Pronouns
+### Accusative Pronouns
 
 **I see you!!**
 
@@ -117,11 +117,11 @@ Depending on who does the action and who receives the action, words like **he** 
 | **ihr** you all | **euch** you all |
 | **sie** they | **sie** them |
 
-#### Accusative Prepositions
+### Accusative Prepositions
 
 There are a few prepositions that always take the accusative case:
 
- durch \(through\) bis \(until\) für \(for\) ohne \(without\) entlang \(along\) gegen \(against\) um \(around\) …
+durch \(through\) bis \(until\) für \(for\) ohne \(without\) entlang \(along\) gegen \(against\) um \(around\) …
 
 Certain prepositions demand certain cases. For example, **ohne** and **für** demand the accusative — so the noun that follows uses accusative der word or ein word endings!
 
@@ -153,7 +153,7 @@ Der Mann fährt die Straße **entlang.**
 
 The man rides along the street.
 
-### Der Dativ
+## Der Dativ
 
 The dative case is for **indirect objects**, which describes the indirect object of a sentence in German and English and answers the question, **“wem?” \(whom\), or “was?” \(what\)**.
 
@@ -191,7 +191,7 @@ And some German verbs always take the dative case. These verbs are:
 * _gehören_ \(belong to\)
 * _gefallen_ \(to like\)
 
-### Der Genitiv
+## Der Genitiv
 
 The genitive case indicates possession and answers the question **“wessen?” or “whose?”** . In English, we show possession with an apostrophe + s “the girl's ball”.
 
@@ -223,7 +223,7 @@ Just as the dative case, certain prepositions always take the genitive case:
 * _während_ \(during\)
 * _wegen_ \(because of\)
 
-#### Possessive Pronouns
+### Possessive Pronouns
 
 **What’s mein is mein!**
 

@@ -6,7 +6,7 @@ description: >-
 
 # Introduction
 
-**German** and **English** are in the same language family? German might seem tricky, but there are also a lot of similarities. Welcome to the German tour! Let’s get started! 🤪 
+**German** and **English** are in the same language family? German might seem tricky, but there are also a lot of similarities. Welcome to the German tour! Let’s get started! 🤪
 
 ## Capitalizing nouns
 

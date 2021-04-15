@@ -4,7 +4,7 @@ description: 'Adjectives Not(Ja, es ist einfach.)'
 
 # Adjectives & Not
 
-### **Multiple Meanings**
+## **Multiple Meanings**
 
 In English, we can use light to refer to weight or color.
 
@@ -70,7 +70,7 @@ Ist das Ei schmutzig? \(dirty\)
 
 schwer\(heavy\)
 
-### **If it’s not too much...**
+## **If it’s not too much...**
 
 To indicate an extreme, add the word **zu** before an adjective!
 
@@ -78,7 +78,7 @@ To indicate an extreme, add the word **zu** before an adjective!
 
 The juice is too sweet.
 
-### **I’m already pretty tired...**
+## **I’m already pretty tired...**
 
 An umlaut can make quite a difference! The word **schon** means **already**, but **schön** means **pretty**!
 
@@ -86,9 +86,9 @@ An umlaut can make quite a difference! The word **schon** means **already**, but
 
 ![img](https://d1btvuu4dwu627.cloudfront.net/0aee74d9667a0d5f596cd1cfd2872345/fcb852de7837bb5b668e14aa72e0b9d6/images/9ef5f91cff4b452a8f84caf09c0d76ce.svg)**Der Ring ist** **schön**. The ring is pretty.
 
-### No
+## No
 
-#### **Not!**
+### **Not!**
 
 To say **not** in German, just use **nicht**! **Nicht** often goes right after the verb.
 
@@ -110,7 +110,7 @@ The cat is not small.
 
 It is not enough.
 
-#### Negatives
+### Negatives
 
 Don’t use **nicht** with nouns. If you want to say things like **I’m not a girl**, you’ll use **kein** instead!
 
@@ -120,7 +120,7 @@ I am not a man.
 
 **Ich verstehe kein Deutsch.**
 
- I do not understand German.
+I do not understand German.
 
 **Das ist keine Katze.**
 
@@ -138,7 +138,7 @@ My wife doesn't eat cheese.
 
 We are not drinking wine.
 
-#### **Never ever ever!**
+### **Never ever ever!**
 
 Remember, the verb is the second chunk of the sentence, even when adding phrases like **never** or **often**!
 
@@ -152,7 +152,7 @@ Remember, the verb is the second chunk of the sentence, even when adding phrases
 
 She never goes swimming.
 
-#### **More ways to say no!**
+### **More ways to say no!**
 
 In addition to the word **niemand**, you can also say **keiner** to mean **nobody**!
 
@@ -164,5 +164,5 @@ And be careful not to confuse word **nicht** with **nichts**!
 
 **Ich trage** **nichts.**
 
- I wear nothing.
+I wear nothing.
 

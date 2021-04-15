@@ -6,7 +6,7 @@ description: Shopping
 
 ![](../../.gitbook/assets/colores-ejemplos-cosas-tipicas.jpg)
 
-### Colors
+## Colors
 
 The main colors in Spanish are:
 
@@ -22,7 +22,7 @@ The main colors in Spanish are:
 * **azul** - blue
 * **verde** - green
 
-#### Claro - Oscuro - Fuerte
+### Claro - Oscuro - Fuerte
 
 When we talk about colors, we can also include different tones, shades and intensities by using the following expressions:
 
@@ -42,7 +42,7 @@ You will notice that the words **claro, oscuro** and **fuerte** go after the col
 
 Spanish has a word specifically used for the color **light blue** ... **celeste**.
 
-### La Ropa
+## La Ropa
 
 General types of clothing include ropa deportiva or ropa sport \(sportswear\), ropa informal \(casual clothing\), ropa formal \(formalwear\), ropa de negocios \(businesswear\), and ropa casual de negocios \(business casual clothing\).
 
@@ -64,7 +64,7 @@ General types of clothing include ropa deportiva or ropa sport \(sportswear\), r
 | el suéter, el jersey, la chompa | sweater | el reloj | watch |
 | el sombrero | hat | la alfombra | carpet/rug |
 
-### fashion
+## fashion
 
 **Los pantalones rojos no son buenos.**
 

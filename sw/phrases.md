@@ -1,10 +1,10 @@
 # Phrases
 
-### Välkommen!
+## Välkommen!
 
 This means "welcome", but we don't use it in the expression _you're welcome_. That would be **varsågod**\( How are you?/You are welcome!/Here you are! \).
 
-### I speak -ska
+## I speak -ska
 
 Nope, Swedes don’t have a particular thing for ska music but most names of languages are derived from the name of the country, the adjective or the nationality with the ending –ska added to it.
 
@@ -17,7 +17,7 @@ Examples
 
 Oh, and as you have probably already noticed, we do not capitalize adjectives, nationalities or languages \(only countries\). Unless they happen to come first in the sentence, of course.
 
-### Excerpt
+## Excerpt
 
 Hej! \(Hello!\)
 
@@ -33,7 +33,7 @@ Hallå, ett äpple tack! \(Hello, an apple please!\)
 
 Nej tack! \(No, thanks!\)
 
- Ursäkta ! \(I am sorry.\)
+Ursäkta ! \(I am sorry.\)
 
 Ja, tack så mycket! \(Yes, thank you very much.\)
 

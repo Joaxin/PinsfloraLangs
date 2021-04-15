@@ -1,17 +1,17 @@
 # Phrases
 
-### _Bonjour !_
+## _Bonjour !_
 
 _Bonjour_ is a universal greeting that can be spoken to anyone at any time. In France, greeting people is very important, and some will even say _bonjour_ aloud when entering a public room or bus. _Bon après-midi_ is often used as a farewell in the afternoon, while _bonsoir_ is an evening greeting.
 
 * Greetings: _bonjour_, _bonsoir_ \(plus _bon matin_ in Québec only\)
 * Farewells: _bonne journée_, _bon après-midi_, _bonne soirée_, _bonne nuit_
 
-### Idioms
+## Idioms
 
 Many words or phrases cannot be translated literally between English and French because their usages are idiomatic. For instance, consider _« Ça va ? »_, which means "How are you?" The literal translation of the French is "That goes?", but this is nonsensical in English. It is very important to identify idioms in both languages and learn how to translate them properly.
 
-### Liaisons
+## Liaisons
 
 In a **liaison**, an otherwise silent ending consonant is pushed to the next word, where it's pronounced as part of the first syllable. Like elisions, this prevents consecutive vowel sounds. Liaisons are possible whenever a silent ending consonant is followed by a word beginning in a vowel sound, but some liaisons are mandatory and others are forbidden.
 
@@ -39,14 +39,14 @@ Note that some consonants take on a different sound in liaisons, and it's import
 
 Liaison rules vary among speakers, particularly across dialects, and fewer liaisons tend to appear in casual and slow speech. Note that the slow mode in Duo listening exercises does not include liaisons.
 
-### Enchaînement
+## Enchaînement
 
 In **enchaînements**, ending consonant sounds are pushed onto the next word if it begins in a vowel. This is essentially the same as a liaison, except that the consonant sound wasn't silent beforehand. For instance:
 
 * _elle est_ is pronounced like "eh-lay".
 * _mange une pomme_ is pronounced like "mahn-jun-pom".
 
-### The Impersonal Expression _Il Y A_
+## The Impersonal Expression _Il Y A_
 
 **Impersonal expressions** are phrases where there isn't a real subject. For instance, in the phrase "It is snowing" \(_Il neige_\), "it" doesn't refer to anything. It's a dummy subject that exists just to maintain the sentence structure.
 
@@ -55,15 +55,15 @@ One of the most common impersonal expressions is _il y a_, which is an idiom for
 * _Il y a une fille ici._ — There is a girl here.
 * _Il y a un serpent dans ma botte !_ — There's a snake in my boot!
 
-### "C'est" vs. "Il Est" Background
+## "C'est" vs. "Il Est" Background
 
- The French expressions _c'est_ and _il est_ are extremely important impersonal phrases. They can mean "this is," "that is," "it is," "they are," and even "he / she is." Both _c'est_ and _il est_ are well-used French sayings that date back centuries. _C'est la vie_ is a very old, very common French idiomatic saying, which means "That's life," and "Such is life." It has been around the world and back as a mainstay in dozens of cultures.
+The French expressions _c'est_ and _il est_ are extremely important impersonal phrases. They can mean "this is," "that is," "it is," "they are," and even "he / she is." Both _c'est_ and _il est_ are well-used French sayings that date back centuries. _C'est la vie_ is a very old, very common French idiomatic saying, which means "That's life," and "Such is life." It has been around the world and back as a mainstay in dozens of cultures.
 
- In France, it's still used in the same sense as always, as a sort of restrained, slightly fatalistic lamentation that this is how life is and there's not much you can do about it.
+In France, it's still used in the same sense as always, as a sort of restrained, slightly fatalistic lamentation that this is how life is and there's not much you can do about it.
 
- By contrast, _il est_ is a bit more straightforward—it means exactly what it says—as in the phrase _il est possible_, which means "it is possible."
+By contrast, _il est_ is a bit more straightforward—it means exactly what it says—as in the phrase _il est possible_, which means "it is possible."
 
- Determining when to use _c'est_ versus _il est_ requires understanding the background behind each phrase as well as studying the use of the terms in context. Despite their similar meanings, the expressions _c'est_ and _il est_ are not interchangeable, as these examples show:
+Determining when to use _c'est_ versus _il est_ requires understanding the background behind each phrase as well as studying the use of the terms in context. Despite their similar meanings, the expressions _c'est_ and _il est_ are not interchangeable, as these examples show:
 
 * _Paris? C'est magnifique!_ &gt; Paris? It's magnificent!
 * _Il est facile d'apprendre le français._ &gt; It's easy to learn French.
@@ -74,9 +74,9 @@ One of the most common impersonal expressions is _il y a_, which is an idiom for
 
 \(He is late.\)
 
-### When to Use "C'est" vs. "Il Est"
+## When to Use "C'est" vs. "Il Est"
 
- There are rules that determine when to use _c'est_ and when to say _Il est_. The table summarizes words or phrases you can use after each of saying.
+There are rules that determine when to use _c'est_ and when to say _Il est_. The table summarizes words or phrases you can use after each of saying.
 
 | **Il Est** |  | **C'est** |
 | :--- | :--- | :--- |
@@ -86,7 +86,7 @@ One of the most common impersonal expressions is _il y a_, which is an idiom for
 | **Preposition**\[**al phrase \(people\)**\] _Il est à la banque._ \(He's at the bank.\) _Elle est en France._ \(She's in France.\) |  | **Proper name** _C'est Luc._ \(That's Luc.\) |
 | **Stressed pronoun** _C'est moi._ \(That's me.\) |  |  |
 
-### "C'est" and "Il Est" Swapouts
+## "C'est" and "Il Est" Swapouts
 
 C'est\* and _il est_ are the root forms, used for impersonal expressions and general comments, as in: It's interesting, It's nice, It's fortunate, and It's too bad.
 
@@ -97,7 +97,7 @@ When talking about specific people, things, or ideas, _c'est_ and _il est_ may c
 * _Ce_ _sont_ _des Français? Non, des Italiens._ &gt; Are they French? No, Italian.
 * _Voici Alice—\*\*elle_ _est_ _professeur\*\*._ &gt; This is Alice—she's a teacher.
 
-### Excerpt
+## Excerpt
 
 Salut ! \(Hi!\)
 

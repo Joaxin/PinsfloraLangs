@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/de_s_animals.jpg)
 
-### **Eating like…!**
+## **Eating like…!**
 
 |  | Fressen | essen |
 | :--- | :--- | :--- |
@@ -19,11 +19,11 @@
 
 **Der Hund** **frisst** **Brot.** The dog eats bread.
 
- **Der Mann** **isst** **Brot.** The man eats bread.
+**Der Mann** **isst** **Brot.** The man eats bread.
 
- **Der Mann** **frisst** **Brot.** The man eats bread \(like an animal\).
+**Der Mann** **frisst** **Brot.** The man eats bread \(like an animal\).
 
-### **Frankenwords**
+## **Frankenwords**
 
 German is famous for long words! You can make these words by putting nouns together, like how Frankenstein put his monster together!
 
@@ -33,7 +33,7 @@ German is famous for long words! You can make these words by putting nouns toget
 
 The gender is always whatever gender the last word in the combo‑word is!
 
-### Das Tier\(-e\)
+## Das Tier\(-e\)
 
 **Sie hat ein Haustier**.
 

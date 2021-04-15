@@ -1,22 +1,21 @@
 ---
-description: Transportation, Travel & Places
+description: 'Transportation, Travel & Places'
 ---
 
-# Travel, Transportation & Places
+# Travel & Places
 
-### At the Airport
+## At the Airport
 
-| Spanish                                     |                                           | Spanish                              |                                            |
-| ------------------------------------------- | ----------------------------------------- | ------------------------------------ | ------------------------------------------ |
-| rribos/Llegadas                             | Arrivals                                  | Salidas/Partidas                     | Departures                                 |
-| El pasaporte                                | Passport                                  | La terminal                          | Terminal                                   |
-| El vuelo                                    | Flight                                    | La aduana                            | Customs                                    |
-| El equipaje                                 | Luggage                                   | La pista                             | Runway                                     |
-| El pasaje/boleto                            | Ticket                                    | La escala                            | Layover                                    |
-| ¿Dónde está... (la terminal sur/la aduana)? | Where is... (the south terminal/customs)? | ¿A qué hora sale/llega el vuelo 222? | At what time does flight 222 leave/arrive? |
+| Spanish |  | Spanish |  |
+| :--- | :--- | :--- | :--- |
+| rribos/Llegadas | Arrivals | Salidas/Partidas | Departures |
+| El pasaporte | Passport | La terminal | Terminal |
+| El vuelo | Flight | La aduana | Customs |
+| El equipaje | Luggage | La pista | Runway |
+| El pasaje/boleto | Ticket | La escala | Layover |
+| ¿Dónde está... \(la terminal sur/la aduana\)? | Where is... \(the south terminal/customs\)? | ¿A qué hora sale/llega el vuelo 222? | At what time does flight 222 leave/arrive? |
 
-
-### Transportation
+## Transportation
 
 For by somthing, there are two cases where the preposition **a** is used, when you go on foot or on horseback, otherwise, you should use **en**.
 
@@ -39,20 +38,20 @@ _el caballo_ – **a** caballo – on horseback
 
 > Note: The bus has several different names in Latin American Spanish: _liebre_ \(small bus – Chile\), _camión_ \(Mexico\), _colectivo_ \(Argentina\), among others. When in doubt, use _bus_ or _autobús_
 
-| *¿Cómo puedo ir a...?*                                       | How can I get to...?                                       |
-| ------------------------------------------------------------ | ---------------------------------------------------------- |
-| *¿De dónde sale el autobús/tren para (Madrid)?*              | Where does the bus/train to (Madrid) leave from?           |
-| *¿A qué hora sale el próximo autobús/tren para (Barcelona)?* | At what time does the next bus/train to (Barcelona) leave? |
-| *¿Este autobús para en (Córdoba)?*                           | Does this bus stop in (Córdoba)?                           |
-| *Un boleto, por favor.*                                      | One ticket, please.                                        |
-| *Me bajo en la próxima parada.*                              | I get off at the next stop.                                |
-| *¿Me puede llamar un taxi?*                                  | Can you call a taxi for me?                                |
-| *¿Este taxi está libre?*                                     | Is this taxi free (available)?                             |
-| *Quiero ir a...*                                             | I want to go to...                                         |
-| *Pare aquí, por favor.*                                      | Stop here, please.                                         |
-| *Espere aquí, por favor.*                                    | Wait here, please.                                         |
+| _¿Cómo puedo ir a...?_ | How can I get to...? |
+| :--- | :--- |
+| _¿De dónde sale el autobús/tren para \(Madrid\)?_ | Where does the bus/train to \(Madrid\) leave from? |
+| _¿A qué hora sale el próximo autobús/tren para \(Barcelona\)?_ | At what time does the next bus/train to \(Barcelona\) leave? |
+| _¿Este autobús para en \(Córdoba\)?_ | Does this bus stop in \(Córdoba\)? |
+| _Un boleto, por favor._ | One ticket, please. |
+| _Me bajo en la próxima parada._ | I get off at the next stop. |
+| _¿Me puede llamar un taxi?_ | Can you call a taxi for me? |
+| _¿Este taxi está libre?_ | Is this taxi free \(available\)? |
+| _Quiero ir a..._ | I want to go to... |
+| _Pare aquí, por favor._ | Stop here, please. |
+| _Espere aquí, por favor._ | Wait here, please. |
 
-### Navigate the city
+## Navigate the city
 
 | El edificio | The building | En la ciudad | In the city |
 | :--- | :--- | :--- | :--- |
@@ -112,7 +111,7 @@ El banco está **cerrado**.
 
 * The bank is **closed**.
 
-### Navigate the countries
+## Navigate the countries
 
 **viv**ar - to live
 
@@ -123,7 +122,7 @@ El banco está **cerrado**.
 | Europa | Europe |  |  |
 | Norteamérica | North America | Sudamérica | South America |
 
-#### America
+### America
 
 **Nationality**
 
@@ -146,9 +145,9 @@ Ana es american**a**.
 | México | mexicano/mexicana | mexico/mexican |
 | Cuba | Cubano/Cubana | cuba/cuban |
 
-#### Asia
+### Asia
 
-#### Europa
+### Europa
 
 | Los países | Countries |  |
 | :--- | :--- | :--- |
@@ -168,7 +167,7 @@ Ana es american**a**.
 | Reino Unido | United Kingdom |  |
 | España | Spain | española/españolo |
 
-#### Spain
+### Spain
 
 |  |  |  |  |
 | :--- | :--- | :--- | :--- |

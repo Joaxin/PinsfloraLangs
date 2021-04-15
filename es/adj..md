@@ -4,13 +4,11 @@ description: Feelings and Emotions
 
 # Adj.
 
-
-
 > [https://www.spanish.cl/vocabulary-lists/colors.htm](https://www.spanish.cl/vocabulary-lists/colors.htm)
 >
 > [https://www.spanish.academy/blog/50-feelings-and-emotions-in-spanish-expressions-vocab-and-grammar/](https://www.spanish.academy/blog/50-feelings-and-emotions-in-spanish-expressions-vocab-and-grammar/)
 
-### Word Order
+## Word Order
 
 1. The verb **SER + Adj.** \(Ser - because the color won't change or it has always been that color\)
 2. Mi auto **es verde**
@@ -38,7 +36,7 @@ un abrigo **barato**
 
 a cheap coat
 
-### Different forms
+## Different forms
 
 In Spanish, the endings of adjectives depend on the gender of what they describe.
 
@@ -60,7 +58,7 @@ With words that don't end in -O or -A \(like verde and gris\) don't have a chang
 * Una casa **verde**
 * Unas casas **verdes**
 
-### People
+## People
 
 When talking about people, the ending of an adjective depends on the person's gender. This applies not only to people, but to any **noun**!
 
@@ -74,7 +72,7 @@ Words describing a noun should agree, or match, in their gender.
 
 * The party is very fun!
 
-### Los sentimientos
+## Los sentimientos
 
 Sí, el chico está muy feliz. \(Yes, the boy is very happy. \)
 
@@ -88,7 +86,7 @@ La señora está ocupada. \(The lady is busy. \)
 
 No, la señorita no está ocupada. \(No, the lady is not busy.\)
 
-### Las emociones
+## Las emociones
 
 Emotional experiences and physical sensations—like hunger, sadness, or surprise—cause feelings. Feelings are conscious experiences, while emotions can be either conscious or subconscious.
 
@@ -173,9 +171,9 @@ She is always sick or worried.
 
 **Estoy sorprendido y enojado.**
 
-I'm surprised and angry.  
+I'm surprised and angry.
 
-### Adjectives
+## Adjectives
 
 | Spanish |  |  |  |
 | :--- | :--- | :--- | :--- |
@@ -193,83 +191,83 @@ I'm surprised and angry.
 
 Demasiado elegante. \(Too elegant.\)
 
-### Info
+## Info
 
-**Sabemos dónde está el supermercado.** 
+**Sabemos dónde está el supermercado.**
 
 We know where the supermarket is.
 
-**Nosotros manejamos estos autobuses.** 
+**Nosotros manejamos estos autobuses.**
 
 We drive these cars
 
-**Yo siempre manejo a mi trabajo.** 
+**Yo siempre manejo a mi trabajo.**
 
 I always manage/drive to my work.
 
-**¿Sabes cocinar carnes diferentes?** 
+**¿Sabes cocinar carnes diferentes?**
 
 Do you know how to cook different meats?
 
-**¿Sabes cantar esta canción?** 
+**¿Sabes cantar esta canción?**
 
 Do you know how to sing this song?
 
-**¿Ustedes saben hablar chino?** 
+**¿Ustedes saben hablar chino?**
 
 Do you know how to speak Chinese.
 
-**Yo sé algunas palabras en francés.** 
+**Yo sé algunas palabras en francés.**
 
 Yo sé algunas palabras en francés.
 
-**Nosotros cocinamos arroz con frijoles.** 
+**Nosotros cocinamos arroz con frijoles.**
 
 We cook rice with beans.
 
-**Mi padre sabe leer japonés.** 
+**Mi padre sabe leer japonés.**
 
 My father can read Japanese./My father knows how to read japanese.
 
-**Yo nado en la playa en el verano.** 
+**Yo nado en la playa en el verano.**
 
 I swim at the beach in the summer.
 
-### Descripec.
+## Descripec.
 
-**Este es el mejor curso de la universidad.** 
+**Este es el mejor curso de la universidad.**
 
 This is the best course at the university.
 
-**Esta gorra es más cara que la camisa.** 
+**Esta gorra es más cara que la camisa.**
 
 This cap is more expensive than the shirt.
 
-**¡Qué elegante es tu dormitorio!** 
+**¡Qué elegante es tu dormitorio!**
 
 How elegant is your bedroom! / Your room is so elegant
 
-**¡Qué vestido tan bonito!** 
+**¡Qué vestido tan bonito!**
 
 What a beautiful dress!
 
-**Quisiera una blusa más pequeña.** 
+**Quisiera una blusa más pequeña.**
 
 I would like a smaller blouse.
 
-**Tú eres tan elegante como papá.** 
+**Tú eres tan elegante como papá.**
 
 You are as elegant as elegant.
 
-**¡Yo amo a mi gato gordo!** 
+**¡Yo amo a mi gato gordo!**
 
 I love my fat cat.
 
-**El gato más perezoso del mundo.** 
+**El gato más perezoso del mundo.**
 
 The laziest cat in the world.
 
-**¡Qué interesante es este idioma!** 
+**¡Qué interesante es este idioma!**
 
 This language is so interesting!
 

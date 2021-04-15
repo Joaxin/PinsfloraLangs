@@ -1,12 +1,12 @@
 # Phrases
 
-### Greetings
+## Greetings
 
 As in English, Dutch has many different ways of greeting others. The most common one, which you can use all day, is _Hallo_.
 
 An easy way of greeting people throughout the day, is to say the time of day and add goed**e**- "good" in front of it - just like in English.
 
- If the time of day starts with a vowel, you squish an **-n-** in between \(an exception being "goede**n**dag"\). As follows:
+If the time of day starts with a vowel, you squish an **-n-** in between \(an exception being "goede**n**dag"\). As follows:
 
 | Time of day | Greeting |
 | :--- | :--- |
@@ -16,7 +16,7 @@ An easy way of greeting people throughout the day, is to say the time of day and
 | Nacht \(night\) | Goeden**acht** / welterusten |
 | Dag \(day\) | Goeden**dag** |
 
-### Common Phrases
+## Common Phrases
 
 | Ja/Nee | Yes/No |
 | :--- | :--- |

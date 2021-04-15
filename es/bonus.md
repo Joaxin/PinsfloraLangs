@@ -1,8 +1,6 @@
 # Bonus
 
-
-
-### Christmas
+## Christmas
 
 **Nous vous souhaitons un joyeux Noël!** We wish you a Merry Christmas.
 
@@ -18,7 +16,7 @@ During Christmas, we eat nougat.
 
 I bring nougat for the Christmas dinner.
 
-#### árbol de Navidad
+### árbol de Navidad
 
 **Les lutins du Père Noël fabriquent beaucoup de cadeaux.** Santa's elves make a lot of presents.
 
@@ -48,7 +46,7 @@ The presents are under the tree.
 
 January 5th is the Epiphany. \(Jan 5 is the eve. Jan 6 is the actual day.\)
 
-### Flirting
+## Flirting
 
 cuando Dios inventó la belleza se inspiró en ti.
 
@@ -94,12 +92,12 @@ Señorita, ¿cuál es su número de teléfono? \(Miss, what is your telephone nu
 
 ¿Ya nos conocemos? \(Do we already know each other?\)
 
-### Idioms
+## Idioms
 
 Barriga llena, corazón contento. \(A full belly and a happy heart.\)
 
 > fat and happy
-
+>
 > You don't have to be fat to have a full stomach ...
 
 Mucho ruido y pocas nueces. \( All talk and no action. \)

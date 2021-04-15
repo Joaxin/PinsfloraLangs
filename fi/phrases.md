@@ -1,8 +1,6 @@
 # Phrases
 
-
-
-#### **Sisu, sauna, and kantele**
+## **Sisu, sauna, and kantele**
 
 **Sisu** is the secret, internal emergency generator that keeps you going when you have used up all your energy but there are still things left that just need to be done. The word is often considered untranslatable, but the American expression "true grit" gets pretty close. The corresponding adjective is **sisukas**.
 
@@ -12,7 +10,7 @@
 
 **Kantele** is a Finnish string instrument with a distinctive jingling sound. The first one was built by the great wizard Väinämöinen out of the jawbone of a gargantuan pike. Fact.
 
-#### **Sorry and thank you**
+## **Sorry and thank you**
 
 Finnish does not have separate, short expressions for "sorry" and "excuse me". Both are translated with **anteeksi**. The word for "thank you " is **kiitos**.
 
@@ -22,7 +20,7 @@ Finnish does not have separate, short expressions for "sorry" and "excuse me". B
 >
 > **Kiitos!** Thank you!
 
-#### **Good luck and congratulations!**
+## **Good luck and congratulations!**
 
 The Finnish expressions **onnea** and **paljon\(a lot of\) onnea** can be used both to wish someone good luck and to congratulate them.
 
@@ -30,7 +28,7 @@ The Finnish expressions **onnea** and **paljon\(a lot of\) onnea** can be used b
 >
 > **Paljon onnea Matti!** Congratulations/Best wishes Matti!
 
-#### **Well, hello there!**
+## **Well, hello there!**
 
 The word **no** is a filler word used to make moving from one topic to another less awkward, or to make something less formal and in your face. It is usually translated as "well".
 
@@ -42,7 +40,7 @@ The word **no** is a filler word used to make moving from one topic to another l
 >
 > yay, cheers and welcome.
 
-#### **Bravo!**
+## **Bravo!**
 
 The word **hyvä**, "good", can be used in the meaning "bravo" to encourage other people. You can use it to support your country or friend at a sporting event, or to thank someone for work well done.
 

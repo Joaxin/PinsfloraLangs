@@ -6,7 +6,7 @@ description: Welkom!
 
 Dutch is a Germanic language, with grammar and vocabulary similar to other European languages. You might recognize some words from English as well! Even so, Dutch is a language with grammatical genders.
 
-### Gender and Articles
+## Gender and Articles
 
 In Dutch, there are three \(grammatical\) **genders**: masculine, feminine, and neuter. Each gender has their own definite article the.
 
@@ -64,14 +64,14 @@ het menu
 7. Furthermore, _het_ is used for words ending on **-isme** and **-ment**
 
 > Dutch speakers actually never tend to think about the gender of words. Rather than knowing whether a word is originally feminine or masculine, the only distinction that has to be remembered is the difference between the _de words_ and _het words_.
-
+>
 > This is because it has grammatical consequences \(in terms of possessives, question words, demonstratives, adjectives, and even relative pronouns\). This is why when you learn a new noun, it is very important to memorize whether it is a _de_ or _het word_.
 
 **De jongen eet een appel.**
 
 The boy eats an apple.
 
-### Pronouns
+## Pronouns
 
 The Dutch pronouns are as follows:
 
@@ -87,7 +87,7 @@ The Dutch pronouns are as follows:
 
 * _\*Je, ze_ and _we_ are un-emphasized forms of _jij, zij_ and _wij_.
 
-### Verb conjugation
+## Verb conjugation
 
 In Dutch, verbs can be recognised by the ending **-en**. For example, _eten_ \(‘to eat’\) and _drinken_ \(‘to drink’\). Verb conjugation in Dutch can get rather difficult, since there are lots of exceptions.
 
@@ -117,7 +117,7 @@ spreek\(speak\)
 
 **Irregular verbs**
 
- Unfortunately, Dutch also has irregular verbs. Fortunately, there are only **6** verbs that are completely irregular.
+Unfortunately, Dutch also has irregular verbs. Fortunately, there are only **6** verbs that are completely irregular.
 
 These are the irregular verbs:
 
@@ -140,7 +140,7 @@ The most common of these are _Hebben_ and _Zijn_, so here are their conjugations
 | Jullie hebben | Jullie zijn |
 | Zij hebben | Zij zijn |
 
-### Negation
+## Negation
 
 In Dutch, there are two words that are used to negate things: _niet_ and _geen_. They are, however, not interchangeable. And since this is Dutch, there are some exceptions to this rule as well.
 
@@ -169,6 +169,5 @@ _Niet_ is essentially used in all other situations:
 | Zij hebben de boeken niet. | They do not have the books. |
 | De man heeft het menu niet. | The man does not have the menu. |
 
-As you can see in the last example, _niet_ comes after the object, unlike _geen_. If it is used to negate an adjective or adverb, it comes directly before that word.  
-
+As you can see in the last example, _niet_ comes after the object, unlike _geen_. If it is used to negate an adjective or adverb, it comes directly before that word.
 

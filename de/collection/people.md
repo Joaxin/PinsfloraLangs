@@ -1,7 +1,5 @@
 # People
 
-
-
 We’ve seen how the words before nouns have different endings in German, like einen Garten or eine Frau. There’s a group of masculine nouns that end with ‑e, such as der Junge or der Name. These nouns add an ‑n to the end when in the accusative.
 
 **Der Name ist gut.**
@@ -14,7 +12,7 @@ Ich mag deinen **Vornamen**.
 
 Der Nachname\(the last name\)
 
-### Types of People
+## Types of People
 
 There are a few different words in German for people!
 
@@ -48,7 +46,7 @@ der Besucher\(the vistor\)
 
 I don't like your girlfriend.
 
-### **Family**
+## **Family**
 
 **Familie** might look like the word **family**, but it’s not pronounced the same, fah‑MEE‑lee‑uh!
 
@@ -83,7 +81,7 @@ Geschw**i**ster, “i” as in “in”
 
 **mein Vater und meine Mutter**
 
- my father and my mother
+my father and my mother
 
 > You might hear the words Mutti and Vati! These words were used in former East Germany and are still used in this area today.
 

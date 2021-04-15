@@ -1,7 +1,5 @@
 # Pronunciation
 
-
-
 ```text
 French word endings tend to be particularly difficult for beginners, largely because ending consonants are usually silent, but they do affect preceding vowel sounds.
 ```
@@ -21,7 +19,7 @@ The consonants C, R, F, and L are usually pronounced (you can use the mnemonic "
 * An ending _-fs_ is silent \(e.g. _œufs_ - eggs\).
 * The L of an ending _-il_ is usually silent \(e.g. _fusil_ - gun\).
 
-### The Mute E
+## The Mute E
 
 When a consonant is followed by a mute _-e_, then the consonant should be pronounced. This is a way of distinguishing masculine and feminine forms verbally. Any unaccented _-e_ at the end of a word is always mute except in a single-syllable word like _le_, which sounds somewhat like "luh".
 

@@ -10,7 +10,7 @@ Case matters! Many letters are **always** lowercase \(even at the beginning of a
 
 Pay attention to **I** \(capital i\) versus **l** \(small L\) - the second has a small curl at the bottom in Duolingo's website font.
 
-### nuqneH & nuqjatlh
+## nuqneH & nuqjatlh
 
 **nuqneH** is a truncated form of **nuq DaneH**, meaning "What do you want?"
 
@@ -20,17 +20,17 @@ It is a common misconception that this is "the Klingon word for hello". In fact,
 
 These phrases are special exclamations and not grammatically formed questions.
 
-### Qapla'
+## Qapla'
 
 Klingon for "success".
 
 This word is often mistranslated as "Goodbye", due to the fact that it is often heard at the end of conversations. In fact, Klingon has no word for "Goodbye", but **Qapla'** is often used either to congratulate somebody on their success or to wish them success in the future.
 
-### Video
+## Video
 
 Quvar - also known as the Klingon Teacher from Germany - has produced an informative video about the words **nuqneH** and **Qapla'**, available in both [English](https://www.youtube.com/watch?v=auqS6FR_RDE) and [German](https://www.youtube.com/watch?v=tt43a9uIYQ8).
 
-### Verbs
+## Verbs
 
 Klingon verbs do not have tense \(past, present, future\), so a verb such as **yaj** could mean "understands, understood, will understand".
 
@@ -49,23 +49,23 @@ If the subject is third person \(he/she/it/they\) and has either no object or a 
 
 Because of the verbal prefixes, the subject and/or object does not have to be included as a pronoun, and subject or object pronouns are often left off.
 
-### Torg and Mara
+## Torg and Mara
 
 In this unit, you will meet Torg and Mara. They will appear in many sentences where a name is useful. \(Later on, more names will appear.\)
 
 Torg is male and Mara is female - though that fact is not important to Klingon grammar, as there are no separate words for "he" and "she", and no different verb prefixes or suffixes depending on gender.
 
-### Joining nouns with and without "and"
+## Joining nouns with and without "and"
 
 Nouns are joined with **je**, which comes _after_ the nouns, as in **torgh mara je** "Torg and Mara", or **Hol pong je** "the language and the name".
 
 If there is no **je** after nouns next to each other, the effect is similar to possession: **mara pong** "Mara's name"; **tlhIngan Hol** "a Klingon's language, the Klingon language".
 
-### Word order
+## Word order
 
 Klingon word order in a sentence may seem like the opposite of English word order - first comes the object \(if any\), then the verb, then the subject. So a sentence such as **mara legh torgh** means "Torg sees Mara".
 
-### **Pronunciation**
+## **Pronunciation**
 
 **QumwI' yIchu'!** \("Activate communicator!"\)
 
@@ -75,7 +75,7 @@ Much as the English letter "H" is "aitch" or "haitch", or "Y" is "wye" & "W" is 
 
 The vowels are called **'at 'et 'It 'ot 'ut**. The consonants add **-ay** to the consonant sound, e.g. **m** is called **may** \(sounds like English _my_\) & **tlh** is **tlhay**. Translate those as "the letter a", "the letter m", "the letter tlh", etc.
 
-#### Alphabet
+### Alphabet
 
 The Klingon alphabet is: **a b ch D e gh H I j l m n ng o p q Q r S t tlh u v w y '**
 
@@ -83,7 +83,7 @@ Note that case matters: many letters are _always_ lowercase \(even at the beginn
 
 Note **I** \(capital i\) versus **l** \(small L\) - the second has a small curl at the bottom in Duolingo's website font. The vowel **I** never has an adjacent vowel. The consonant **l** will always have at least one adjacent vowel. **Q** & **q** are two separate letters. **ch gh ng** & **tlh** count as single consonants in Klingon. The **'** \(apostrophe\) also counts as a letter.
 
-#### Pronunciation:
+### Pronunciation:
 
 Letters **b l m n p t** & **v** are said as in English, but **b, p** & **t** should always have a puff of air, even at the end of a word.
 
@@ -119,7 +119,7 @@ Vowels each have one pronunciation.
 
 **'** marks a sound we do make in English. We don't usually mark it in English. In Klingon it is a full letter & leaving it out is like missing any other letter from a word. We call this **qaghwI'**. It is made by closing the throat & is called a glottal stop. It's the stop between syllables in the word "uh-oh". You may notice that you also close the throat at the beginning of "uh-oh" and all English words that start with a vowel. Klingon **'ej** sounds exactly like English "edge".
 
-### Useful-phrases
+## Useful-phrases
 
 **nuqjatlh, mara?**
 
@@ -135,7 +135,7 @@ Torg does not understand Mara.
 
 **jIyajbe'**
 
- I do not understand.
+I do not understand.
 
 **DIvI' Hol yajbe' tlhIngan, mara.**
 

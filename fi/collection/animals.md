@@ -22,7 +22,7 @@ The word for "it" is **se** and the word for "this" is **tämä**. As in English
 >
 > This cute parakeet is naughty!
 
-#### **To have**
+## **To have**
 
 Finnish does not have a verb for "to have". Instead the verb **olla**, "to be", is combined with a subject in the **adessive**. You can recognise the adessive from the ending _lla/llä_.
 
@@ -40,7 +40,7 @@ Sentences with **olla** follow the most-complete-noun-first rule, which is **why
 >
 > **Hänellä on kissa.** S/he has a cat.
 
-#### **What kind of**
+## **What kind of**
 
 In questions that begin with **millainen**, "what kind of"/"what...like", the verb is placed after the nouns and pronouns.
 
@@ -48,13 +48,13 @@ In questions that begin with **millainen**, "what kind of"/"what...like", the ve
 >
 > **Millainen koira sinulla on?** What kind of dog do you have/What is your dog like?
 
-#### **Incorrect!**
+## **Incorrect!**
 
 The word **väärin**, meaning "wrong" or "incorrect", is an adverb, which is why it always appears independently and never attaches itself to a noun.
 
 > **Väärin, se on undulaatti.** Wrong, it is a parakeet.
 
-#### **Good dog!**
+## **Good dog!**
 
 Grownup people are always \(fingers crossed\) _hyvä_, "good". However, Finns use the word _kiltti_, more literally "kind" or "well-behaved", instead of _hyvä_ when talking about children and animals. While some people may use both when talking to their pets, children are almost always _kiltti_.
 
@@ -62,7 +62,7 @@ Grownup people are always \(fingers crossed\) _hyvä_, "good". However, Finns us
 >
 > **Kuka on kiltti koira?** Who is a good dog?
 
-#### **Colour my world**
+## **Colour my world**
 
 In this skill, you will be introduced to the first colour words in this course: blue, white, and some of the rest \(which are not found in the most beautiful flag in the world\).
 
@@ -73,7 +73,7 @@ In this skill, you will be introduced to the first colour words in this course: 
 | musta | black |
 | vihreä | green |
 
-#### **Animal names**
+## **Animal names**
 
 | Name | Animal | Name | Animal |
 | :--- | :--- | :--- | :--- |

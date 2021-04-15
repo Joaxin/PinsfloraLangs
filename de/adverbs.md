@@ -4,7 +4,7 @@ description: Adverbs
 
 # Adverbs
 
-### Conjunctions
+## Conjunctions
 
 Conjunctions are words that combine phrases!
 

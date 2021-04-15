@@ -2,7 +2,7 @@
 
 Finnish is a proud member of the Finno-Ugric language family and, therefore, not related to the English language. It has no articles, no future tense, nor many other features found in so many European languages. It is a pretty regular language.
 
-### **Who are you?**
+## **Who are you?**
 
 The word for "I" is **minä** and for "you" **sinä**. Finnish verbs are conjugated according to person and number. Here are two forms of the verb **olla**, "to be":
 
@@ -25,7 +25,7 @@ The question word **kuka**, "who", is followed by words in the same order as if 
 
 > **Terve! Kuka sinä olet?** Hello! Who are you?
 
-### To be
+## To be
 
 The singular present tense forms of **olla**\(to be\):
 
@@ -51,7 +51,7 @@ In Standard Finnish, the words **minä** and **sinä** are **optional** when the
 
 Although common in writing, leaving out personal pronouns is rarer in spoken Finnish.
 
-#### **To be in order**
+### **To be in order**
 
 There are no articles in Finnish. That does not mean that you can put any old article in the English translation of a Finnish sentence. Sentences with the verb _olla_, "to be", put nouns in a certain order. The more important and complete something is, the earlier it appears. If a noun ends the sentence, it is somehow incomplete, often because the word does not include everything it by definition could.
 
@@ -73,9 +73,9 @@ However, the English language has so many ways of using articles in **generalisa
 
 In Finnish, that sauna is considered complete, since we are talking about all the good saunas in the world here.
 
-### **Name is not an omen**
+## **Name is not an omen**
 
-#### Finnish first names
+### Finnish first names
 
 Unlike in many other European languages, the last letter of a first name says nothing about the gender preferences associated with that name. There are also some names that have no preferred gender.
 
@@ -89,7 +89,7 @@ Unlike in many other European languages, the last letter of a first name says no
 | Miikka | Roosa |  |
 | Leo | Kaisa |  |
 
-#### Finnish last names
+### Finnish last names
 
 Finnish last names can usually be found in nature. The most common last names can be divided into four groups:
 
@@ -100,7 +100,7 @@ Finnish last names can usually be found in nature. The most common last names ca
 | Pöllölä | "Owl Place" - noun with the ending _la/lä_ |
 | Pöllövaara | "Owl Fell/Hill/Danger" - compound word that has probably replaced a name in some other language |
 
-#### **Knowing me, knowing you**
+### **Knowing me, knowing you**
 
 The shortest way to introduce someone is to use the phrase **Tämä on...**, "This is..":
 
@@ -110,7 +110,7 @@ Finns are very informal, but just in case you get invited to the Presidential In
 
 > **Herra Presidentti, tämä on rouva Pöllönen.** Mr. President, this is Ms. Pöllönen.
 
-### Vocabularies
+## Vocabularies
 
 | Vocabulary |  | Vocabulary |  |
 | :--- | :--- | :--- | :--- |

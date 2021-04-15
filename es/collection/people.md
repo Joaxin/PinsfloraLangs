@@ -1,6 +1,6 @@
 # People
 
-### La Familia
+## La Familia
 
 | Spanish |  |  |  |
 | :--- | :--- | :--- | :--- |
@@ -48,7 +48,7 @@ El niño quiere ser alto. \(The boy wants to be tall. \)
 
 ¿Quién no es simpático en tu familia? \(Who is not nice in your family?\)
 
- ¿Qué mascota quieres? \(What pet do you want?\)
+¿Qué mascota quieres? \(What pet do you want?\)
 
 Quiero disfrutar un café con mi padre. \(I want to enjoy a coffee with my dad. \)
 
@@ -56,7 +56,7 @@ Su mamá está cansada y necesita dormir. \(Her mom is tired and needs to sleep.
 
 negocio
 
-### Work
+## Work
 
 Yo **estoy** **aburrido** en el trabajo.
 

@@ -4,8 +4,6 @@ description: Alphabet and pronunciation
 
 # Pronunciation & Sounds
 
-
-
 The Dutch alphabet has 26 letters – just like in English. In fact, you don’t have to learn any new letters! Hurrah! However, there are a lot of differences and peculiarities in pronunciation. Some letters are pronounced differently, and there can be combinations of letters that may throw you for a loop.
 
 **Pronunciation**
@@ -20,7 +18,7 @@ The way Dutch vowels sound depends on whether they are in open or closed syllabl
 | D | \[d\], like in **d**uck. At the end of a word: \[t\] |
 | E | \[ɛ\] \(short\), like in b**e**d. \[e:\] \(long\), like in m**a**de. \[ə\], an ‘uh’ sound, like **a**gain; mostly at the end of verbs. |
 | F | \[f\], like in **f**eather |
-| G | \[ɣ\] / \[x\], the infamous Dutch sound. It sounds a bit like lo**ch** \(Scottish English\). \[g\] \(**\*g**oal_, ‘goal’\) or \[ʒ\] \(_baga**g**e, ‘luggage’\) in loan words |
+| G | \[ɣ\] / \[x\], the infamous Dutch sound. It sounds a bit like lo**ch** \(Scottish English\). \[g\] \(**\*g**oal\_, ‘goal’\) or \[ʒ\] \(\_baga**g**e, ‘luggage’\) in loan words |
 | H | \[ɦ\], like in be**h**ind |
 | I | \[ɪ\] \(short\), like in s**i**t. \[i\] \(long\), like in d**ee**p |
 | J | \[j\], like in **y**ard |

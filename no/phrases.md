@@ -6,7 +6,7 @@ description: Velkommen!
 
 I hope you've been enjoying your Norwegian learning thus far. There are a lot of new things to take on board in these early skills, but don't worry if everything doesn't stick right away; you're going to get plenty of revision of the basic concepts as you move through the course.
 
-### Greetings
+## Greetings
 
 Below is a list of common greetings in the Norwegian language, for your reference.
 
@@ -20,7 +20,7 @@ Below is a list of common greetings in the Norwegian language, for your referenc
 | **God natt**\(en,ei\) | Good night |
 | **God helg**\(en,ei\) | Good weekend |
 
-### Languages and Nationalities
+## Languages and Nationalities
 
 In Norwegian, most names of languages are derived from the name of the country, the adjective or the nationality with the ending **–sk** at the end. Below are a few examples.
 
@@ -32,7 +32,7 @@ In Norwegian, most names of languages are derived from the name of the country, 
 
 As you may have noticed above, Norwegians do not capitalize adjectives, nationalities or languages, only countries. All words are capitalized if they come at the beginning of the sentence, just like in English.
 
-### Who? What? Where?
+## Who? What? Where?
 
 When you're just starting out learning a new language, few things are more useful than to be able to ask the questions that allow you to find what you need or further your learning.
 
@@ -65,7 +65,7 @@ One example is "**Ha det bra!**", which literally means "Have it good!", but idi
 
 > Hva: E=hv Hovordan:Jordan
 
-### Knowing
+## Knowing
 
 The verb **å vite**, _to know_, is an irregular verb in Norwegian. Its present tense, which you will familiarize yourself with in this skill, is **vet**. See that vowel change from the infinitive to the present? Cheeky!
 
@@ -79,7 +79,7 @@ There are actually several verbs for knowing, and you'll get to know them all in
 >
 > What does he know?
 
-### Words
+## Words
 
 | Norwegian | English |
 | :--- | :--- |

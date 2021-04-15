@@ -1,8 +1,6 @@
 # Animals
 
-
-
-### Los animales
+## Los animales
 
 | Spanish | English | Spanish | English |
 | :--- | :--- | :--- | :--- |

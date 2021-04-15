@@ -1,7 +1,5 @@
 # Foods
 
-
-
 |  |  |  |  |
 | :--- | :--- | :--- | :--- |
 | la mela | l'acqua | il pane | lo zucchero |

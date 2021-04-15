@@ -56,6 +56,5 @@ And, unfortunately, many words simply don't follow any pattern, and their gender
 
 **Pão e leite.** Bread and milk.
 
-**Eu bebo água.** I drink waterItalian  
-
+**Eu bebo água.** I drink waterItalian
 

@@ -4,7 +4,7 @@ description: Magst du mich?
 
 # Questions and statements
 
-### **Sprechen sie Deutsch?**
+## **Sprechen sie Deutsch?**
 
 Remember, you can move the verb to the beginning of the sentence to ask a question in German!
 
@@ -40,7 +40,7 @@ Are the potatoes warm?
 
 I know Great Britain.
 
-### **Which witch?**
+## **Which witch?**
 
 The word **welch** is another one that changes based on the noun after it. This word uses the der word endings.
 
@@ -69,7 +69,7 @@ Which horse is strong?
 
 what gender?
 
-### **Where?**
+## **Where?**
 
 Asking **where** in German can be tricky! Let’s look at the difference between **wo**, **wohin**, and **woher**.
 
@@ -83,13 +83,13 @@ Where do you come **from**?
 
 **Wohin gehst du?**
 
- Where are you going **to**?
+Where are you going **to**?
 
 **Woher hast du das?**
 
 Where did you get that from?
 
-### What
+## What
 
 **Was ist ein Stuhl?**
 
@@ -119,17 +119,17 @@ That is all he talks about.
 
 Notice the stealthy **r** in wo**r**über? It gets stuck in there because it would be too difficult to pronounce the two vowels next to each other otherwise!
 
-### Who
+## Who
 
 **Wer ist dieses Madchen?**
 
 Who is this girl?
 
-### When
+## When
 
 Wan
 
-### How
+## How
 
 **Wie viel Wasser brauchen wir?**
 
@@ -139,7 +139,7 @@ How much water do we need?
 
 How many shoes do you have?
 
-### WHY
+## WHY
 
 Wieso
 

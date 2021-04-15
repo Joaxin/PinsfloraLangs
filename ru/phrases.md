@@ -1,6 +1,6 @@
 # Phrases
 
-### Hello
+## Hello
 
 Russian has a more informal greeting **«Приве́т»** and a more formal **«Здра́вствуй\(те\)»**. Here, we focus on the first, since it is the shorter one.
 
@@ -10,13 +10,13 @@ When on phone, use **«Алло́» \(Алё\)**.
 
 • _you can also use_ «пожа́луйста» _as a reply to "thanks", meaning "You are welcome!"_
 
-### How are you?
+## How are you?
 
 The phrase for "How are you?" literally means "How are your affairs \(the stuff you do\)?"
 
-No one uses it as a greeting, i.e. you are not expected to use it with people you barely know \(or those you know, for that matter\). And be prepared for a person to _actually_tell you how they've been doing. ;\)
+No one uses it as a greeting, i.e. you are not expected to use it with people you barely know \(or those you know, for that matter\). And be prepared for a person to \_actually\_tell you how they've been doing. ;\)
 
-### Good morning!
+## Good morning!
 
 Morning typically starts at 4 or 5 a.m., afternoon at noon, evening at 5 p.m. \(at 6 for some\) and night at 11 or at midnight.
 
@@ -28,7 +28,7 @@ Name and polite "You"
 
 Tips and notes
 
-### Thou art
+## Thou art
 
 Russian makes a distinction between **ты**, singular "you", and **вы**, plural "you" \(y'all\). The latter also doubles for "polite" you, with verbs also in plural. And don't forget that the "excuse" in "Excuse me" is a verb!
 
@@ -39,7 +39,7 @@ Russian makes a distinction between **ты**, singular "you", and **вы**, plur
 
 CONTRARY TO WHAT MANY NATIVE SPEAKERS HAVE COME TO BELIEVE IN THE LAST TEN OR FIFTEEN YEARS, THE POLITE "YOU" IS NOT AUTOMATICALLY CAPITALIZED IN RUSSIAN, AND NEVER WAS. SUCH CAPITALIZATION IS USED IN SOME FORMAL STYLES.
 
-### Grandson, son of Grand
+## Grandson, son of Grand
 
 As you might know if you ever read any Russian literature, Russians have three names; their first name and their surname—just like you have—and a _patronymic_ \(отчество\), which is based on their father's name \(отец = father\). A very common 'polite' pattern is to use a person's first name and a patronymic:
 
@@ -47,28 +47,28 @@ As you might know if you ever read any Russian literature, Russians have three n
 
 In this course, **name+patronymic** are always used with the polite **вы**-form.
 
-### What is your name?
+## What is your name?
 
 «Как вас зову́т?» is literally "How \(do\) they call you?"
 
 Russian has a casual diminutive form for many common names, : Ива̓н→Ва́ня, Мари́я→Маша, Алекса́ндр\(Алекса́ндра\)→Са́ша, Евге́ний\(Евге́ния\)→Же́ня, Еле́на→Ле́на, Алексе́й→Лёша, Пётр→Пе́тя. Needless to say, there's no "politeness" with these, but they are often used with some degree of affection.
 
-### Excuse me...
+## Excuse me...
 
 Russian has two very common polite patterns for questions that English does not:
 
 * **negative** questions give a shade of "by any chance": «Извини́те, вы не зна́ете Михаи́ла?» = _Excuse me, do you happen to know Mikhail?_
 * **"Please tell"** when asking for information: «Скажи́те, пожа́луйста, где музе́й?» = _Excuse me, where is the museum?_
 
-### Thank you
+## Thank you
 
 «Спаси́бо» is the word. A fancier option would be «Благодарю́!» \(a form of the verb «благодари́ть», "to thank"\), though quite a number of people use it, if only for variety.
 
-### Phrases
+## Phrases
 
 Привет/Здравствуй \(Hi\) \[Privet /Zdravstvuy\]
 
-Как ты/Как дела/﻿Как у вас дела? \(How are You?\)
+Как ты/Как дела/ Как у вас дела? \(How are You?\)
 
 спасибо \(Thank you\) \[spasibo\]
 

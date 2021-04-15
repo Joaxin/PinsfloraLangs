@@ -1,6 +1,6 @@
 # Introduction
 
-### Introduction
+## Introduction
 
 These Tips & Notes contain an overview of the concepts introduced in the skill. Studying them will give you a better understanding of the way Polish language works.
 
@@ -153,7 +153,7 @@ If these tables overwhelm you, remember that you will not encounter all of these
 
 To say that you speak in some language you use the preposition **po** and a form of the name of the language ending with -u. **polsku**and **angielsku** are in fact old Dative forms and they are not to be found anywhere apart from this one construction. **po polsku** could
 
-#### W
+### W
 
 chelb
 
@@ -183,13 +183,13 @@ Mężczyzna je jabłko. A man is eating an apple.
 
 Ona jest kobietą she is a woman.
 
-#### Phrases
+### Phrases
 
 Cześć hi/hello/bye!
 
 Dobrze fine alright well
 
- dziękuję.
+dziękuję.
 
 Tak
 

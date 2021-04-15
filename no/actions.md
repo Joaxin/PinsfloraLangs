@@ -4,7 +4,7 @@ description: Hun er lesbisk.
 
 # Actions
 
-### Present
+## Present
 
 The present tense is used to describe things that are happening or are true now:
 
@@ -36,7 +36,7 @@ The table below shows you how to do it:
 | å drikke | drikke**r** | drink\(s\), am/are/is drinking |
 | å se | se**r** | see\(s\), am/are/is seeing |
 
-### Sentences
+## Sentences
 
 | Norwegian | English |
 | :--- | :--- |
