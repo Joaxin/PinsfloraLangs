@@ -32,133 +32,51 @@ Dad usually works too much.
 
 ###  L**a**s **actividades**
 
-**Ver un partido** \(to watch a sports game/match\)
+| la actividad                              |                                 |                     |                  |
+| ----------------------------------------- | ------------------------------- | ------------------- | ---------------- |
+| **Ver un partido**                        | to watch a sports game/match    | **Ir al club**      | to go to a club  |
+| **Ir al partido de fútbol/béisbol**       | to go to a soccer/baseball game | **Ir al bar**       | to go to a bar   |
+| **Jugar al baloncesto/fútbol**            | to play basketball/soccer       | **Jugar al golf**   | to play golf     |
+| **Esquiar/Esquiar en el agua**            | to ski/to water ski             |                     |                  |
+| **Ir a pasear**                           | to go take a walk               | **Correr**          | Me gusta corer   |
+| **Trabajar en jardín / hacer jardineria** | to work in the garden/gardening | **Pescar**          | to fish, fishing |
+| **Ir a bailar/Bailar**                    | to go to dance                  | **Patinar**         | to skate         |
+| **Hacer ciclismo/el ciclismo**            | to do cycling                   | **Hacer ejercicio** | to exercise      |
+| **Hacer senderismo/el senderismo**        | to hike/hiking                  | **Nadar**           | to swim          |
 
-**Ir de viaje** \(to go on a trip\)
 
-**Ir de compras** \(to go shopping\)
 
-**Ir al cine** \(to go to a movie\)
 
-**Ir al club** \(to go to a club\)
 
-**Ir a bailar** \(to go to dance\)
 
-**Ir a pasear** \(to go take a walk\)
 
-**Ir al partido de fútbol** \(to go to a soccer game\)
+| la actividad             |                      |                               |                         |
+| ------------------------ | -------------------- | ----------------------------- | ----------------------- |
+| **Ir al cine**           | to go to a movie     | **Ver la tele**               | to watch TV\)           |
+| **Ver una película**     | to watch a movie     | **Escuchar musica**           | to listen to music      |
+| **Aprender**             | to learn             | **Escribir**                  | to write                |
+| **Cantar**               | to sing              | **Leer**                      | to read                 |
+| **Cocinar**              | to cook              | **Dibujar/Pintar**            | to draw/sketch/paint    |
+| **Ir de compras**        | to go shopping       | **Comer**                     | to eat                  |
+| **Navegar por Internet** | to surf the internet | **Tomar fotos / Sacar fotos** | to take pictures/photos |
+| **Tocar el piano**       | to play the piano    | **Tocar la guitarra**         | to play the guitar      |
+| **Tocar el violín**      | to play the violín   |                               |                         |
 
-**Ir al bar** \(to go to a bar\)
 
-**Ir a la playa** \(to go to a beach\)
 
-**Ir al centro** \(to go to downtown\)
+|                               |                  |                       |                    |
+| ----------------------------- | ---------------- | --------------------- | ------------------ |
+| **Ir de viaje**               | to go on a trip  | **Viajar**            | Me encanta viajar  |
+| **Ir a acampar**/ **Acampar** | to go camping    | **Ir al centro**      | to go to downtown  |
+| **Ver a un amigo**            | to see a friend  | **Ver a un familiar** | to see a relative  |
+| **Ir a la playa**             | to go to a beach |                       |                    |
+| **Ir a la fiesta**            | to go to a party | **Ir a la boda**      | to go to a wedding |
+|                               |                  |                       |                    |
+|                               |                  |                       |                    |
+|                               |                  |                       |                    |
+|                               |                  |                       |                    |
 
-**Ir a la fiesta** \(to go to a party\)
 
-**Ir a la boda** \(to go to a wedding\)
-
-**Ir a acampar** \(to go camping\)
-
-**Ver a un amigo** \(to see a friend\)
-
-**Ver a un familiar** \(to see a relative\)
-
-**Ver la tele** \(to watch TV\)
-
-**Ver una película** \(to watch a movie\)
-
-**Acampar** \(to camp\)
-
-**Aprender** \(to learn\)
-
-**Bailar** \(to dance\)
-
-**Boxear** \(to box, to do boxing\)
-
-**Cantar** \(to sing\)
-
-**Cocinar** \(to cook\)
-
-**Comer** \(to eat\)
-
-**Correr** \(to run\) – Me gusta corer \(I like to run\).
-
-**Coser** \(to sew\)
-
-**Dibujar** \(to draw/sketch\)
-
-**Escribir** \(to write\)
-
-**Escuchar musica** \(to listen to music\)
-
-**Esquiar** \(to ski\)
-
-**Esquiar en el agua** \(to wáter ski\)
-
-**Hacer ciclismo** \(to do cycling\) or just use the noun: el ciclismo \(cycling\)
-
-**Hacer ejercicio** \(to exercise\)
-
-**Hacer postres** \(to make desserts\)
-
-**Hacer senderismo** \(to hike\) or just use the noun: el senderismo \(hiking\)
-
-**Hacer snowboard** \(to snowboard\)
-
-**Hacer tirolesa** \(to zipline\)
-
-**Hacer manualidades** \(to do crafts\)
-
-**Hacer yoga** \(to do yoga\)
-
-**Jugar al baloncesto** \(to play basketball\)
-
-**Jugar al béisbol** \(to play baseball\)
-
-**Jugar al billar** \(to play pool / billiards\)
-
-**Jugar al boliche** \(to play bowling\)
-
-**Jugar al fútbol** \(to play soccer\)
-
-**Jugar al fútbol americano** \(to play American football\)
-
-**Jugar al golf** \(to play golf\)
-
-**Jugar al ajedrez** \(to play chess\)
-
-**Jugar a la barajas, jugar a las cartas, jugar a los naipes** \(to play cards\)
-
-**Jugar videojuegos** \(to play video games\)
-
-**Leer** \(to read\)
-
-**Nadar** \(to swim\)
-
-**Navegar por Internet** \(to surf the internet\)
-
-**Patinar** \(to skate\)
-
-**Pescar** \(to fish, fishing\)
-
-**Pintar** \(to paint\)
-
-**Sorfear** \(to surf\)
-
-**Tejer** \(to knit\)
-
-**Tocar el piano** \(to play the piano\)
-
-**Tocar la guitarra** \(to play the guitar\)
-
-**Tocar el violín** \(to play the violín\)
-
-**Tomar fotos / Sacar fotos** \(to take pictures/photos\)
-
-**Trabajar en jardín / hacer jardineria** \(to work in the garden/gardening\)
-
-**Viajar** \(to travel\) – Me encanta viajar \(I love traveling.\)
 
 
 

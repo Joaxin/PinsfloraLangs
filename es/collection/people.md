@@ -66,11 +66,19 @@ Esta **mañana** **estoy** muy **cansada**.
 
 * This morning I am very tired.
 
-|  |  |  |  |
+| hefe | boss | secretaria/o | secretary |
 | :--- | :--- | :--- | :--- |
 | modelo | model | médica | doctor |
 |  |  |  |  |
 |  |  |  |  |
+
+Laura es una secretaria simpática.
+
+- Laura is a nice secretary.
+
+Mi amigo/a nunca está contento/a con su trabajo.
+
+- My friend is never happy with his work.
 
 ¿Tú quieres tener un trabajo? \(Do you want to have a job? \)
 

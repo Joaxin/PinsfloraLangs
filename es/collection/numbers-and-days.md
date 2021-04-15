@@ -40,14 +40,23 @@ description: Schedule
 | **más o menos** | _around_ |
 | **medianoche** | _midnight_ |
 | **mediodía** | _noon_ |
+| **A veces** | sometimes |
 
 Y **mañana por la mañana** actually means **tomorrow morning**!
+
+A veces me siento un poco cansado **por** la mañana.
+
+- Sometimes I feel a little tired in the morning.
 
 ### La semana
 
 > **Los días de la semana son siete nada más.**
 >
 > There are only seven days of the week\(The days of the week are only seven\).
+>
+> **Un fin de semana con mi novia**
+>
+> A weekend with my girlfriend.
 
 | SPANISH | ENGLISH |
 | :--- | :--- |

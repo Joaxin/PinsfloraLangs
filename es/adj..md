@@ -80,6 +80,10 @@ Perdón, ¿estás mal? \(Sorry/pardon me, are you bad/unwell?\)
 
 No, no estoy enfermo **/** mal. \(No, I'm not unwell.\)
 
+Sí, yo estoy **un poco** triste.
+
+- Yes, I am a little sad.
+
 Él no está cansado **/** Ella está cansada. \(He is not tired **/** She is tired.\)
 
 La señora está ocupada. \(The lady is busy. \)
@@ -108,6 +112,10 @@ Emotional experiences and physical sensations—like hunger, sadness, or surpris
 | _maravillo/a_ | great |
 
 **Angry and Fearful Emotions**
+
+¿Por qué estás preocupada, Ana?
+
+- Why are you worried, Ana?
 
 | **Spanish** | **English** |
 | :--- | :--- |

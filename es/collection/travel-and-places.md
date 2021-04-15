@@ -15,6 +15,10 @@ description: 'Transportation, Travel & Places'
 | El pasaje/boleto | Ticket | La escala | Layover |
 | ¿Dónde está... \(la terminal sur/la aduana\)? | Where is... \(the south terminal/customs\)? | ¿A qué hora sale/llega el vuelo 222? | At what time does flight 222 leave/arrive? |
 
+La maleta está a tu derecha/izquierda.
+
+- The suitcase is to your right/left.
+
 ## Transportation
 
 For by somthing, there are two cases where the preposition **a** is used, when you go on foot or on horseback, otherwise, you should use **en**.
@@ -81,6 +85,10 @@ Quiero ir **al** aeropuerto en la mañana.
 
 * I want to go to the airport in the morning.
 
+El hotel está **al lado** de la estación de tren.
+
+- The hotel is next to the train station.
+
 But **de** and **a** don't combine with **la**, **los**, or **las**.
 
 Estamos cerca **de la** calle.
@@ -90,6 +98,14 @@ We are close to the street.
 ¿Por qué no quieres ir **a los** parques?
 
 Why don't you want to go to the parks?
+
+
+
+Vives **cerca de aquí** ?
+
+do you live near here?
+
+---
 
 Todo recto: Straight on
 
@@ -140,7 +156,7 @@ Ana es american**a**.
 
 | Spanish |  |  |
 | :--- | :--- | :--- |
-| America / Estados Unidos | americano/americana | america/american |
+| America / Estados Unidos | americano/americana/estadounidense | america/american |
 | Canadá | canadiense | canada/canadian |
 | México | mexicano/mexicana | mexico/mexican |
 | Cuba | Cubano/Cubana | cuba/cuban |
@@ -151,27 +167,27 @@ Ana es american**a**.
 
 | Los países | Countries |  |
 | :--- | :--- | :--- |
-| Bélgica | Belgium |  |
-| Dinamarca | Denmark |  |
-| Inglaterra | England |  |
-| Francia | France |  |
-| Alemania | Germany |  |
-| Grecia | Greece |  |
-| Irlanda | Ireland |  |
-| Italia | Italy |  |
-| Noruega | Norway |  |
-| Polonia | Poland |  |
-| Russia | Rusia |  |
-| Sweden | Suecia |  |
-| Suiza | Switzerland |  |
-| Reino Unido | United Kingdom |  |
+| Bélgica | Belgium | Belga |
+| Dinamarca | Denmark | danés |
+| Inglaterra | England | inglés |
+| Francia | France | francés |
+| Alemania | Germany | alemán |
+| Grecia | Greece | griego |
+| Irlanda | Ireland | irlandés |
+| Italia | Italy | italiano |
+| Noruega | Norway | noruego |
+| Polonia | Poland | Polos |
+| Russia | Rusia | Rusos |
+| Sweden | Suecia | sueco |
+| Suiza | Switzerland | suizo |
+| Reino Unido | United Kingdom | británico |
 | España | Spain | española/españolo |
 
 ### Spain
 
 |  |  |  |  |
 | :--- | :--- | :--- | :--- |
-| Barcelona |  |  |  |
+| Barcelona |  | Valencia |  |
 |  |  |  |  |
 |  |  |  |  |
 
