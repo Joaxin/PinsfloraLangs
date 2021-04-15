@@ -63,13 +63,21 @@ In Spanish, the days of the week are not capitalized.
 
 **¿Qué día es hoy, amigo?**
 
-- Hoy es **lunes**.
+Hoy es **lunes**.
+
+¡Feliz **viernes**!
+
+
 
 To say **on Monday** or **on Saturday**, use **el** before the day of the week.
 
 La fiesta es **el** viernes.
 
 * The party is on Friday.
+
+¡Disfruta **el** viernes!
+
+- Enjoy on Friday!
 
 #### Months
 
@@ -118,6 +126,12 @@ To indicate that it's half past the hour in Spanish, use the phrase **y media**
 To indicate that it's a quarter past the hour, use the phrase **y cuarto**
 To indicate that it's a quarter 'til the hour, use the phrase **menos cuarto**
 
+---
+
+**¿Cuando es el partido de futbol?**
+
+- when is the soccer game?
+
 ### Festivals
 
 ¿Cuándo es tu **cumpleaños**?
@@ -156,9 +170,7 @@ When is the movie?
 
 What day is the soccer game?
 
-**¡Disfruta el viernes!**
 
-Enjoy on Friday!
 
 **Mañana/Hoy es jueves.**
 
