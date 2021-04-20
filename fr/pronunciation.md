@@ -1,8 +1,6 @@
 # Pronunciation
 
-```text
 French word endings tend to be particularly difficult for beginners, largely because ending consonants are usually silent, but they do affect preceding vowel sounds.
-```
 
 | Ending | Homophones | Example | English Approximation | IPA |
 | :--- | :--- | :--- | :--- | :--- |
@@ -11,13 +9,17 @@ French word endings tend to be particularly difficult for beginners, largely bec
 | -it | -its, -i, -ie, -ies, -is, -iz | lit | LEE | \[i\] |
 | -at | -ats, -as, -a | chat | SHAH | \[ɑ\] |
 
-```text
 The consonants C, R, F, and L are usually pronounced (you can use the mnemonic "CaReFuL"), with these main exceptions:
-```
 
 * An ending _-r_ is silent in infinitives \(e.g. _parler_ - to speak\).
 * An ending _-fs_ is silent \(e.g. _œufs_ - eggs\).
 * The L of an ending _-il_ is usually silent \(e.g. _fusil_ - gun\).
+
+## Words Beginning with H
+
+The letter H is always mute \(silent\) in French, but when H starts a word, it can act as a consonant \(aspirate\) or vowel \(non-aspirate\). For example, the H in _homme_ acts as a vowel. This means that "the man" must be written as _l'homme_.
+
+Conversely, an aspirate H doesn't participate in elisions or liaisons. It's usually found at the beginning of loanwords from German or other languages. For instance, "the hero" is _le héros_.
 
 ## The Mute E
 

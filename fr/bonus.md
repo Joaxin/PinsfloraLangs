@@ -1,5 +1,22 @@
 # Bonus
 
+## Christmas
+
+le regalé un juguete
+
+- I gave her a toy
+
+**Le** Père Noël **vit au** pôle Nord.
+
+- Santa lives at the North Pole.
+
+J'aime la bûche de Noël.
+
+C'est une bûche de Noël au chocolat.
+
+> 1. The Yule Log is a European pagan tradition.
+> 2. The Yule Log is a very well-known French dessert.
+
 ## Flirting
 
 C'est le prince charmant ! \(He is Prince Charming!\)
@@ -18,6 +35,10 @@ Voulez-vous aller prendre un verre ? \(Do you want to go for a drink?\)
 J'aimerais vivre dans tes chaussures pour être avec toi à chacun de tes pas. \(I would like to live in your shoes to be with you at your every step.\)
 
 ## Idioms
+
+Many words or phrases cannot be translated literally between English and French because their usages are idiomatic. For instance, consider _« Ça va ? »_, which means "How are you?" The literal translation of the French is "That goes?", but this is nonsensical in English. It is very important to identify idioms in both languages and learn how to translate them properly.
+
+
 
 Ça va, ça vient. \(It comes and goes.\)
 
@@ -41,8 +62,4 @@ L'herbe est toujours plus verte chez le voisin. \(The grass is always greener on
 Elle va gagner les doigts dans le nez ! \(She will win with her fingers in her nose. / She is going to win hands down. \)
 
 Cet enfant ne sait pas tenir sa langue. \(This child does not know how to hold his tongue.\)
-
-## Christmas
-
-le regalé un juguete i gave her a toy Quiero comprar una de Navidad I want to buy a Christmas card Los regalos están debajo delvárbol. The presents are under the tree. Nuestro de Navidad es verde. our Chrismas tree is green El 5 de enero es el Día de los Reyes Magos. January 5 is the Three Kings Day. \(epiphany\) En navidad comemos turrón we eat nougat during Chrismas
 

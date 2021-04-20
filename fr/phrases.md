@@ -1,15 +1,13 @@
 # Phrases
 
-## _Bonjour !_
+## Bonjour !
 
-_Bonjour_ is a universal greeting that can be spoken to anyone at any time. In France, greeting people is very important, and some will even say _bonjour_ aloud when entering a public room or bus. _Bon après-midi_ is often used as a farewell in the afternoon, while _bonsoir_ is an evening greeting.
+_Bonjour_ is a universal greeting that can be spoken to anyone at any time. In France, greeting people is very important, and some will even say _bonjour_ aloud when entering a public room or bus. 
+
+Bon après-midi is often used as a farewell in the afternoon, while bonsoir is an evening greeting.
 
 * Greetings: _bonjour_, _bonsoir_ \(plus _bon matin_ in Québec only\)
 * Farewells: _bonne journée_, _bon après-midi_, _bonne soirée_, _bonne nuit_
-
-## Idioms
-
-Many words or phrases cannot be translated literally between English and French because their usages are idiomatic. For instance, consider _« Ça va ? »_, which means "How are you?" The literal translation of the French is "That goes?", but this is nonsensical in English. It is very important to identify idioms in both languages and learn how to translate them properly.
 
 ## Liaisons
 
@@ -117,5 +115,23 @@ Je suis d'accord. \(I agree. \)
 
 Il y a un garçon. \(There is a boy. \)
 
-Non, ce n'est pas d'accord. Really? - No, it's not fine. Non, ce n'est pas ça. No, it's not. I'm sorry. Non, ce n'est pas une question. No, that's not a proper question. Non, ce n'est pas une histoire. No, that's not a story. Non, ce n'est pas vrai. No, this is not right. Non, ce n'est pas notre avenir. No, this is not our future. Non, ce n'est pas illégal. No, it's not illegal. Non, ce n'est pas une aventure. No, it's not an adventure. Non, ce n'est pas le problème. No, it's not that. Non, ce n'est pas elle. No, that's not her.
+Non, ce n'est pas d'accord. Really? - No, it's not fine. 
+
+Non, ce n'est pas ça. No, it's not. I'm sorry. 
+
+Non, ce n'est pas une question. No, that's not a proper question.
+
+Non, ce n'est pas une histoire. No, that's not a story. 
+
+Non, ce n'est pas vrai. No, this is not right. 
+
+Non, ce n'est pas notre avenir. No, this is not our future. 
+
+Non, ce n'est pas illégal. No, it's not illegal. 
+
+Non, ce n'est pas une aventure. No, it's not an adventure. 
+
+Non, ce n'est pas le problème. No, it's not that. 
+
+Non, ce n'est pas elle. No, that's not her.
 
