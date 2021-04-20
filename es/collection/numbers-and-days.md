@@ -46,7 +46,7 @@ Y **mañana por la mañana** actually means **tomorrow morning**!
 
 A veces me siento un poco cansado **por** la mañana.
 
-- Sometimes I feel a little tired in the morning.
+* Sometimes I feel a little tired in the morning.
 
 ### La semana
 

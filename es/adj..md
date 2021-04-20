@@ -82,7 +82,7 @@ No, no estoy enfermo **/** mal. \(No, I'm not unwell.\)
 
 Sí, yo estoy **un poco** triste.
 
-- Yes, I am a little sad.
+* Yes, I am a little sad.
 
 Él no está cansado **/** Ella está cansada. \(He is not tired **/** She is tired.\)
 
@@ -115,7 +115,7 @@ Emotional experiences and physical sensations—like hunger, sadness, or surpris
 
 ¿Por qué estás preocupada, Ana?
 
-- Why are you worried, Ana?
+* Why are you worried, Ana?
 
 | **Spanish** | **English** |
 | :--- | :--- |

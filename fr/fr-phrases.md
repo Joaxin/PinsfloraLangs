@@ -1,8 +1,8 @@
-# Phrases
+# French Phrases
 
 ## Bonjour !
 
-_Bonjour_ is a universal greeting that can be spoken to anyone at any time. In France, greeting people is very important, and some will even say _bonjour_ aloud when entering a public room or bus. 
+_Bonjour_ is a universal greeting that can be spoken to anyone at any time. In France, greeting people is very important, and some will even say _bonjour_ aloud when entering a public room or bus.
 
 Bon après-midi is often used as a farewell in the afternoon, while bonsoir is an evening greeting.
 
@@ -115,23 +115,23 @@ Je suis d'accord. \(I agree. \)
 
 Il y a un garçon. \(There is a boy. \)
 
-Non, ce n'est pas d'accord. Really? - No, it's not fine. 
+Non, ce n'est pas d'accord. Really? - No, it's not fine.
 
-Non, ce n'est pas ça. No, it's not. I'm sorry. 
+Non, ce n'est pas ça. No, it's not. I'm sorry.
 
 Non, ce n'est pas une question. No, that's not a proper question.
 
-Non, ce n'est pas une histoire. No, that's not a story. 
+Non, ce n'est pas une histoire. No, that's not a story.
 
-Non, ce n'est pas vrai. No, this is not right. 
+Non, ce n'est pas vrai. No, this is not right.
 
-Non, ce n'est pas notre avenir. No, this is not our future. 
+Non, ce n'est pas notre avenir. No, this is not our future.
 
-Non, ce n'est pas illégal. No, it's not illegal. 
+Non, ce n'est pas illégal. No, it's not illegal.
 
-Non, ce n'est pas une aventure. No, it's not an adventure. 
+Non, ce n'est pas une aventure. No, it's not an adventure.
 
-Non, ce n'est pas le problème. No, it's not that. 
+Non, ce n'est pas le problème. No, it's not that.
 
 Non, ce n'est pas elle. No, that's not her.
 

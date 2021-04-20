@@ -1,4 +1,4 @@
-# Animals
+# French Animals
 
 ## Feminine Animals
 
@@ -6,7 +6,7 @@ In French, female animal nouns are generally formed as follows by taking the las
 
 un chat ⇒ une chatte
 
-un chien ⇒ une chienne 
+un chien ⇒ une chienne
 
 Of course, there are many exceptions. For example:
 

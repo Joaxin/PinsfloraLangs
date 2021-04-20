@@ -17,7 +17,7 @@ description: 'Transportation, Travel & Places'
 
 La maleta está a tu derecha/izquierda.
 
-- The suitcase is to your right/left.
+* The suitcase is to your right/left.
 
 ## Transportation
 
@@ -87,7 +87,7 @@ Quiero ir **al** aeropuerto en la mañana.
 
 El hotel está **al lado** de la estación de tren.
 
-- The hotel is next to the train station.
+* The hotel is next to the train station.
 
 But **de** and **a** don't combine with **la**, **los**, or **las**.
 
@@ -99,13 +99,9 @@ We are close to the street.
 
 Why don't you want to go to the parks?
 
-
-
 Vives **cerca de aquí** ?
 
 do you live near here?
-
----
 
 Todo recto: Straight on
 

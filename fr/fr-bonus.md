@@ -1,14 +1,14 @@
-# Bonus
+# French Bonus
 
 ## Christmas
 
 le regalé un juguete
 
-- I gave her a toy
+* I gave her a toy
 
 **Le** Père Noël **vit au** pôle Nord.
 
-- Santa lives at the North Pole.
+* Santa lives at the North Pole.
 
 J'aime la bûche de Noël.
 
@@ -37,8 +37,6 @@ J'aimerais vivre dans tes chaussures pour être avec toi à chacun de tes pas. \
 ## Idioms
 
 Many words or phrases cannot be translated literally between English and French because their usages are idiomatic. For instance, consider _« Ça va ? »_, which means "How are you?" The literal translation of the French is "That goes?", but this is nonsensical in English. It is very important to identify idioms in both languages and learn how to translate them properly.
-
-
 
 Ça va, ça vient. \(It comes and goes.\)
 

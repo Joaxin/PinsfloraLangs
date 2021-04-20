@@ -1,4 +1,4 @@
-# Introduction
+# French Introduction
 
 ## Genders
 
@@ -6,16 +6,16 @@ French has two grammatical genders: **masculine** and **feminine**. All nouns ha
 
 > All nouns have a gender that you must memorize.
 
-| French          |                              | French    |                  |
-| --------------- | ---------------------------- | --------- | ---------------- |
-| Le garçon       | boy                          | la fille  | girl             |
-| L'homme         | man                          | La femme  | woman            |
-| L'enfant        | child can be a boy or a girl | l'eau     | water            |
-| le lettre       | letter                       | la lettre | letter, alphabet |
-| le café         | coffee                       | la pomme  | apple            |
-| le français     |                              | la Chine  | China            |
-| le Petit Prince |                              | la bière  | beer             |
-| le menu         | menu                         | la orange | orange           |
+| French |  | French |  |
+| :--- | :--- | :--- | :--- |
+| Le garçon | boy | la fille | girl |
+| L'homme | man | La femme | woman |
+| L'enfant | child can be a boy or a girl | l'eau | water |
+| le lettre | letter | la lettre | letter, alphabet |
+| le café | coffee | la pomme | apple |
+| le français |  | la Chine | China |
+| le Petit Prince |  | la bière | beer |
+| le menu | menu | la orange | orange |
 
 However, some nouns can have multiple genders depending on the situation, and many masculine nouns can be changed to a feminine form simply by adding an **-e** to the end. Your male friend is un ami and your female friend is une amie. Some nouns, like l'élève \("the student"\), have the same spelling and meaning for both gender forms.
 
@@ -27,37 +27,35 @@ Some genders depend on a noun's classification. For instance, **languages, days 
 
 Otherwise, memorizing word endings is the best way to guess genders. We'll learn these ending patterns in four steps:
 
-- First: Nouns ending in -e tend to be feminine. All others, especially nouns ending in consonants, tend to be masculine. This is true for over 70% of all nouns.
-
-- Second: Nouns that have the endings -ion and -son tend to be feminine, even though they end in consonants.
-
-- Third: Nouns with these endings are usually masculine, although they end in -e:
+* First: Nouns ending in -e tend to be feminine. All others, especially nouns ending in consonants, tend to be masculine. This is true for over 70% of all nouns.
+* Second: Nouns that have the endings -ion and -son tend to be feminine, even though they end in consonants.
+* Third: Nouns with these endings are usually masculine, although they end in -e:
 
   -tre, -ble, -cle \(think "treble clef"\) -one, -ème, -ège \(think "OMG"\) -age, -isme
 
-- Fourth: Watch out for these complications:
+* Fourth: Watch out for these complications:
 
-  **-é** is masculine, but -té is feminine.  
+  **-é** is masculine, but -té is feminine.
 
-  - le résumé \(masc\) — the resumé  la liberté \(fem\) — the liberty 
+  * le résumé \(masc\) — the resumé  la liberté \(fem\) — the liberty 
 
-  **-de** is masculine, but -ade, -nde, and -ude are feminine. 
+  **-de** is masculine, but -ade, -nde, and -ude are feminine.
 
-  - le guide — the guide la parade — the parade 
-  
-  **-ste** and **-me** tend to be masculine, but there are dozens of exceptions. Words for people ending in -ste are often gender-neutral, e.g. le/la cycliste. 
-  
-  **-eur** is masculine for most professions or technical terms, but it's feminine for some emotions and abstract things. 
-  
-  - le chauffeur — the driver la peur — the fear 
+  * le guide — the guide la parade — the parade 
+
+  **-ste** and **-me** tend to be masculine, but there are dozens of exceptions. Words for people ending in -ste are often gender-neutral, e.g. le/la cycliste.
+
+  **-eur** is masculine for most professions or technical terms, but it's feminine for some emotions and abstract things.
+
+  * le chauffeur — the driver la peur — the fear 
 
 That's it! Memorize these, and you'll be able to guess most noun genders.
 
 ## Articles
 
-**Articles** (e.g. "the" or "a") provide context for a noun. In English, articles may be omitted, but French nouns almost always have an article.
+**Articles** \(e.g. "the" or "a"\) provide context for a noun. In English, articles may be omitted, but French nouns almost always have an article.
 
- French has three types of articles:
+French has three types of articles:
 
 * **Definite articles** \(the\) : nouns that are known to the speakers / the general sense of a noun
 * **Indefinite articles** \(a/an/one\) : countable nouns that are unspecified or unknown to the speakers
@@ -75,14 +73,13 @@ _Tu_ can also be elided in casual speech, but not in writing.
 | Indefinite | un | une | des | **une** _femme_ — a woman |
 | Partitive | du/de l' | de la/de l' |  | **de l**'eau— \(some\) water |
 
-In a **contraction**, two words combine to form one shortened word. For instance, the partitive article *du* is a contraction of the preposition *de* with *le*.
+In a **contraction**, two words combine to form one shortened word. For instance, the partitive article _du_ is a contraction of the preposition _de_ with _le_.
 
 * _du pain_ — \(some\) bread
 
   However, since _du_ can create vowel conflicts, when it would appear in front of a `vowel sound`, it takes the elided _de l'_ form instead. This is also the case for _de la_.
 
 * _de l'**a**nanas_ \[masc.\] — \(some\) pineapple
-
 * _de l'**e**au_ \[fem.\] — \(some\) water
 
 ## Personal Subject Pronouns
@@ -108,22 +105,17 @@ In all other cases and also for plurals, the more polite _vous_ should be used t
 
 ## Plurals
 
-Many French words have plural forms. Plural nouns and adjectives can be formed by appending an *-s* to the singular, but remember that this *-s* is usually silent.
+Many French words have plural forms. Plural nouns and adjectives can be formed by appending an _-s_ to the singular, but remember that this _-s_ is usually silent.
 
 * _homme_ \("man"\) ⇒ _hommes_ \("men"\)
-
 * _femme_ \("woman"\) ⇒ _femmes_ \("women"\)
-
 * _chat noir_ \("black cat"\) ⇒ _chats noirs_ \("black cats"\)
 
 Pronouns, adjectives, and articles must agree with their nouns in both gender and number. Consider the examples below and note how the article and adjective change to agree with each noun.
 
 * Masculine singular: _Le chat noir_ — The black cat
-
 * Masculine plural: _Les chats noirs_ — The black cats
-
 * Feminine singular: _La robe noire_ — The black dress
-
 * Feminine plural: _Les robes noires_ — The black dresses
 
 **Notes** : Not all adjectives change forms. For instance, _riche_ is the same for both masculine and feminine singular nouns.

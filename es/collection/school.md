@@ -24,11 +24,11 @@ Ellos no son estudiantes de inglés.
 
 Quiero estudiar en una universidad en/de españa.
 
-- I want to study at a university in spain.
+* I want to study at a university in spain.
 
 Siempre estudio con algun**o**s/un**o**s amigos.
 
-- I always study with some friends.
+* I always study with some friends.
 
 Yo **nunca** estoy aburrido en la clase.
 
@@ -41,8 +41,6 @@ Una escuela. \(A school\)
 I study at the university. \(Yo estudio en la Universidad.\)
 
 Esta universidad es mi favorita. \(This is my favourate university\)
-
-
 
 Este pueblo no tiene universidades. \(This town does not have universities.\)
 

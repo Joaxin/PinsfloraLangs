@@ -1,4 +1,4 @@
-# Pronunciation
+# French Pronunciation
 
 French word endings tend to be particularly difficult for beginners, largely because ending consonants are usually silent, but they do affect preceding vowel sounds.
 
@@ -9,7 +9,7 @@ French word endings tend to be particularly difficult for beginners, largely bec
 | -it | -its, -i, -ie, -ies, -is, -iz | lit | LEE | \[i\] |
 | -at | -ats, -as, -a | chat | SHAH | \[ɑ\] |
 
-The consonants C, R, F, and L are usually pronounced (you can use the mnemonic "CaReFuL"), with these main exceptions:
+The consonants C, R, F, and L are usually pronounced \(you can use the mnemonic "CaReFuL"\), with these main exceptions:
 
 * An ending _-r_ is silent in infinitives \(e.g. _parler_ - to speak\).
 * An ending _-fs_ is silent \(e.g. _œufs_ - eggs\).

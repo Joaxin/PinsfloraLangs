@@ -74,11 +74,11 @@ Esta **mañana** **estoy** muy **cansada**.
 
 Laura es una secretaria simpática.
 
-- Laura is a nice secretary.
+* Laura is a nice secretary.
 
 Mi amigo/a nunca está contento/a con su trabajo.
 
-- My friend is never happy with his work.
+* My friend is never happy with his work.
 
 ¿Tú quieres tener un trabajo? \(Do you want to have a job? \)
 
