@@ -2,17 +2,27 @@
 
 ## French vowels
 
-ch**a**t \(as in "f**a**ther"\)
+| French vowels        |                                        |
+| -------------------- | -------------------------------------- |
+| ch**a**t             | as in "f**a**ther"                     |
+| nu**i**t , p**i**zza | as in "L**i**sa"                       |
+| j**e**               | as in "p**e**tition"                   |
+| h**o**mme, gr**o**s  | \(as in "**o**r"                       |
+| t**u** , sal**u**t   | say "**ee**" while puckering your lips |
 
-nu**i**t , p**i**zza \(as in "L**i**sa"\)
+> To practice the French **u**, round your lips \(pucker up, buttercup!\) and say **ee**.
 
-j**e** \(as in "p**e**tition"\)
+## **Accents**
 
-h**o**mme, gr**o**s \(as in "**o**r"\)
+In French, an accent mark over a letter can make a new sound.
 
-To practice the French **u**, round your lips \(pucker up, buttercup!\) and say **ee**.
+j**e** (as in "p**e**tition")
 
-t**u** , sal**u**t \(say "**ee**" while puckering your lips\)
+journ**é**e (similar to "b**ay**")
+
+tr**è**s (as in "b**e**t")
+
+If the last letter of a word is an **e** (without an accent!), it's usually silent.
 
 ## French word endings
 

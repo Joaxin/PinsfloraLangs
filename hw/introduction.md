@@ -1,58 +1,54 @@
 # Introduction
 
-### **Hawaiian spelling**
+> ʻŌlelo Hawaiʻi
 
-**ʻOkina**
+## **Hawaiian spelling**
 
-The **ʻ** you will see in words like ʻae and ʻaʻole \(yes and no\), is called the ʻokina. The ʻokina is a glottal stop, which can be compared to the stopping of your voice between uh and oh in _uh-oh_. \(The name of this letter literally translates to "cutting off, separation".\)
+### **ʻOkina**
 
-**Kahakō**
+The **ʻ** you will see in words like **ʻae** and **ʻaʻole** \(yes and no\), is called the ʻokina. The ʻokina is a glottal stop, which can be compared to the stopping of your voice between uh and oh in _uh-oh_. \(The name of this letter literally translates to "cutting off, separation".\)
 
-The **¯** you will see in words like ʻōlelo \(language, speak\) and kāne \(man\) is called the kahakō. The kahakō prolongs a vowel.
+### **Kahakō**
+
+The **¯** you will see in words like **ʻōlelo** \(language, speak\) and **kāne** \(man\) is called the kahakō. The kahakō prolongs a vowel.
 
 It is important not to forget an ʻokina or a kahakō, because the word could have a very different meaning without them.
-
-### **E**
-
-**Imperative E**
-
-E is used before an action to signify a command or a suggestion. When you say, "E hele!", you're telling someone to "Go!"
-
-**Vocative E**
-
-E is used before a noun \(usually a person\) to indicate that the person is being addressed.
-
-Ex. Mahalo, e Kawika. \(Thanks, Kawika.\) ➜ You are saying thanks to Kawika.
-
-Aloha e Kaʻiulani. \(princess ka’iulani \)
-
-> Here, “e” is a vocative particle marking “Ka’iulani” as the person being addressed.
-
-E lei!
-
-Give a lei!
-
-> Guys, a lei is the garland of flowers that Hawaiians are known for making and wearing around their necks. I'm not Hawaiian but I'm fairly certain they are pretty important to the culture. That's why we are learning the term for them so early in the lessons.
-
-ʻAʻole!
-
-> No
-
-Mahalo!
-
-> Thanks
-
-ʻAe
-
-> Yes
 
 E'ōlelo, e Kawika.
 
 > Speak, Kawika.
 
-E hele
+### **E**
 
-> Go
+**Imperative E**
+
+E is used before an action to signify a command or a suggestion. When you say, "**E hele!**", you're telling someone to "Go!"
+
+**Vocative E**
+
+E is used before a noun \(usually a person\) to indicate that the person is being addressed.
+
+Ex. **Mahalo, e Kawika.** \(Thanks, Kawika.\) ➜ You are saying thanks to Kawika.
+
+**Aloha e Kaʻiulani.** \(princess ka’iulani \)
+
+> Here, “e” is a vocative particle marking “Ka’iulani” as the person being addressed.
+
+**Mahalo**
+
+Mahalo is taught in this skill to express gratitude, to say "thank you", but it can also mean "to admire".
+
+**Lei**
+
+You may be familiar with the word lei as a noun(garland) but you'll notice that the word "lei" in this skill can also be used as a verb. This is quite common in ʻōlelo Hawaiʻi.
+
+Give a lei!
+
+> Guys, a lei is the garland of flowers that Hawaiians are known for making and wearing around their necks. I'm not Hawaiian but I'm fairly certain they are pretty important to the culture. That's why we are learning the term for them so early in the lessons.
+
+
+
+
 
 Eʻai
 
@@ -62,7 +58,7 @@ Eʻai
 
 **Ke vs. Ka**
 
-"Ka", "Ke" and "Nā" are determiners that can sometimes be translated as "the". Use **ke** when the noun that follows begins with the letters K, E, A, or O. Use **ka** with almost all others! This is commonly referred to as the KEAO rule. Warning: there will be exceptions \(don't worry, we'll let you know which ones they are!\).
+"Ka", "Ke" and "Nā" are determiners that can sometimes be translated as "the". Use **ke** when the noun that follows begins with the letters K, E, A, or O. Use **ka** with almost all others! This is commonly referred to as the KEAO rule. Warning: there will be exceptions.
 
 **Plurals: nā**
 
@@ -70,9 +66,13 @@ Eʻai
 
 **Kēlā & Kēnā**
 
-"Kēlā" and "Kēnā" both mean "that". The difference is **kēlā** refers to "that" which is _away_ from the listener and **kēnā** refers to "that" which is _near_ the listener. Cultural note of interest: Hawaiians are keenly aware of space and time.
+"Kēlā" and "Kēnā" both mean "that". The difference is **kēlā** refers to "that" which is _away_ from the listener and **kēnā** refers to "that" which is _near_ the listener. 
+
+Cultural note of interest: Hawaiians are keenly aware of space and time.
 
 So in terms of distance from the speaker, remember this order: **kē**
+
+
 
 | kēia |  |
 | :--- | :--- |
@@ -82,7 +82,7 @@ So in terms of distance from the speaker, remember this order: **kē**
 | the girl | ke kaikamahine |
 | the children | nā keiki |
 | that house | kēlā hale |
-|  |  |
+| the chair | ke noho |
 |  |  |
 |  |  |
 
