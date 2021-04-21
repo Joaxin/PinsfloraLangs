@@ -1,4 +1,4 @@
-# French Animals
+# Animals\(fr\)
 
 ## Feminine Animals
 

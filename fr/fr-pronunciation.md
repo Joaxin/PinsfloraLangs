@@ -1,4 +1,20 @@
-# French Pronunciation
+# Pronunciation\(fr\)
+
+## French vowels
+
+ch**a**t \(as in "f**a**ther"\)
+
+nu**i**t , p**i**zza \(as in "L**i**sa"\)
+
+j**e** \(as in "p**e**tition"\)
+
+h**o**mme, gr**o**s \(as in "**o**r"\)
+
+To practice the French **u**, round your lips \(pucker up, buttercup!\) and say **ee**.
+
+t**u** , sal**u**t \(say "**ee**" while puckering your lips\)
+
+## French word endings
 
 French word endings tend to be particularly difficult for beginners, largely because ending consonants are usually silent, but they do affect preceding vowel sounds.
 

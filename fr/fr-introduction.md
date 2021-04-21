@@ -1,4 +1,10 @@
-# French Introduction
+---
+description: >-
+  French is an official language in 29 different countries! Let's get started
+  with the basics. Welcome and bienvenue to the French course.
+---
+
+# Introduction\(fr\)
 
 ## Genders
 

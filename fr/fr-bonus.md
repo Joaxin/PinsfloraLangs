@@ -1,4 +1,4 @@
-# French Bonus
+# Bonus\(fr\)
 
 ## Christmas
 
