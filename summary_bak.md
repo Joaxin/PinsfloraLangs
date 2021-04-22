@@ -11,7 +11,7 @@
   * [Phrases](kr/phrases.md)
   * [Introduction](kr/introduction.md)
 * [Latin](la/)
-  * [Introduction](la/introduction.md)
+  * [Introduction](la/la-introduction.md)
 * [German](de/)
   * [Adverbs](de/adverbs.md)
   * [Questions and statements](de/questions-and-statements.md)

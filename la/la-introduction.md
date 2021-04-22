@@ -2,7 +2,7 @@
 description: SALVETE！Just to keep learning things interesting.
 ---
 
-# Introduction
+# Introduction\(la\)
 
 ## Salve\(te\)!
 
@@ -155,15 +155,6 @@ Let us learn the singular forms of the verb to be \(esse, sum\).
 | es | you are |
 | est | he, she, it is |
 
-## Pronunciation
-
-This course uses Classical Pronunciation. A few things worth noting:
-
-* V sounds like the English W
-* C always sounds like a K
-* G is always hard and never J
-* AE sounds like the English word "eye"
-
 ## Cases
 
 Latin uses grammatical cases: words change when they get a different function in a sentence.
@@ -247,4 +238,8 @@ She sleeps at home.
 **Puer in urbe dormit.**
 
 The boy sleeps in the city.
+
+**Frater domi scribit.**
+
+The brother writes at home.
 
