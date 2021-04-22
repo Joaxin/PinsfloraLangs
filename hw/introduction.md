@@ -40,15 +40,11 @@ Mahalo is taught in this skill to express gratitude, to say "thank you", but it 
 
 **Lei**
 
-You may be familiar with the word lei as a noun(garland) but you'll notice that the word "lei" in this skill can also be used as a verb. This is quite common in ʻōlelo Hawaiʻi.
+You may be familiar with the word lei as a noun\(garland\) but you'll notice that the word "lei" in this skill can also be used as a verb. This is quite common in ʻōlelo Hawaiʻi.
 
 Give a lei!
 
 > Guys, a lei is the garland of flowers that Hawaiians are known for making and wearing around their necks. I'm not Hawaiian but I'm fairly certain they are pretty important to the culture. That's why we are learning the term for them so early in the lessons.
-
-
-
-
 
 Eʻai
 
@@ -66,13 +62,11 @@ Eʻai
 
 **Kēlā & Kēnā**
 
-"Kēlā" and "Kēnā" both mean "that". The difference is **kēlā** refers to "that" which is _away_ from the listener and **kēnā** refers to "that" which is _near_ the listener. 
+"Kēlā" and "Kēnā" both mean "that". The difference is **kēlā** refers to "that" which is _away_ from the listener and **kēnā** refers to "that" which is _near_ the listener.
 
 Cultural note of interest: Hawaiians are keenly aware of space and time.
 
 So in terms of distance from the speaker, remember this order: **kē**
-
-
 
 | kēia |  |
 | :--- | :--- |

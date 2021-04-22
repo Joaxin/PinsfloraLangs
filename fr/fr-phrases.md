@@ -4,32 +4,32 @@ description: Welcome and bienvenue!
 
 # Phrases\(fr\)
 
-## Salut, Bonjour! 
+## Salut, Bonjour!
 
 _Bonjour_ is a universal greeting that can be spoken to anyone at any time. In France, greeting people is very important, and some will even say _bonjour_ aloud when entering a public room or bus.
 
 If you're being casual, you can say **Salut** ! any time of day!
 
-Bon après-midi is often used as a farewell in the afternoon, while **bonsoir** is an evening greeting. ( "bonsoir" is an evening hello and "bonne soirée" an evening goodbye.)
+Bon après-midi is often used as a farewell in the afternoon, while **bonsoir** is an evening greeting. \( "bonsoir" is an evening hello and "bonne soirée" an evening goodbye.\)
 
 **Greetings**:
-| fr |      |
-| ---- | ---- |
+
+| fr |  |
+| :--- | :--- |
 | Bonjour, et bienvenue! | Hello/Good morning and welcome! |
-|  bonsoir    | plus _bon matin_ in Québec only |
-|   Enchanté   | Nice to meet you. |
+| bonsoir | plus _bon matin_ in Québec only |
+| Enchanté | Nice to meet you. |
 |  |  |
 |  |  |
 
+**Farewells**:
 
-**Farewells**: 
-
-| fr |      |
-| ---- | ---- |
-|  bonne journée    | (have a)good/nice day |
-|  bon après-midi    | (have a)good noon |
-|  bonne soirée    | (have a)good evening |
-|   bonne nuit   | (have a)good night |
+| fr |  |
+| :--- | :--- |
+| bonne journée | \(have a\)good/nice day |
+| bon après-midi | \(have a\)good noon |
+| bonne soirée | \(have a\)good evening |
+| bonne nuit | \(have a\)good night |
 | À demain | See you tomorrow |
 | à bientôt | See you soon |
 
@@ -39,11 +39,11 @@ Bon après-midi is often used as a farewell in the afternoon, while **bonsoir** 
 
 **Ça va** can be used both to ask how someone is doing and to answer the question!
 
-|                             |                                                              |
-| --------------------------- | ------------------------------------------------------------ |
-| Salut, ça va(bien) ?        | Hi, how are you?/Are you doing well?                         |
-| Ça va (très) bien, et toi ? | I'm (very) fine/It's going (very) well/I am doing (very) well., and you? |
-| Comment ça va ?             | How are you doing?                                           |
+|  |  |
+| :--- | :--- |
+| Salut, ça va\(bien\) ? | Hi, how are you?/Are you doing well? |
+| Ça va \(très\) bien, et toi ? | I'm \(very\) fine/It's going \(very\) well/I am doing \(very\) well., and you? |
+| Comment ça va ? | How are you doing? |
 
 ## Thank you
 
@@ -55,25 +55,25 @@ However, it may be considered a bit cold and short depending on the context.
 
 That’s why it’s often better to expand on the basic merci and use one these common variations:
 
-- Merci beaucoup (thank you very much)
-- Merci d’avance (thank you in advance)
-- Non merci (no thank you)
-- Merci à tous (thank you all)
+* Merci beaucoup \(thank you very much\)
+* Merci d’avance \(thank you in advance\)
+* Non merci \(no thank you\)
+* Merci à tous \(thank you all\)
 
 Sometimes you may also hear these alternative ways of saying thank you in French:
 
-- Merci bien (thanks a lot)
-- Merci infiniment (thank you a million)
-- Merci mille fois (thank you a thousand times)
-- Un grand merci à (a big thank you to…)
+* Merci bien \(thanks a lot\)
+* Merci infiniment \(thank you a million\)
+* Merci mille fois \(thank you a thousand times\)
+* Un grand merci à \(a big thank you to…\)
 
 ## Excerpt
 
-Désolé!, je suis désolée! (Sorry! I am sorry!/ my bad! )
+Désolé!, je suis désolée! \(Sorry! I am sorry!/ my bad! \)
 
-Oui, pardon! (Yes, pardon me! )
+Oui, pardon! \(Yes, pardon me! \)
 
-Oui, s'il te plaît ! (yes, [if you\] please!)
+Oui, s'il te plaît ! \(yes, \[if you\] please!\)
 
-Je suis d'accord. (I agree. )
+Je suis d'accord. \(I agree. \)
 

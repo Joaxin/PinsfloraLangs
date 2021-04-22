@@ -42,7 +42,7 @@ In **enchaînements**, ending consonant sounds are pushed onto the next word if 
 One of the most common impersonal expressions is _il y a_, which is an idiom for "there is" or "there are".
 
 * _Il y a une fille ici._ — There is a girl here.
-* Il y a un garçon. \(There is a boy. )
+* Il y a un garçon. \(There is a boy. \)
 * _Il y a un serpent dans ma botte !_ — There's a snake in my boot!
 
 ## "C'est" vs. "Il Est" Background
@@ -87,8 +87,6 @@ When talking about specific people, things, or ideas, _c'est_ and _il est_ may c
 * _Ce_ _sont_ _des Français? Non, des Italiens._ &gt; Are they French? No, Italian.
 * _Voici Alice—\*\*elle_ _est_ _professeur\*\*._ &gt; This is Alice—she's a teacher.
 
-
-
 Non, ce n'est pas d'accord. Really? - No, it's not fine.
 
 Non, ce n'est pas ça. No, it's not. I'm sorry.
@@ -108,3 +106,4 @@ Non, ce n'est pas une aventure. No, it's not an adventure.
 Non, ce n'est pas le problème. No, it's not that.
 
 Non, ce n'est pas elle. No, that's not her.
+
