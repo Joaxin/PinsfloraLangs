@@ -25,6 +25,14 @@ If you'd like to thank someone for something they did in the past, you change th
 | ありがとうございま\[した\] | Thank you for what you did, used with strangers, teachers, and bosses. |
 | どうも ありがとうございま\[した\] | Thank you very much for what you did, used with strangers, teachers, and bosses. |
 
+おはようございます\(Good morning!\)
+
+おはよう \(Good morning!\)\[ohayou\]
+
+こんばんは \(Good evening!\)
+
+おやすみなさい \(Good night!\)
+
 ## Excerpt
 
 はい \(Yes\)\[hai\]

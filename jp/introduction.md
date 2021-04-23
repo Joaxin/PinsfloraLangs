@@ -150,36 +150,21 @@ Pronouns are relatively rare in Japanese, but they are sometimes used to explici
 
 ### Numbers
 
-|  | Japanese | Hiragana |
-| :--- | :--- | :--- |
-| 0. | ゼロ | zero |
-| 1. | いち | ichi |
-| 2. | に | ni |
-| 3. | さん | san |
-| 4. | よん | yon |
-| 5. | ご | go |
-| 6. | ろく | roku |
-| 7. | なな | nana |
-| 8. | はち | hachi |
-| 9. | きゅう | kyuu |
-| 10. | じゅう | jyuu |
-| 11. | じゅういち | jyuuichi |
-| 12. | じゅうに | jyuuni |
-| 20. | にじゅう | nijyuu |
-| 30. | さんじゅう | sanjyuu |
-| 100. | ひゃく | hyaku |
+|  |
+| :--- |
+
 
 ### Colors
 
-あお \(blue,ao\) あか \(red,aka\) しろ \(white,shiro\)
+
 
 ### Animals
 
-いぬ\(犬, dog\) とり\(cat\) とり\(bird\) さかな 魚
+
 
 ### Fruits
 
-まんが \(mango, manga\) もも\(momo, peach\) バナナ\(banana, banana\) レモン\(lemon, remon\) くだもの\(fruit\)
+
 
 ### Body
 
@@ -193,27 +178,9 @@ Pronouns are relatively rare in Japanese, but they are sometimes used to explici
 
 ### Weather and Time
 
-おはようございます\(Good morning!\)
 
-おはよう \(Good morning!\)\[ohayou\]
 
-こんばんは \(Good evening!\)
 
-おやすみなさい \(Good night!\)
-
-はれ\(sunny\) くもり\(cloudy\)
-
-なつ\(summer, natsu\) ふゆ\(winter, fuyu\)
-
-ひる\(daytime, hiru\) きょう\(today, kyou\) よる\(night, yoru\)
-
-あさ 朝
-
-てんぷら \(Tempura\)
-
-うみ 海 そら 空
-
-かぜ \(wind\)
 
 ### Foods
 

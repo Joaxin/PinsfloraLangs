@@ -84,7 +84,7 @@
   * [Introduction](no/introduction.md)
 * [Portuguese](pt/)
   * [Introduction](pt/introduction.md)
-* [Greece](gr.md)
+* [Greece](gr/)
 * [Finnish](fi/)
   * [Collection]()
     * [Animals](fi/collection/animals.md)
