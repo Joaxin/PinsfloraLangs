@@ -24,10 +24,6 @@ You only use "Good night" \(Споко́йной но́чи\) when parting befor
 
 _If you are advanced enough to have noticed oblique forms used in some phrases—you are right! Greetings and other similar expressions are often shortened versions of longer phrases, where words still retain their forms. For example,_ «Споко́йной но́чи» _probably replaces the longer_ «Я жела́ю вам споко́йной но́чи!» _\(I wish you a peaceful night\). Needless to say, the full version is never used._
 
-Name and polite "You"
-
-Tips and notes
-
 ## Thou art
 
 Russian makes a distinction between **ты**, singular "you", and **вы**, plural "you" \(y'all\). The latter also doubles for "polite" you, with verbs also in plural. And don't forget that the "excuse" in "Excuse me" is a verb!

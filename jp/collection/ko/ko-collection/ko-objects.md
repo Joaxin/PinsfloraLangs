@@ -9,7 +9,6 @@
 공 \(ball\)
 
 사과와 연필 : apple and pencil
-공과 차: A ball and tea
 
 책과 연필 A book and a pencil
 

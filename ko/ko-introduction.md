@@ -241,14 +241,32 @@ These compound adjectives can be broken down into their respective parts and sti
 신문 \(Newspaper\)\[新闻，sinmun\]
 
 
+({는,은,를}the object marking particles like 공은 집에 있습니다 =the ball is at home)(가 is for person or animal like 개는 친구가 있습니다=the dig gas a friend)(에 is for places like 방이 집에 있습니다 =the room is in the house)(의 is for saying "my,their,his,her, (name)'s" and even though it is "ui" it is usually pronounced as "ye" over here like 여자아이의 음식=the girl's food)
 
 
+바다에 공원이 없습니다. There is no park in the ocean.
 
+[산]은 바다에 없습니다. \(Mountains is not at the sea.\)
 
+공원이 없습니다. There is no park.
 
-산은 바다에 없습니다. \(Mountains is not at the sea.\)
+음식은 맛없습니다. The food tastes bad.
+
+빵이 맛없습니다 The Bread tastes bad.
+
+산은 공원에 있습니다 The mountain is in the park.
 
 가수는 멋없습니다. \(The singer is uncool.\)
+
+사과는 맛있습니다. Apples are delicious.
+
+음식은 맛있습니다. Food is delicious.
+
+영화는 재미있습니다. The movie is interesting.
+
+공원은 재미없습니다 Parks are uninteresting.
+
+영화는 메시지가 없습니다 The movie does not have a message.
 
 책이 재미없습니다. \(The book is not funny / uninteresting.\)
 
@@ -256,7 +274,11 @@ These compound adjectives can be broken down into their respective parts and sti
 
 남자는 인기가 있습니다. \(Men are popular.\)
 
+저는 한국 출신입니다. I am from Korea.
+
+길이 한국에 없습니다. The road is not in Korea.
+
 남자는 한국 출신입니다. \(The man is from Korea\)
 
-남자의 이름 \(the man's name\)
+
 

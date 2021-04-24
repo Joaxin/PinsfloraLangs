@@ -1,8 +1,6 @@
-# Phrases
+# Phrases\(ko\)
 
-Common Phrases
 
-Tips and notes
 
 ## **Speech Level**
 
