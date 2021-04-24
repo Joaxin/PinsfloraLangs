@@ -4,15 +4,15 @@ description: どうもありがとうございます
 
 # Phrases
 
-| Japanese                          |        | Japanese            |       |
-| --------------------------------- | ------ | ------------------- | ----- |
-| はい                              | Yes    | いいえ              | No    |
-| あ                                | ah，oh | 多分(たぶん, tabun) | maybe |
-| お願(ねが)いします Onegai shimasu | please |                     |       |
-|                                   |        |                     |       |
-|                                   |        |                     |       |
+| Japanese |  | Japanese |  |
+| :--- | :--- | :--- | :--- |
+| はい | Yes | いいえ | No |
+| あ | ah，oh | 多分\(たぶん, tabun\) | maybe |
+| お願\(ねが\)いします Onegai shimasu | please |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
-## Greetings(挨拶,aisatsu)
+## Greetings\(挨拶,aisatsu\)
 
 **How are you?**
 
@@ -30,14 +30,14 @@ description: どうもありがとうございます
 
 **Nice to meet you.**
 
-| Japanese                                   |                                                     |
-| ------------------------------------------ | --------------------------------------------------- |
-| こんにち**は** \[konnichi**wa**\]          | Hello                                               |
-| どうい たしまして                          | You are welcome                                     |
-| よろしく/どうぞ +よろしく[Douzo yoroshiku] | nice to meet you                                    |
-| はじめまして \[Hajimemashite\]             | Nice to meet you                                    |
-| よろしく+お願(ねが)いします                | Nice to meet you./Thank you for your consideration. |
-|                                            |                                                     |
+| Japanese |  |
+| :--- | :--- |
+| こんにち**は** \[konnichi**wa**\] | Hello |
+| どうい たしまして | You are welcome |
+| よろしく/どうぞ +よろしく\[Douzo yoroshiku\] | nice to meet you |
+| はじめまして \[Hajimemashite\] | Nice to meet you |
+| よろしく+お願\(ねが\)いします | Nice to meet you./Thank you for your consideration. |
+|  |  |
 
 お願いします「おねがいします， onegaishimasu」: 请多关照”，“拜托了”
 
@@ -47,13 +47,13 @@ description: どうもありがとうございます
 
 **Good Morning…**
 
-|                                                  |               |      |
-| ------------------------------------------------ | ------------- | ---- |
-| おはよう[ohayou]/おはよ+う+ございます[gozaimasu] | Good morning! |      |
-|                                                  |               |      |
-| こんばんは[konbanwa]                             | Good morning! |      |
-|                                                  |               |      |
-| おやすみなさい[oyasuminasai]                     | Good night!   |      |
+|  |  |  |
+| :--- | :--- | :--- |
+| おはよう\[ohayou\]/おはよ+う+ございます\[gozaimasu\] | Good morning! |  |
+|  |  |  |
+| こんばんは\[konbanwa\] | Good morning! |  |
+|  |  |  |
+| おやすみなさい\[oyasuminasai\] | Good night! |  |
 
 ## Saying Thank You
 
@@ -62,7 +62,7 @@ The phrase "thank you" in Japanese is dependent on the situation. Below is a tab
 | Japanese | Explanation |
 | :--- | :--- |
 | どうも\[doumo\] | **Thanks**, used with friends. |
-| ありがと\[arigato\](う) | **Thank you**, used with friends. |
+| ありがと\[arigato\]\(う\) | **Thank you**, used with friends. |
 | どうも+ありがとう | **Thank you very much**, used with friends. |
 | ありがと+う+ございます\[… gozaimasu\] | **Thank you**, used with strangers, teachers, and bosses. |
 | どうも+ ありがうございます | **Thank you very much**, used with strangers, teachers, and bosses. |
@@ -76,27 +76,27 @@ If you'd like to thank someone for something they did in the past, you change th
 
 ## Saying Sorry
 
-ごめんなさい (*gomen nasai*) is the polite way to say “I’m sorry,” but you can make it more casual, too. Switching it to ごめん (*gomen*, masculine) or ごめんね (*gomen ne*, feminine) makes it more casual and lighthearted for minor issues.
+ごめんなさい \(_gomen nasai_\) is the polite way to say “I’m sorry,” but you can make it more casual, too. Switching it to ごめん \(_gomen_, masculine\) or ごめんね \(_gomen ne_, feminine\) makes it more casual and lighthearted for minor issues.
 
-On the flip side, you can make it more sincere by adding 本当に (*hontou ni*), to say 本当にごめんなさい (*hontou ni gomen nasai*) which means “I’m truly sorry.”
+On the flip side, you can make it more sincere by adding 本当に \(_hontou ni_\), to say 本当にごめんなさい \(_hontou ni gomen nasai_\) which means “I’m truly sorry.”
 
 | Japanese | Explanation |
 | :--- | :--- |
-| ごめん / ごめん+なさい\[Gomen Nasai] | This is the standard way to say “sorry” in Japanese, and you can use it in most situations. |
-| どうも\[すみません\]                 | excuse me                                                    |
-| すみません [Sumimasen]               | excuse me, a super common way to apologize in most situations, e.g. bumped into someone by accident? “ああ、すみません！” |
-|                                      |                                                              |
-|                                      |                                                              |
+| ごめん / ごめん+なさい\[Gomen Nasai\] | This is the standard way to say “sorry” in Japanese, and you can use it in most situations. |
+| どうも\[すみません\] | excuse me |
+| すみません \[Sumimasen\] | excuse me, a super common way to apologize in most situations, e.g. bumped into someone by accident? “ああ、すみません！” |
+|  |  |
+|  |  |
 
-If you did something wrong at work, this would be the phrase to use. It’s in humble speech and shows your sincerity more than ごめん(ね).
+If you did something wrong at work, this would be the phrase to use. It’s in humble speech and shows your sincerity more than ごめん\(ね\).
 
-申し訳ございません (moushiwake gozaimasen, I’m terribly sorry”) is also said if you do something wrong in any situation where you must apologize to someone of authority. That could mean law enforcement, too.
+申し訳ございません \(moushiwake gozaimasen, I’m terribly sorry”\) is also said if you do something wrong in any situation where you must apologize to someone of authority. That could mean law enforcement, too.
 
-You’ll also hear 申し訳ありません (*moushiwake arimasen*), which essentially means the same thing, but is slightly less polite because it’s not in humble speech.
+You’ll also hear 申し訳ありません \(_moushiwake arimasen_\), which essentially means the same thing, but is slightly less polite because it’s not in humble speech.
 
 ## Saying Goodbye
 
-[では], さようなら\(Bye\)\[sayou nara\]
+\[では\], さようなら\(Bye\)\[sayou nara\]
 
 > 「さよう」是“这样”的意思，「なら」是表示假设，如果怎么样的话，所以「さようなら」的本意是“如果这样的话”。
 >
@@ -112,13 +112,11 @@ You’ll also hear 申し訳ありません (*moushiwake arimasen*), which essen
 
 > 汉字写作「ご機嫌よう」。「機嫌\(きげん\)」就是心情的意思，这句话的本意是“祝您心情愉快”。它既可以表示再见，也可以表示“您好”的意思。但它也是一个非常正式的用语，常用于身份尊贵的女性。比如动漫中那些千金小姐、贵妇人等就经常说「ご機嫌よう」，但如果在现实生活中使用，则会给人一种装腔作势的感觉。
 
-| Japanese          | Explanation |
-| :---------------- | :---------- |
-| バイバイ[bai bai] | byebye      |
-| また明日          | 明天见      |
-| また来週          | 下周见      |
-| また金曜日        | 周五见      |
-|                   |             |
-
-
+| Japanese | Explanation |
+| :--- | :--- |
+| バイバイ\[bai bai\] | byebye |
+| また明日 | 明天见 |
+| また来週 | 下周见 |
+| また金曜日 | 周五见 |
+|  |  |
 

@@ -8,4 +8,5 @@ Japanese Tutorial: [https://www.learn-japanese-adventure.com/](https://www.learn
 
 ## Dictionionaries
 
-Japandict: https://www.japandict.com/
+Japandict: [https://www.japandict.com/](https://www.japandict.com/)
+
