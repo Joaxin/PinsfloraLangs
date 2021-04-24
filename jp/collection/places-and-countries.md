@@ -1,5 +1,49 @@
 # Places & Countries
 
+If you sound out the words below using katakana characters, you might find some familiar words! Some of the pronunciation is a little different than its English equivalent, though.
+
+| Japanese | Romaji    | English                   |
+| :------- | :-------- | :------------------------ |
+| カメラ   | kamera    | camera                    |
+| アメリカ | Amerika   | the US                    |
+| マリア   | Maria     | Maria (female given name) |
+| アフリカ | Afurika   | Africa                    |
+| メキシコ | Mekishiko | Mexico                    |
+| フランス | Furansu   | France                    |
+| エリカ   | Erika     | Erika (female given name) |
+| マリオ   | Mario     | Mario (male given name)   |
+
+Just be careful - not all words written in katakana were taken from English!
+
+| Japanese | Romaji  | English |
+| :------- | :------ | :------ |
+| イギリス | Igirisu | the UK  |
+| イタリア | Itaria  | Italy   |
+| ローマ   | Rōma    | Rome    |
+
+Not all foreign loan words in Japanese are directly equivalent to their English counterparts! For instance, in Japanese **アメリカ** (Amerika) isn't commonly used to refer to all of North America or to both North and South America - it's used almost exclusively to mean "the United States." However, **イギリス** (Igirisu) can be used to refer to both "the UK" and "England."
+
+---
+せかい 世界
+
+アメリカ \(the USA\)
+
+アメリカ人です\(American\)
+
+へや \(room\) きたない \(dirty\)
+
+いえ \(house,and/or\)
+
+そと \(outside\)
+
+ぎんこう\(bank, jinkou\)
+
+がっこう \(school, gakku\)
+
+えき 駅 Station
+
+きた 北
+
 ## Countries in Japanese
 
 ### Asia\(アジア\)

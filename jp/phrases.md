@@ -4,62 +4,17 @@ description: どうもありがとうございます
 
 # Phrases
 
-## Saying Thank You
+| Japanese                          |        | Japanese            |       |
+| --------------------------------- | ------ | ------------------- | ----- |
+| はい                              | Yes    | いいえ              | No    |
+| あ                                | ah，oh | 多分(たぶん, tabun) | maybe |
+| お願(ねが)いします Onegai shimasu | please |                     |       |
+|                                   |        |                     |       |
+|                                   |        |                     |       |
 
-The phrase "thank you" in Japanese is dependent on the situation. Below is a table of the most common forms, from least to most formal. Note that the formality increases with the length of the phrase.
+## Greetings(挨拶,aisatsu)
 
-| Japanese | Explanation |
-| :--- | :--- |
-| どうも\[doumo\] | **Thanks**, used with friends. |
-| ありがと\[arigto\] | **Thank you**, used with friends. |
-| どうも ありがと う | **Thank you very much**, used with friends. |
-| ありがとう ございます\[… gozaimasu\] | **Thank you**, used with strangers, teachers, and bosses. |
-| どうも ありがとう ございます | **Thank you very much**, used with strangers, teachers, and bosses. |
-
-## Saying Thank You for a Past Action
-
-If you'd like to thank someone for something they did in the past, you change the ございます ending to ございました。
-
-| Japanese | Explanation |
-| :--- | :--- |
-| ありがとうございま\[した\] | Thank you for what you did, used with strangers, teachers, and bosses. |
-| どうも ありがとうございま\[した\] | Thank you very much for what you did, used with strangers, teachers, and bosses. |
-
-おはようございます\(Good morning!\)
-
-おはよう \(Good morning!\)\[ohayou\]
-
-こんばんは \(Good evening!\)
-
-おやすみなさい \(Good night!\)
-
-## Excerpt
-
-はい \(Yes\)\[hai\]
-
-こんにち**は** \(Hello\) \[ konnichi**wa**\]
-
-よろしく \(nice to meet you\)
-
-どうぞよろしく\(Douzo yoroshiku\)：
-
-はじめまして \(Nice to meet you\)\[Hajimemashite\]
-
-よろしくおねがいします \(よろしくお願いします, Nice to meet you./Thank you for your consideration.\)
-
-どうい たしまして: You are welcome
-
-おねがいします \(please\)
-
-どうも\[すみません\] \(excuse me\)
-
-ごめん / ごめんね / ごめんなさい \(I am sorry, gomen nasai\)
-
-お願いします「おねがいします， o ne ga i shi ma su」: 请多关照”，“拜托了”
-
-> 在日本，拜托对方做什么事情时会说「お願いします」（拜托了）。自我介绍的时候，也会在最后说一句「よろしくお願いします」（请多多关照）。
->
-> 「お願いします」在一些场合下会说成「お願い」，意思是相同的，只是尊敬程度不同。「お願い」比「お願いします」更随意，多用在和关系亲近的人的对话中。
+**How are you?**
 
 おげんきですか？ \(How are you?\) \[お元気ですか\]
 
@@ -73,13 +28,79 @@ If you'd like to thank someone for something they did in the past, you change th
 
 `もちろん`げんきです\(Of course, I am fine\)
 
-さようなら\(Bye\)\[ sayou nara\]
+**Nice to meet you.**
+
+| Japanese                                   |                                                     |
+| ------------------------------------------ | --------------------------------------------------- |
+| こんにち**は** \[konnichi**wa**\]          | Hello                                               |
+| どうい たしまして                          | You are welcome                                     |
+| よろしく/どうぞ +よろしく[Douzo yoroshiku] | nice to meet you                                    |
+| はじめまして \[Hajimemashite\]             | Nice to meet you                                    |
+| よろしく+お願(ねが)いします                | Nice to meet you./Thank you for your consideration. |
+|                                            |                                                     |
+
+お願いします「おねがいします， onegaishimasu」: 请多关照”，“拜托了”
+
+> 在日本，拜托对方做什么事情时会说「お願いします」（拜托了）。自我介绍的时候，也会在最后说一句「よろしくお願いします」（请多多关照）。
+>
+> 「お願いします」在一些场合下会说成「お願い」，意思是相同的，只是尊敬程度不同。「お願い」比「お願いします」更随意，多用在和关系亲近的人的对话中。
+
+**Good Morning…**
+
+|                                                  |               |      |
+| ------------------------------------------------ | ------------- | ---- |
+| おはよう[ohayou]/おはよ+う+ございます[gozaimasu] | Good morning! |      |
+|                                                  |               |      |
+| こんばんは[konbanwa]                             | Good morning! |      |
+|                                                  |               |      |
+| おやすみなさい[oyasuminasai]                     | Good night!   |      |
+
+## Saying Thank You
+
+The phrase "thank you" in Japanese is dependent on the situation. Below is a table of the most common forms, from least to most formal. Note that the formality increases with the length of the phrase.
+
+| Japanese | Explanation |
+| :--- | :--- |
+| どうも\[doumo\] | **Thanks**, used with friends. |
+| ありがと\[arigato\](う) | **Thank you**, used with friends. |
+| どうも+ありがとう | **Thank you very much**, used with friends. |
+| ありがと+う+ございます\[… gozaimasu\] | **Thank you**, used with strangers, teachers, and bosses. |
+| どうも+ ありがうございます | **Thank you very much**, used with strangers, teachers, and bosses. |
+
+If you'd like to thank someone for something they did in the past, you change the ございま**す** ending to ございま**した**。
+
+| Japanese | Explanation |
+| :--- | :--- |
+| ありがとうございま\[した\] | Thank you for what you did, used with strangers, teachers, and bosses. |
+| どうも ありがとうございま\[した\] | Thank you very much for what you did, used with strangers, teachers, and bosses. |
+
+## Saying Sorry
+
+ごめんなさい (*gomen nasai*) is the polite way to say “I’m sorry,” but you can make it more casual, too. Switching it to ごめん (*gomen*, masculine) or ごめんね (*gomen ne*, feminine) makes it more casual and lighthearted for minor issues.
+
+On the flip side, you can make it more sincere by adding 本当に (*hontou ni*), to say 本当にごめんなさい (*hontou ni gomen nasai*) which means “I’m truly sorry.”
+
+| Japanese | Explanation |
+| :--- | :--- |
+| ごめん / ごめん+なさい\[Gomen Nasai] | This is the standard way to say “sorry” in Japanese, and you can use it in most situations. |
+| どうも\[すみません\]                 | excuse me                                                    |
+| すみません [Sumimasen]               | excuse me, a super common way to apologize in most situations, e.g. bumped into someone by accident? “ああ、すみません！” |
+|                                      |                                                              |
+|                                      |                                                              |
+
+If you did something wrong at work, this would be the phrase to use. It’s in humble speech and shows your sincerity more than ごめん(ね).
+
+申し訳ございません (moushiwake gozaimasen, I’m terribly sorry”) is also said if you do something wrong in any situation where you must apologize to someone of authority. That could mean law enforcement, too.
+
+You’ll also hear 申し訳ありません (*moushiwake arimasen*), which essentially means the same thing, but is slightly less polite because it’s not in humble speech.
+
+## Saying Goodbye
+
+[では], さようなら\(Bye\)\[sayou nara\]
 
 > 「さよう」是“这样”的意思，「なら」是表示假设，如果怎么样的话，所以「さようなら」的本意是“如果这样的话”。
 >
-> 「さようなら」的说法在日常生活中很少用，一是因为它是一个非常正式的用语，二是由于它含有一种“长期离别，再不相见”的意思，就相当于英语的goodbye。
-
-バイバイ\(bai bai\):byebye
+> 「さようなら」的说法在日常生活中很少用，一是因为它是一个非常正式的用语，二是由于它含有一种“长期离别，再不相见”的意思，就相当于英语的farewell。
 
 またね /じゃね（ma ta ne/jya ne）
 
@@ -91,11 +112,13 @@ If you'd like to thank someone for something they did in the past, you change th
 
 > 汉字写作「ご機嫌よう」。「機嫌\(きげん\)」就是心情的意思，这句话的本意是“祝您心情愉快”。它既可以表示再见，也可以表示“您好”的意思。但它也是一个非常正式的用语，常用于身份尊贵的女性。比如动漫中那些千金小姐、贵妇人等就经常说「ご機嫌よう」，但如果在现实生活中使用，则会给人一种装腔作势的感觉。
 
-また明日（明天见）
+| Japanese          | Explanation |
+| :---------------- | :---------- |
+| バイバイ[bai bai] | byebye      |
+| また明日          | 明天见      |
+| また来週          | 下周见      |
+| また金曜日        | 周五见      |
+|                   |             |
 
-また来週（下周见）
 
-また金曜日（周五见）
-
-英語ははなせますか？ \(Can you speak English?\)
 
