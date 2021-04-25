@@ -1,7 +1,5 @@
 # Phrases\(ko\)
 
-
-
 ## **Speech Level**
 
 Korean has **7** speech levels.
@@ -46,9 +44,8 @@ Also **감사하다** literally means "to thank," while 고맙다 is "to be than
 
 죄송하다 is a more formal form of apology. We'll introduce the other form later on in the course when we get to the next speech level.
 
-실례하다 is the word you'd use if you're trying to get past someone on a crowded subway or if you bump into someone. 실례합니다 literally means "I am being rude," so in other situations there are other alternatives that we will be teaching later on.
-실례합니다. 죄송합니다.
-Excuse me. I'm sorry.
+실례하다 is the word you'd use if you're trying to get past someone on a crowded subway or if you bump into someone. 실례합니다 literally means "I am being rude," so in other situations there are other alternatives that we will be teaching later on. 실례합니다. 죄송합니다. Excuse me. I'm sorry.
+
 ## **Nice to Meet You**
 
 Nice to meet you, **만나서 반갑습니다**, is a set phrase that literally means "Glad to have met."

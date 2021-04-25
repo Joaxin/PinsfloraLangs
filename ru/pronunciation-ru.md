@@ -4,41 +4,41 @@
 
 Russian uses a version of the **Cyrillic** Alphabet. Many letters look similar to their Latin counterparts. As Cyrillic typography was remodeled around 300 years ago, both alphabets have a similar style.
 
-| Captilize | Lowercase | Latin / Greek   |
-| :-------- | :-------- | :-------------- |
-| 1. А      | а         | A / Α α         |
-| 2. Б      | б         | B / Β β         |
-| 3. В      | в         | V               |
-| 4. Г      | г         | G / Γ γ         |
-| 5. Д      | д         | D / Δ δ         |
-| 6. Е      | е         | E / Ε ε         |
-| 7. Ё      | ё         | Yo              |
-| 8. Ж      | ж         | Zh              |
-| 9. З      | з         | Z - Ζ ζ / Η η   |
-| 10. И     | и         | I / Ι ι         |
-| 11. Й     | й         |                 |
-| 12. К     | к         | K / Κ κ         |
-| 13. Л     | д         | L / Λ λ         |
-| 14. М     | м         | M / Μ μ         |
-| 15. Н     | н         | N / Ν ν - Ξ ξ   |
-| 16. О     | о         | O / Ο ο         |
-| 17. П     | п         | P / Π π         |
-| 18. Р     | р         | R / Ρ ρ         |
-| 19. С     | с         | S / Σ σ \( ς \) |
-| 20. Т     | т         | T / Τ τ         |
-| 21. У     | у         | U / Υ υ         |
-| 22. Ф     | ф         | F / Φ φ         |
-| 23. Х     | х         | Kh / Χ χ        |
-| 24. Ц     | ц         | Ts / Ψ ψ        |
-| 25. Ч     | ч         | Ch - Ω ω        |
-| 26. Ш     | ш         | Sh              |
-| 27. Щ     | щ         | Sch             |
-| 28. Ъ     | ъ         |                 |
-| 29. Ы     | ы         | Y               |
-| 30. Ь     | ь         |                 |
-| 31. Э     | э         | E               |
-| 32. Ю     | ю         | Yu              |
-| 33. Я     | я         | Ya              |
+| Captilize | Lowercase | Latin / Greek |
+| :--- | :--- | :--- |
+| 1. А | а | A / Α α |
+| 2. Б | б | B / Β β |
+| 3. В | в | V |
+| 4. Г | г | G / Γ γ |
+| 5. Д | д | D / Δ δ |
+| 6. Е | е | E / Ε ε |
+| 7. Ё | ё | Yo |
+| 8. Ж | ж | Zh |
+| 9. З | з | Z - Ζ ζ / Η η |
+| 10. И | и | I / Ι ι |
+| 11. Й | й |  |
+| 12. К | к | K / Κ κ |
+| 13. Л | д | L / Λ λ |
+| 14. М | м | M / Μ μ |
+| 15. Н | н | N / Ν ν - Ξ ξ |
+| 16. О | о | O / Ο ο |
+| 17. П | п | P / Π π |
+| 18. Р | р | R / Ρ ρ |
+| 19. С | с | S / Σ σ \( ς \) |
+| 20. Т | т | T / Τ τ |
+| 21. У | у | U / Υ υ |
+| 22. Ф | ф | F / Φ φ |
+| 23. Х | х | Kh / Χ χ |
+| 24. Ц | ц | Ts / Ψ ψ |
+| 25. Ч | ч | Ch - Ω ω |
+| 26. Ш | ш | Sh |
+| 27. Щ | щ | Sch |
+| 28. Ъ | ъ |  |
+| 29. Ы | ы | Y |
+| 30. Ь | ь |  |
+| 31. Э | э | E |
+| 32. Ю | ю | Yu |
+| 33. Я | я | Ya |
 
 ## LETTERS AND SOUNDS
 
@@ -48,28 +48,23 @@ Russian uses a version of the **Cyrillic** Alphabet. Many letters look similar t
 
 **В** sounds like 'v', **Б** sounds like 'b'. **Н** is "n" and **И** is "i" \('eeh'\). The remaining letters are included in the table below:
 
-|                     |                   |                  |
-| :------------------ | :---------------- | :--------------- |
-| Ёё⁰ \(**you**r\)    | Вв \(**v**ase\)   | Бб \(**b**ed\)   |
-| Ээ \(r**e**d\)      | Нн¹ \(**n**ap\)   | Дд¹ \(**d**ab\)  |
-| Уу \(s**oo**n\)     | Хх² \(Ba**ch**\)  | Гг \(**g**ap\)   |
-| Ии \(m**ee**t\)     | Йй \(**y**es\)    | Лл¹ \(ni**l**\)  |
-| Юю \(**you**\)      | Рр \(trilled R\)  | Пп \(**p**oor\)  |
-| Ыы³ \(h**i**t\)     | Сс \(**S**am\)    | Зз \(**z**ebra\) |
-| Яя \(**ya**rd\)     | Фф \(**ph**oton\) | Цц \(ca**ts**\)  |
-| Жж⁴ \(sei**z**ure\) | Шш⁴ \(**sh**un\)  | Щщ⁴              |
-| Чч \(**ch**eer\)    |                   | Ъ and Ь⁵         |
+|  |  |  |
+| :--- | :--- | :--- |
+| Ёё⁰ \(**you**r\) | Вв \(**v**ase\) | Бб \(**b**ed\) |
+| Ээ \(r**e**d\) | Нн¹ \(**n**ap\) | Дд¹ \(**d**ab\) |
+| Уу \(s**oo**n\) | Хх² \(Ba**ch**\) | Гг \(**g**ap\) |
+| Ии \(m**ee**t\) | Йй \(**y**es\) | Лл¹ \(ni**l**\) |
+| Юю \(**you**\) | Рр \(trilled R\) | Пп \(**p**oor\) |
+| Ыы³ \(h**i**t\) | Сс \(**S**am\) | Зз \(**z**ebra\) |
+| Яя \(**ya**rd\) | Фф \(**ph**oton\) | Цц \(ca**ts**\) |
+| Жж⁴ \(sei**z**ure\) | Шш⁴ \(**sh**un\) | Щщ⁴ |
+| Чч \(**ch**eer\) |  | Ъ and Ь⁵ |
 
 * ⁰ **Ёё** The umlaut-like double dots are optional in writing. Syllables containing this letter are always stressed.
-
 * ¹ **т, д, н, л** are pronounced near your teeth
-
 * ² **х**\('kh'\) is somewhat similar to the H in "hue". It is like making the "sh" sound, only it is pronounced where you make the "K" sound.
-
 * ³ **ы** has no equivalent in English. It is an "eeh"-like sound, but less distinct, sounds closer to "e" in "lover", and has your tongue deeper that in "heat" or "hit".
-
 * ⁴ for **ш** and **ж** your tongue is lower than in English and slightly bent back. **Щ** has all your tongue raised—it is a longer and more hissy sound. **Ч** corresponds to **щ** \(i.e. a bit different than "ch"\)
-
 * ⁵ **ъ** and **ь** are separators and have no sound.
 
   **Л** can have a flat top, like **П**, or a pointy top like **А** \(it comes from the Greek Λ\). Д and Л have a similar top in many fonts, though it's up to the designer. Handwritten **Д** looks like _D_, and **д** like a _g_ or a _д_ \(the last two affect the italic shapes\).
@@ -78,7 +73,7 @@ Russian uses a version of the **Cyrillic** Alphabet. Many letters look similar t
 
 ![a picture with a table of Russian letters](https://cdn.jsdelivr.net/gh/joaxin/img_bed/img/duo/ru/ru_letters.png)
 
-P.S. In the notes, we use an acute accent to show you the stress (e.g., ра́дио). It is a standard practice in Russian textbooks for little children or foreign learners—and, generally, the most common way of marking the position of the stress.
+P.S. In the notes, we use an acute accent to show you the stress \(e.g., ра́дио\). It is a standard practice in Russian textbooks for little children or foreign learners—and, generally, the most common way of marking the position of the stress.
 
 ## Hard and soft
 
@@ -108,3 +103,4 @@ Some consonants let your voice come out immediately \(voiced\) while others wait
 * Х, Ч, Ц, Щ also play this game, even though Russian lacks letters for their voiced partners \(\[ɣ\], \[дж'\], \[дз\], \[ж'ж'\]\). They will devoice the preceding consonant or become voiced themselves.
 
 **UNLIKE UKRAINIAN, RUSSIAN ONLY USES \[Ɣ\], \[ДЖ'\] AND \[ДЗ\] AS VOICED VARIANTS OF Х, Ч, Ц. UKRAINIAN HAS THEM AS FULL-FLEDGED CONSONANTS—THE ONES THAT ARE AN INTRINSIC PART OF A WORD AND CAN APPEAR ANYWHERE.**
+

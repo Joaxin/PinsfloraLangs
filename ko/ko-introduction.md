@@ -4,8 +4,6 @@ description: HANGEUL Introduction
 
 # Introduction\(ko\)
 
-
-
 ![Korean alphabet](https://cdn.jsdelivr.net/gh/joaxin/img_bed/img/duo/kr/kr_alphabet.jpg)
 
 ## **Anglicization vs Korean**
@@ -25,8 +23,6 @@ Korean has had several standard systems of romanization over the years, with Rev
 * 맥도날드  —— McDonald's
 * 콜라 —— Cola
 * 커피 —— coffee
-
-
 
 배스킨라빈스 \(baskin robbins\)
 
@@ -218,15 +214,11 @@ These compound adjectives can be broken down into their respective parts and sti
 
 네 \(yeah\)
 
-
-
 위\(stomach top\)
 
 이름 \(Name\)
 
 남자의 이름 the man's name
-
-
 
 학교 \(school\)
 
@@ -240,13 +232,11 @@ These compound adjectives can be broken down into their respective parts and sti
 
 신문 \(Newspaper\)\[新闻，sinmun\]
 
-
-({는,은,를}the object marking particles like 공은 집에 있습니다 =the ball is at home)(가 is for person or animal like 개는 친구가 있습니다=the dig gas a friend)(에 is for places like 방이 집에 있습니다 =the room is in the house)(의 is for saying "my,their,his,her, (name)'s" and even though it is "ui" it is usually pronounced as "ye" over here like 여자아이의 음식=the girl's food)
-
+\({는,은,를}the object marking particles like 공은 집에 있습니다 =the ball is at home\)\(가 is for person or animal like 개는 친구가 있습니다=the dig gas a friend\)\(에 is for places like 방이 집에 있습니다 =the room is in the house\)\(의 is for saying "my,their,his,her, \(name\)'s" and even though it is "ui" it is usually pronounced as "ye" over here like 여자아이의 음식=the girl's food\)
 
 바다에 공원이 없습니다. There is no park in the ocean.
 
-[산]은 바다에 없습니다. \(Mountains is not at the sea.\)
+\[산\]은 바다에 없습니다. \(Mountains is not at the sea.\)
 
 공원이 없습니다. There is no park.
 
@@ -279,6 +269,4 @@ These compound adjectives can be broken down into their respective parts and sti
 길이 한국에 없습니다. The road is not in Korea.
 
 남자는 한국 출신입니다. \(The man is from Korea\)
-
-
 

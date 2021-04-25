@@ -18,9 +18,7 @@ Now you are ready to proceed to the main part of the tree!
 
 We are happy that you have chosen our Russian course. Just to make it clear, we are using American English in this course—but don't worry, we will accept most versions of English where appropriate. Just be careful around expressions like "bathroom" or "1st floor", because these may mean different things than what you are used to.
 
-As for Russian, we teach the standard language, which is based on the variation spoken around Moscow and Saint Petersburg, and we stick to the usage typical of these cities. Do not worry, though: for more than one reason Russian is rather uniform over the territory of Russia (still, there is some variation in pronunciation and a few items of everyday vocabulary). We try to stay neutral in style, with occasional trips into formal and informal language.
-
----
+As for Russian, we teach the standard language, which is based on the variation spoken around Moscow and Saint Petersburg, and we stick to the usage typical of these cities. Do not worry, though: for more than one reason Russian is rather uniform over the territory of Russia \(still, there is some variation in pronunciation and a few items of everyday vocabulary\). We try to stay neutral in style, with occasional trips into formal and informal language.
 
 Russian is an inflected language, so the forms of nouns and modifying adjectives correspond to their role in the sentence.
 
