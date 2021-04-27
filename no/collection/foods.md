@@ -4,7 +4,7 @@ description: Heter du Marius?
 
 # Foods
 
-In this skill, you'll learn the verb **lager**, which translates to _make_. There's no separate verb for cooking, instead, we use **lager mat**, literally _make food_.
+ The verb **lager**, which translates to _make_. There's no separate verb for cooking, instead, we use **lager mat**, literally _make food_.
 
 > **Han lager mat**. He is cooking.
 >
@@ -21,25 +21,38 @@ Remember that in Norwegian, the word for _of_, **av**, is omitted where one woul
 
 Neat, huh?
 
-| Vocabulary | \(Tree 4\) |
-| :--- | :--- |
-| **å lage** | to make |
-| **å lage mat** | to cook |
-| **en/ei melk** \(m/f\) | milk |
-| **en ris/risen** | rice |
-| **en fisk/fisken** | fish |
-| **et kjøtt/kjøttet** | meat |
-| **en pasta / pastaen** | pasta |
-| **en/ei suppe \(suppen\)** | soup |
-| **en kylling/kyllingen** | chicken |
-| **en frokost** | breakfast |
-| **en ost/osten** | cheese |
-| **en frukt/fruket** | fruit |
-| **en tomat/tomaten** | tomato |
-| **en pepper** | pepper \(not bell pepper!\) |
-| **en øl/ølen** | beer |
-| **et glass** | glass |
-| **et salt/saltet** | asalt |
-| **et egg/egget** | egg |
-| **et sukker/sukkeret** | sugar |
+|                        |           |      |      |
+| ---------------------- | --------- | ---- | ---- |
+| **en frokost**         | breakfast |      |      |
+|                        |           |      |      |
+| **et salt/saltet**     | salt      |      |      |
+| **et sukker/sukkeret** | sugar     |      |      |
+
+a
+
+| Vocabulary |  |  |  |
+| :--- | :--- | ---- | ---- |
+| **en/ei melk** \(m/f\)     | milk                        | **et glass** | glass |
+| **en øl/ølen** | beer |  |  |
+| **en/ei suppe \(suppen\)** | soup |  |  |
+| **en ost/osten** | cheese |  |  |
+| **en ris/risen** | rice | **et egg/egget** | egg |
+| **en fisk/fisken** | fish |  |  |
+| **en pasta / pastaen** | pasta |  |  |
+| **en kylling/kyllingen** | chicken | **et kjøtt/kjøttet** | meat |
+|  |  |  |  |
+| **en pepper** | pepper \(not bell pepper!\) |  |  |
+|  |                             |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| **en tomat/tomaten** | tomato |  |  |
+
+## **En frukt/fruket**
+
+|      |      |      |      |
+| ---- | ---- | ---- | ---- |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
 

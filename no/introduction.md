@@ -1,5 +1,5 @@
 ---
-description: Just to keep learning things interesting. Jeg er glad du er glad.
+description: Jeg er glad du er glad.
 ---
 
 # Introduction
@@ -22,7 +22,7 @@ Norwegian is a language with `simpler grammar` than many other European language
 
 > All feminine gendered nouns can be classified as **masculine gender** as well. In theory, one could treat all feminine nouns as masculine ones, but most Norwegians still use the feminine form, especially for certain words.
 
-The choice really is up to you! Both **en kvinne** and **ei kvinne** are grammatically correct, and the tendency to use the feminine gender depends on geography and dialect. We have decided to teach it where it is most natural to use it, with words such as **en jente** meaning _girl_, for example.
+The choice really is up to you! Both **en kvinne** and **ei kvinne** are grammatically correct, and the tendency to use the feminine gender depends on geography and dialect. 
 
 ## Pronouns & Conjugation
 
@@ -42,7 +42,7 @@ As in English, the pronouns above only pertain to subjects. The pronouns at the 
 | **deg** | you \(singular\) | **dere** | you \(plural\) |
 | **ham**, **henne**, **det/den** | him, her, it | **dem** | them |
 
-> **Han** is an alternative form of **ham**, but in this course we will use "han" exclusively as a subject \("he"\), and "ham" for the object form \("him"\).
+> **Han** is an alternative form of **ham**, but here we will use "han" exclusively as a subject \("he"\), and "ham" for the object form \("him"\).
 
 Conjugation couldn't be simpler. All conjugated verbs have an `-r stem` in the present, and verbs don't change according to the subject! How easy is that?
 
@@ -52,114 +52,47 @@ Conjugation couldn't be simpler. All conjugated verbs have an `-r stem` in the p
 | **du er** | you are | **dere er** | you are |
 | **han**, **hun**, **det er** | he, she, it is | **de er** | they are |
 
-> Although not as common as **det**, **den** is used to mean _it_ or _that_ when referring to a masculine or feminine subject, and not a neuter one. **Det** is used to mean _it_ or _that_ when referring back to a neuter subject, and when introducing a brand new noun that has not yet been mentioned - regardless of the gender of that noun.
->
-> Den is for hankjønn \[masculine\] \(article en\) and hunkjønn \[feminine\] \(article ei\)
->
-> Det is for intetkjønn \["Ungendered"\] \(article et\) or used when the gender of someone has not been introduced or is not known.
-
 | eat | read | speak | see |
 | :--- | :--- | :--- | :--- |
 | spiser | leser | snakker | ser |
 | **drink** | **buy** | **sits** | **hear** |
 | drikker | kjøper | sitter | hører |
-| **viser** |  |  |  |
-| show |  |  |  |
+| **viser** | **bor** |  |  |
+| show | live |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 
-## Pronunciation
+## Det & Den 
 
-As a general rule, words are spelled as they're pronounced in Norwegian. One exception is words beginning with **hv**, such as **hva**, meaning _what_. In this word, the **h** is silent.
+Although not as common as **det**, **den** is used to mean _it_ or _that_ when referring to a masculine or feminine subject, and not a neuter one. **Det** is used to mean _it_ or _that_ when referring back to a neuter subject, and when introducing a brand new noun that has not yet been mentioned - regardless of the gender of that noun.
 
-In addition, there are several letters and letter combinations that are pronounced differently from English.
+Den is for hankjønn \[masculine\] \(article en\) and hunkjønn \[feminine\] \(article ei\)
 
-| Norweg. | IPA, Notes |
-| :--- | :--- |
-| A | \[ɑ\], very open |
-| B | \[b\] |
-| C | \[s\] or \[k\] depending on word, very rare |
-| D | \[d\], silent in consonant clusters |
-| E | \[e\] or \[ɛ\], \[æ\] in _her_ and _der_, \[i\] in _de_ |
-| F | \[f\] |
-| G | \[g\], \[j\] before an i; silent before a j; silent after an i and sometimes an a or o |
-| H | \[h\], silent before v |
-| I | \[i\] like the _e_ in _email_ or _ebook_, \[ɪ\] before two consonants |
-| J | \[j\], like the _y_ in _yes_ or _yellow_ |
-| K | \[k\] |
-| kj, ki, ky | \[ç\], like the sharp _h_ in _human_ |
-| L | \[l\] |
-| M | \[m\] |
-| N | \[n\] |
-| O | \[u\] like the _oo_ in _soon_, but longer, \[ʊ\] before two consonants |
-| P | \[p\] |
-| R | \[ɾ\], tap, like the _tt_ in North American _butter_; some in Norway use \[ʁ\], the so-called _French R_ |
-| rs | \[ʃ\], _r_ + _s_ combinations produce _sh_ sound, even between words |
-| S | \[s\] |
-| skj, ski, sky, sl | \[ʃ\], like the _sh_ in _ship_ or _shell_ |
-| T | \[t\], silent after an e sometimes, ex. _det_ |
-| U | \[ʉ\], like the _ew_ in _new_, but more closed |
-| V | \[v\] |
-| Y | \[y\] or \[ʏ\], like the _e_ in _email_, but more closed |
-
-### Norwegian vowels
-
-Norwegian also has three special Norwegian vowels, **Æ**, **Ø** and **Å**.
-
-| - | Similar To | IPA |
-| :--- | :--- | :--- |
-| Æ | the _a_ in _add_ or _apple_ | \[æ\] |
-| Ø | no real equivalent, but not far from the vowel sounds in _bird_ or _earth_ | \[ø\] or \[œ\] |
-| Å | the _o_ in _open_ or _old_ | \[o\] or \[ɔ\] |
-
-> When you have no other option, you can use these replacement characters, but don't get into the habit of relying on them, as it will be a hard one to break.
-
-| Character | Replacement |
-| :--- | :--- |
-| **Æ** | AE |
-| **Ø** | OE |
-| **Å** | AA |
-
-### Special Notes on Common Words
-
-| Norweg. | Meaning | Pronunciation |
-| :--- | :--- | :--- |
-| **jeg** | I | _yai_, rhymes with English _guy_ |
-| **er** | am, is, are | _ær_, similar to English _are_ but with tapped _r_ |
-| **det** | it, that | _deh_, silent _t_ |
-| **de** | they | _dee_ |
+Det is for intetkjønn \["Ungendered"\] \(article et\) or used when the gender of someone has not been introduced or is not known.
 
 ## Definite Forms
 
 The definite form, _the man_, _the woman_, et cetera, is formed by attaching the indefinite article onto the end of the noun. This ending is called a postfix or a suffix.
 
-| Indefinite |  | Definite |  |
-| :--- | :--- | :--- | :--- |
-| en mann | _a man_ | mannen | _the man_ |
-| et barn | _a child_ | barnet | _the child_ |
-| en gutt | a boy | gutten | the boy |
-|  |  |  |  |
+| Indefinite | Definite |
+| :--- | :--- |
+| en mann | mannen |
+| en gutt | gutten |
+| et barn | barnet |
+|  |  |
 
 Although the _t_ is pronounced as such in the phrase **et barn**, it turns silent in the definite form, **barnet**, which is pronounced more like _barneh_. This is the case with all neuter nouns in the singular definite form.
 
-> `Be sure to drop the *t* sound, otherwise you might sound rather Swedish.`
+> Be sure to drop the *t* sound, otherwise you might sound rather Swedish.
 
 For feminine-classified nouns, there is one irregularity in the definite form:
 
-| Indefinite |  | Definite |  |
-| :--- | :--- | :--- | :--- |
-| ei kvinne **or** en kvinne | _a woman_ | kvinna **or** kvinnen | _the woman_ |
-| ei jente **or** en jente | _a girl_ | jenta **or** jenten | _the girl_ |
-
-Both **jenta** and **jenten** are appropriate translations for _the girl_. These same endings apply to all feminine nouns.
-
-It is also normal to use the masculine article "en" for indefinite forms, even when preferring a feminine suffix in definite. This is not considered an error!
-
-| Indefinite |  | Definite |  |
-| :--- | :--- | :--- | :--- |
-| en jente | _a girl_ | jenta | _the girl_ |
-| en øy | _an island_ | øya | _the island_ |
+| Indefinite | Definite |
+| :--- | :--- |
+| ei kvinne **or** en kvinne | kvinna **or** kvinnen |
+| ei jente **or** en jente | jenta **or** jenten |
+| ei øy **or**en øy | øya **or** øyen |
 
 ## Plurals
 
@@ -183,7 +116,7 @@ Single-syllable neuter nouns, such as **hus** _house_ and **dyr** _animal_, ofte
 | barn | _child_ **or** _children_ |
 | brev | letters |
 
-How then can you tell the difference between **hus** meaning _house_ and **hus** meaning _houses_? That depends on context and adjective endings, which we will cover a bit later in the course.
+How then can you tell the difference between **hus** meaning _house_ and **hus** meaning _houses_? That depends on context and adjective endings, which we will cover a bit later.
 
 One exception to these rules is the Norwegian word for "man" which pluralizes in an irregular way that's almost identical to English:
 
@@ -204,7 +137,17 @@ Here are some additional common irregular plurals, a couple of which are also ir
 | tann | tenner | _tooth - teeth_ |
 | tre | trær | _tree - trees_ |
 
+**Jeg leser flere aviser.**
+
+I read several newspapers.
+
 ## Question Words
+
+When you're just starting out learning a new language, few things are more useful than to be able to ask the questions that allow you to find what you need or further your learning.
+
+Confused yet? We have just the word for you...
+
+**Hva** is the word for _what_, and also happens to be just the right thing to exclaim when you feel like you've been hit in the head with one Norwegian grammar rule too many.
 
 | Norwegian | English |
 | :--- | :--- |
@@ -214,24 +157,67 @@ Here are some additional common irregular plurals, a couple of which are also ir
 
 Isn't it neat how they all resemble their English counterparts? You've probably noticed by now that English and Norwegian have many things in common, both when it comes to grammar and vocabulary. This is because they're closely related Germanic languages.
 
+---
+
+We've compiled a list of common phrases in the Norwegian language, for your reference.
+
+Many of them are idiomatic, meaning that they don't translate word for word to English. You'll have to learn the entire phrase.
+
+One example is "**Ha detbra!**", which literally means "Have it good!", but idiomatically translates to "Goodbye!"
+
+| Norwegian                | English                              |
+| :----------------------- | :----------------------------------- |
+| **Ha det(bra)!**         | Goodbye!                             |
+| **Hvordan har du det?**  | How are you?                         |
+| **Hvordan går det?**     | How is it going?                     |
+| **Bare bra, takk!**      | Just fine, thanks!                   |
+| **Bare hyggelig!**       | You are welcome                      |
+| **Tusen Takk!**          | Thank you very much!                 |
+| **Jeg har det bra.**     | I'm doing well.                      |
+| **Vi ses!**              | See you later!                       |
+| **unnskyld**             | sorry, excuse me, pardon             |
+| **vær så snill**         | please, be so kind                   |
+| **Hva heter du?**        | What is your name?                   |
+| **Hva har hun?**         | What does she have?                  |
+| **Der er dere!**         | There you are!                       |
+| **God helg og god tur!** | Have a nice weekend and a nice trip! |
+| **Ha en hyggelig dag!**  | Have a nice day                      |
+
+> Hva: E=hv Hovordan:Jordan
+
+## Knowing
+
+The verb **å vite**, _to know_, is an irregular verb in Norwegian. Its present tense, which you will familiarize yourself with in this skill, is **vet**. See that vowel change from the infinitive to the present? Cheeky!
+
+There are actually several verbs for knowing, and you'll get to know them all in due time, but this particular one deals with factual knowledge. Some examples of that is knowing what or where something is, or knowing something about something or someone.
+
+> **Vet du hvor det er?** Do you know where it is?
+>
+> **Vet du hvem hun er?** Do you know who she is?
+>
+> **Hva vet han?**
+>
+> What does he know?
+
 ## Words
 
-| **Vocabulary** | Meaning in English |
-| :--- | :--- |
-| her/der | here/there |
-| and / eller | og / or |
-| ja/nei | yes/no |
-| flere | several, multiple, more |
-| takk | thank you, thanks |
-| liker/elsker | like/loves |
-| en/ei natt | a night |
-| en/ei helg | a weekend |
-| noe | something |
-| noen | some any |
-| trenger | needs, requires |
-| kanskje | maybe, perhaps |
-| tusen | \(a\) thousand |
-| bare | only, just |
-| hyggelig | nice, pleasant |
-| mange | many |
+| **Vocabulary** | Meaning in English |  |
+| :--- | :--- | ---- |
+| her/der | here/there | Her er jeg (Here I am). |
+| and / eller | og / or |  |
+| ja/nei | yes/no |  |
+| flere | several, multiple, more |  |
+| takk | thank you, thanks |  |
+| liker/elsker | like/loves |  |
+| en/ei natt | a night |  |
+| en/ei helg | a weekend |  |
+| noe | something |  |
+| noen | some any |  |
+| trenger | needs, requires |  |
+| kanskje | maybe, perhaps | Kanskje her. (maybe here) |
+| tusen | \(a\) thousand |  |
+| bare | only, just |  |
+| hyggelig | nice, pleasant |  |
+| glad | happy |  |
+| mange | many |  |
 
