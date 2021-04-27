@@ -19,7 +19,7 @@ Oh, and as you have probably already noticed, we do not capitalize adjectives, n
 
 ## Excerpt
 
-Hej! \(Hello!\)
+Hej! hallå \(Hello!\)
 
 Ja. \(Yes.\) \(_German, Dutch, Afrikaans, Swedish and Norwegian_ : Ja /_Spanish and Italian_ : _Sí_ / _French_ : Oui\)
 
@@ -33,7 +33,7 @@ Hallå, ett äpple tack! \(Hello, an apple please!\)
 
 Nej tack! \(No, thanks!\)
 
-Ursäkta ! \(I am sorry.\)
+Ursäkta ! \(I am sorry./ excuse me\)
 
 Ja, tack så mycket! \(Yes, thank you very much.\)
 

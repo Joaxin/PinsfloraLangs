@@ -75,6 +75,18 @@ Russian uses a version of the **Cyrillic** Alphabet. Many letters look similar t
 
 P.S. In the notes, we use an acute accent to show you the stress \(e.g., ра́дио\). It is a standard practice in Russian textbooks for little children or foreign learners—and, generally, the most common way of marking the position of the stress.
 
+## VOWEL REDUCTION
+
+Like in English, vowel letters aren't _all_ pronounced just like in the alphabet. In Russian, unstressed syllables have vowels _reduced_:
+
+* **А and О** become the same uh-sound
+* **И and Е** \(Э\) become the same sound similar to "i" in "hit"
+* **Я** actually becomes an i-like sound, not an uh-like \(except in a few words\). This also affects "а" after ч,ш,щ,ж or ц in many words \(sadly, not all\).
+
+So, when a vowel is not stressed, it becomes weaker, somewhat shorter, and also some vowels become indistinguishable.
+
+The unstressed syllable is strongest just before the stress. In all other places it is even weaker than that \(though, some long words, especially compounds, may acquire a secondary stress\). This makes the system different from the English one, where stronger and weaker syllables tend to alternate.
+
 ## Hard and soft
 
 Russian consonants are split into two groups of 15, which are pronounced in two different ways, _palatalized_ \(aka "soft"\) and _non-palatalized_ \(aka "hard"\). We'll stick to the shorter "soft" and "hard" \(sorry\).

@@ -4,7 +4,7 @@ description: Just to keep learning things interesting. Jeg er glad du er glad.
 
 # Introduction
 
-> A heartfelt welcome
+> bokmål: A heartfelt welcome
 
 Norwegian is a language with `simpler grammar` than many other European languages, but it is still a gendered language with three grammatical genders: masculine, feminine and neuter.
 
