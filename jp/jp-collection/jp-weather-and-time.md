@@ -1,4 +1,4 @@
-# Weather and Time
+# Weather and Time\(jp\)
 
 はれ\(sunny\) くもり\(cloudy\)
 

@@ -1,4 +1,4 @@
-# Places & Countries
+# Places & Countries\(jp\)
 
 If you sound out the words below using katakana characters, you might find some familiar words! Some of the pronunciation is a little different than its English equivalent, though.
 

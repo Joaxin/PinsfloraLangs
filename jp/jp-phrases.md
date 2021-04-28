@@ -2,7 +2,7 @@
 description: どうもありがとうございます
 ---
 
-# Phrases
+# Phrases\(jp\)
 
 | Japanese |  | Japanese |  |
 | :--- | :--- | :--- | :--- |

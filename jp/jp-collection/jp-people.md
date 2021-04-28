@@ -1,4 +1,4 @@
-# People
+# People\(jp\)
 
 えもじ \(emoji\)
 

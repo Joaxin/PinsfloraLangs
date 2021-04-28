@@ -4,46 +4,46 @@
 
 That seems a bit overkill - but it is actually quite logical \(Swedes like logic\). There are two kinds of gender – natural \(male and female\) and grammatical gender in Swedish.
 
-English only uses natural gender ("he" for males, "she" for females and "it" for objects) whereas Romance languages such as French use natural genders ("he" and "she") as grammatical gender as well (everything is thus either a "he" or a "she" in French).
+English only uses natural gender \("he" for males, "she" for females and "it" for objects\) whereas Romance languages such as French use natural genders \("he" and "she"\) as grammatical gender as well \(everything is thus either a "he" or a "she" in French\).
 
 When talking about people, will use the natural gender \(he and she\) but when we aren't talking about humans, you have to look at the grammatical gender. Swedish words belong either to the **en-words** \(also called _n-words_, _common gender_ or _utrum_\) or to the **ett-words** \(also called _t-words_, _neuter_ or _neutrum_\).
 
 The names **en-words** and **ett-words** are derived from the indefinite article \(singular\) of each group, both corresponding to **a\(n\)** in English.
 
-| English             | + **är(to be)**/**har(to have)** | English |               |
-| ------------------- | -------------------------------- | ------- | ------------- |
-| I                   | **jag**                          | me      | **mig (mej)** |
-| you (singular)      | **du**                           | you     | **dig (dej)** |
-| he                  | **han**                          | him     | **honom**     |
-| she                 | **hon**                          | her     | **henne**     |
-| it (with en words)  | **den**                          | it      | **den**       |
-| it (with ett words) | **det**                          | it      | **det**       |
-| one                 | **man**                          | one     | **en**        |
-| we                  | **vi**                           | us      | **oss**       |
-| you (plural)        | **ni**                           | you     | **er**        |
-| they                | **de (dom)**                     | them    | **dem (dom)** |
+| English | + **är\(to be\)**/**har\(to have\)** | English |  |
+| :--- | :--- | :--- | :--- |
+| I | **jag** | me | **mig \(mej\)** |
+| you \(singular\) | **du** | you | **dig \(dej\)** |
+| he | **han** | him | **honom** |
+| she | **hon** | her | **henne** |
+| it \(with en words\) | **den** | it | **den** |
+| it \(with ett words\) | **det** | it | **det** |
+| one | **man** | one | **en** |
+| we | **vi** | us | **oss** |
+| you \(plural\) | **ni** | you | **er** |
+| they | **de \(dom\)** | them | **dem \(dom\)** |
 
-|                     |                   | The Female | The Male |
-| ------------------- | ----------------- | ---------- | -------- |
-| en kvinna / Kvinnan | en man / Mannen   | kvinnor    | Män      |
-| en flicka / Flickan | en pojke / Pojken | flickor    | Pojker   |
-|                     |                   |            |          |
+|  |  | The Female | The Male |
+| :--- | :--- | :--- | :--- |
+| en kvinna / Kvinnan | en man / Mannen | kvinnor | Män |
+| en flicka / Flickan | en pojke / Pojken | flickor | Pojker |
+|  |  |  |  |
 
 ## Verbs
 
 **Infinitives** in Swedish end in -a. When conjugating verbs, the same form is used for **all** subject pronouns, whether singular or plural. To form the present tense of verbs, either **add -r** to the infinitive or **remove the -a** and **add -er**.
 
-**tala** - to speak (-ar verb) and **stänga** - to close (-er verb)
+**tala** - to speak \(-ar verb\) and **stänga** - to close \(-er verb\)
 
-| *Present Tense* |            | *Past Tense*   |            | Present Tense*  |            | *Past Tense*    |             |
-| --------------- | ---------- | -------------- | ---------- | --------------- | ---------- | --------------- | ----------- |
-| **jag talar**   | I speak    | **jag talade** | I spoke    | **jag stänger** | I close    | **jag stängde** | I closed    |
-| **du talar**    | you speak  | **du talade**  | you spoke  | **du stänger**  | you close  | **du stängde**  | you closed  |
-| **han talar**   | he speaks  | **han talade** | he spoke   | **han stänger** | he closes  | **han stängde** | he closed   |
-| **hon talar**   | she speaks | **hon talade** | she spoke  | **hon stänger** | she closes | **hon stängde** | she closed  |
-| **vi talar**    | we speak   | **vi talade**  | we spoke   | **vi stänger**  | we close   | **vi stängde**  | we closed   |
-| **ni talar**    | you speak  | **ni talade**  | you spoke  | **ni stänger**  | you close  | **ni stängde**  | you closed  |
-| **de talar**    | they speak | **de talade**  | they spoke | **de stänger**  | they close | **de stängde**  | they closed |
+| _Present Tense_ |  | _Past Tense_ |  | Present Tense\* |  | _Past Tense_ |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **jag talar** | I speak | **jag talade** | I spoke | **jag stänger** | I close | **jag stängde** | I closed |
+| **du talar** | you speak | **du talade** | you spoke | **du stänger** | you close | **du stängde** | you closed |
+| **han talar** | he speaks | **han talade** | he spoke | **han stänger** | he closes | **han stängde** | he closed |
+| **hon talar** | she speaks | **hon talade** | she spoke | **hon stänger** | she closes | **hon stängde** | she closed |
+| **vi talar** | we speak | **vi talade** | we spoke | **vi stänger** | we close | **vi stängde** | we closed |
+| **ni talar** | you speak | **ni talade** | you spoke | **ni stänger** | you close | **ni stängde** | you closed |
+| **de talar** | they speak | **de talade** | they spoke | **de stänger** | they close | **de stängde** | they closed |
 
 ## _det är_
 
@@ -56,7 +56,7 @@ It is a lot like _it is_ in English, but there's an important difference: the Sw
 * Det är en flicka\* – It is a girl
 * Det är tidningar\* – They are newspapers
 
-Read more about this construction here: https://www.duolingo.com/comment/9708920
+Read more about this construction here: [https://www.duolingo.com/comment/9708920](https://www.duolingo.com/comment/9708920)
 
 ## _This_ and _that_
 
@@ -71,10 +71,9 @@ Those words are taught a little later in the course so you don't need to worry a
 * There are two ways to say _this_ in Swedish: either _det här/den här_ or _detta/denna_.
 * The Swedish counterpart to _that_ is _det där/den där_, but sometimes you can also use _det/den_ to mean _that_.
 
-
 ## Excerpt
 
-**/** 
+**/**
 
 Jag är en pojke. \(I am a boy.\)
 

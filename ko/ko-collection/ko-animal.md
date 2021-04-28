@@ -1,4 +1,4 @@
-# 동물 \(animal\)
+# Animal\(ko\)
 
 ### 동물\(dongmul\)
 

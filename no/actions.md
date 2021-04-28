@@ -2,7 +2,7 @@
 description: Hun er lesbisk.
 ---
 
-# Actions
+# Actions\(no\)
 
 ## Present
 
