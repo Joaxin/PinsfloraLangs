@@ -14,7 +14,7 @@ Japanese uses three different writing systems, **hiragana**, **katakana**, and *
 
 Below are the most basic table of Japanese hiragana and katakana.
 
-![jp\_alpha bettical](https://cdn.jsdelivr.net/gh/joaxin/img_bed/img/duo/jp/jp_alphabettical.gif)
+![](../.gitbook/assets/jp_alphabettical.gif)
 
 **Tips**:
 
@@ -101,9 +101,20 @@ Below is a table of the kanji that are introduced in this lesson, complete with 
 | 生 | Born, Raw | なま、い•きる | せい sei |
 | 先 | Previous | さき saki | せん sen |
 
+| 英   | English  |         | えい         |
+| ---- | -------- | ------- | ------------ |
+| 語   | Language | かた•る | ご           |
+| 何   | What     | なに    |              |
+| 名   | Name     | な      | めい、みょう |
+| 前   | Before   | まえ    | ぜん         |
+
 You may have noticed that the word Japan, or **日本** is composed of the kanji meaning "sun" and "origin." This word was first adopted by the Chinese, and to them, Japan was off to the east, the place where the sun rose or "originated."
 
 ## Basic Grammar
+
+One thing that makes Japanese very different from English is the Japanese tendency to **drop the subject of the sentence** when the meaning is clear from context. Statements usually refer to oneself, while questions usually address the person you're speaking with.
+
+### The Question Marker
 
 Adding question marker **か** at the end will make the affirmative \(positive\) sentence into question. If the sentences end in ～です, it’s easy to formulate questions by using ～ですか。
 
@@ -134,29 +145,58 @@ Adding question marker **か** at the end will make the affirmative \(positive\)
 
 **ジョン** さんは アメリカ人です（john is american）
 
-お名\(な\)前\(まえ\)は何\(なに\)ですか？ \(what is your name?\)
+### Negative
 
-O namae ha nani desuka?
+Here is the table of possible ways to say "is not/ wasn't":
 
-> お——honorific before a noun
+|          | では PRESENT                           | じゃあ PRESENT                         | では PAST                                         | じゃあ PAST                                       |
+| -------- | -------------------------------------- | -------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| FORMAL   | ~ではありません <br />or ~ではないです | ~じゃありません <br />or ~じゃないです | ~ではありませんでした <br /> or ~ではなかったです | ~じゃありませんでした <br /> or ~じゃなかったです |
+| INFORMAL | ~ではない                              | ~じゃない                              | ~ではなかった                                     | ~じゃなかった                                     |
 
-マリア**と**いいます
+> じゃあ is less formal than では however, じゃあ sounds easier to say so it is most commonly used in conversational Japanese.
 
-* と : particle
-* My name is Maria. 
+| Japanese                                        |                           |
+| ----------------------------------------------- | ------------------------- |
+| アメリカ人ではありません。                      | I’m not American.         |
+| 私は学生ではありません / 私は学生じゃないです。 | I'm not a student.        |
+| 私も学生です                                    | I’m also a student.       |
+| マリアさんも学生です                            | Maria is `also` a student |
 
-マリオと言います
+### What are you speaking?
 
-* My name is Mario.
+フランス語が話せますか？
 
-マリアさんも学生です
+- Can you speak French?
 
-* Maria is `also` a student
+> https://forum.duolingo.com/comment/36961184/Can-you-speak-French  @DaemonBeats
+>
+> Alright, I'll try to explain this answer. Japanese sentence structure is SOV/Subject, Object, Verb.
+>
+> We start off with the object of the sentence, フランス語. This simply means "French." Feel free to put あなたは ("you + は," the subject of the sentence/question) or another form of address like a name, before French here, but the person you're asking most likely knows you're asking THEM the question, so it's not needed in the sentence and it's easier. Since the Subject is implied not included in the sentence, and French is the Object, it is first. SOV
+>
+> Then, we have the particle が. Think of it as a word that puts emphasis on what comes before it and connects it to what's after, and is often introducing what comes before it. In this case, you're asking the person if it's FRENCH that they can speak. French is probably just being introduced to the conversation, or brought back to attention. This question may prompt the answer to be something like "No, I don't speak French, but I can speak..." the new idea in the sentence is (French), and perhaps you were already talking about speaking other languages beforehand.
+>
+> If you use は instead of が, it puts more emphasis on what it is introduced after it. If it was used in this question, French would probably already be the topic of the conversation, and you'd be asking along the lines of "oh! Speaking of French, can you speak it?" The new idea is (the speaking) of French.
+>
+> Lastly, 話せます (はなせます). I've more often heard 話します (はなします), with a し, which means "I DO speak..." //whilst with the せ means "I CAN speak."
+>
+> ます is usually used in a sentence when a verb is the last part of a sentence, instead of です. 'か', when at the end of a sentence, turns it into a question. If か is present, do not use a question mark.
+>
+> In short, for the sentence:
+>
+> Subject(Implied listener, not included) + Object(フランス語) +(が) + Verb(話せますか)
+>
+> Particles are a bit tricky in Japanese, but hang in there and you'll get it!
 
 英語は話\(はな\)せますか？
 
 * Eigo wa hanasemasuka?
 * Can you speak English?
+
+私は英語が話せます。
+
+- I can speak English.
 
 日本語がはなせます。
 
@@ -167,20 +207,24 @@ O namae ha nani desuka?
 
 * Mr. Tanaka can speak Japanese and English. 
 
+### Pronouns 
+
 Pronouns are relatively rare in Japanese, but they are sometimes used to explicitly specify the subject or topic of a sentence. Below are some of the most common ones.
 
 | Japanese | Hiragana | English | Notes |
 | :--- | :--- | :--- | :--- |
 | 私 | わたし | I, me | Used in polite settings by women and men, used by women in most other settings |
-| 僕 | ぼく | I, me | Used by men in informal settings |
-|  | あなた | you | If you know someone's name, it's best to call someone by their name, typically followed by さん。 |
+| 僕 | ぼくboku | I, me | Used by men in informal settings |
+| 私たち | わたしたち | we, us |  |
+| 我々 | われわれ |  | sounds rather stiff and business-like. |
+|  | あなた | you | あなた is used in polite settings, If you know someone's name, it's best to call someone by their name, typically followed by さんor せんせい。あなた**たち** is used in formal settings. |
+| 君 | きみ |  | Used by men in informal settings, specifically to those on or beneath one's social level. 君**たち** is used in informal settings, especially to subordinates. |
 | 彼 | かれ | he, him | Can also mean "boyfriend" |
 | 彼女 | かのじょ | she, her | Can also mean "girlfriend" |
-| 私たち | わたしたち | we, us |  |
 | 彼ら | かれら kanera | they, them | Used for an all-male or mixed-gendered group |
 | 彼女たち | かのじょたち kanojyo tachi | they, them | Used for an all-female group |
 
-## Verbs
+### Verbs
 
 | JP |  | JP |  |
 | :--- | :--- | :--- | :--- |

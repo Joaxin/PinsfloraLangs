@@ -8,7 +8,7 @@
 | そと            | outside | いえ     | house   |
 |                 |         | えき 駅  | Station |
 | ぎんこう jinkou | bank    |          |         |
-| がっこう gakkou | school  |          |         |
+| がっこう gakkō  | school  |          |         |
 |                 |         |          |         |
 |                 |         |          |         |
 
@@ -42,17 +42,22 @@ However, **イギリス** \(Igirisu\) can be used to refer to both "the UK" and 
 
 ## Cities in Japanese
 
-| JP        |       |      |      |
-| --------- | ----- | ---- | ---- |
-| パリ pari | Paris |      |      |
-|           |       |      |      |
-|           |       |      |      |
-|           |       |      |      |
-|           |       |      |      |
-|           |       |      |      |
-|           |       |      |      |
+| JP                                     |           |                                 |              |
+| -------------------------------------- | --------- | ------------------------------- | ------------ |
+| パリ pari                              | Paris     | 香港 / ほんこん  hon kon        | Hong Kong    |
+| ロンドン Rondon                        | london    | 北京 pekin                      | beijingh     |
+| ボストン Bosuton                       | Boston    | 上海  Shanhai                   | shanghai     |
+| シカゴ  Shikago                        | Chicago   | ニューヨーク                    | New York     |
+| コロンビア Koronbia                    | Colombia  |                                 |              |
+| ハワイ hawai                           | hawai     | ベルリン berurin                | berlin       |
+| ワルシャワ warushawa                   | warsaw    | モスクワ mosukuwa               | Moscow       |
+| アムステルダム  amusuterudamu          | Amsterdam | ソウル souru                    | Seoul        |
+| バンクーバー/ヴァンクーヴァー  bankūbā | Vancouver | ロサンゼルス rosanzerusu        | Los Angeles  |
+| ストックホルム Sutokkuhorumu           | Stockholm | ケニア Kenia                    | Kenya        |
+| カンヌ  Kan'nu                         | Cannes    | ブエノスアイレス  Buenosuairesu | Buenos Aires |
+|                                        |           | ヴェネツィア Vu~enetsu~ia       | Venice       |
 
-
+> there is a special writing for katakana V sounds -  ヴ for example 「ヴァ」「ヴィ」「ヴ」「ヴェ」「ヴォ」：va vi vu ve vo / バ ビ ブ ベ ボ
 
 ## Countries in Japanese
 
@@ -71,7 +76,7 @@ However, **イギリス** \(Igirisu\) can be used to refer to both "the UK" and 
 | 日本 / にっぽん | Nihon / Nippon | Japan |
 | 中国 / ちゅうごく | Chūgoku | China |
 | インド | into | India |
-| 香港 / ほんこん | hon kon | Hong Kong |
+|  |  |  |
 | フィリピン | fi ri pin | Philippines |
 | かんこく | kan koku | South Korea |
 | マレーシア | ma re- shi a | Malaysia |
@@ -89,18 +94,19 @@ However, **イギリス** \(Igirisu\) can be used to refer to both "the UK" and 
 | ドイツ | Doitsu | Germany / Deutsch = Deutso |
 | アイルランド | Airurando | Ireland / アイランド(island) |
 | スイス | su i su | Switzerland |
-| ポルトガル | po ru to ga ru | Portugal |
-| ロシア | ro shi a | Russia |
-| ポーランド | po- ran do | Poland |
-| ノルウェー | no ru we- | Norway |
-| イタリア | i ta ri a | Italy |
+| スウェーデン | Suweeden | Sweden |
+| ポルトガル | porutogaru | Portugal |
+| ロシア | ro hia | Russia |
+| ポーランド | po-rando | Poland |
+| ノルウェー | noruwe- | Norway |
+| イタリア | itaria | Italy |
 | オランダ | oranda | H**olland** / The Netherlands |
 | フィンランド | fin ran do | Finland |
 | デンマーク | den ma- ku | Denmark |
-| ギリシャ | gi ri sha | Greece |
-| ルーマニア | ru- ma ni a | Romania |
+| ギリ**シャ** | girisha | Greece |
+| ルーマニア | ru- mania | Romania |
 | トルコ | to ru ko | Turkey |
-| オーストリア | o- su to ri a | Austria |
+| オーストリア | o- sutori a | Austria |
 
 ### Africa\(アフリカ\)
 
@@ -123,6 +129,7 @@ However, **イギリス** \(Igirisu\) can be used to refer to both "the UK" and 
 | ブラジル | burajiru | Brazil |
 | チリ | chi ri | Chile |
 | ペルー | pe ru- | Peru |
+| アルゼンチン | Aruzenchin | Argentina |
 
 > ブラジル: That most likely just comes from a reverse romaji transliteration of the word spelling itself, 'bra' turning into *bu ra* (because Japanese doesn't have consonant pairs like br), and 'zil' into *ji ru* (because just like さ *sa* , that turns into ざ *za* with dakuten, シ would have a z sound if *zi* weren't so inexistent in Japanese grammar, also, Ls usually turn into *ru* s as they are the closest sound existent in the language).
 

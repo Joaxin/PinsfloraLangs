@@ -6,9 +6,9 @@ description: どうもありがとうございます
 
 | Japanese |  | Japanese |  |
 | :--- | :--- | :--- | :--- |
-| はい | Yes | いいえ | No |
+| はい / ええ / うん | Yes | いいえ | No |
 | あ | ah，oh | 多分\(たぶん, tabun\) | maybe |
-| お願\(ねが\)いします Onegai shimasu | please |  |  |
+| お願\(ねが\)いします Onegai shimasu | please | あの | um |
 |  |  |  |  |
 |  |  |  |  |
 
@@ -16,11 +16,9 @@ description: どうもありがとうございます
 
 **How are you?**
 
-おげんきですか？ \(How are you?\) \[お元気ですか\]
+お**げんき**ですか？ \(How are you?\) \[お**元気**ですか\]
 
-ええ、げんきです。 \(yes, I am fine\)
-
-げんきではありません \(I am not fine\)
+ええ、**げんき**です。 \(yes, I am fine\) / **げんき**ではありません \(I am not fine\)
 
 こちらこそ（Kochira koso）: 彼此彼此, 哪里哪里，Likewise，the pleasure is mine
 
@@ -54,6 +52,25 @@ description: どうもありがとうございます
 | こんばんは\[konbanwa\] | Good morning! |  |
 |  |  |  |
 | おやすみなさい\[oyasuminasai\] | Good night! |  |
+
+## What’s your name?
+
+お名\(な\)前\(まえ\)は何\(なに\)ですか？ \(what is your name?\)
+
+O namae wa nani desuka?
+
+> お——honorific before a noun
+>
+> 何ですか？—— what
+
+マリア**と**言(い)います
+
+* と : particle
+* My name is Maria. 
+
+僕の名前は茂です。
+
+- My name is Shigeru.
 
 ## Saying Thank You
 
