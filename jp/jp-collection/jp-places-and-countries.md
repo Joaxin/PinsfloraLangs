@@ -55,7 +55,7 @@ However, **イギリス** \(Igirisu\) can be used to refer to both "the UK" and 
 | バンクーバー/ヴァンクーヴァー  bankūbā | Vancouver | ロサンゼルス rosanzerusu        | Los Angeles  |
 | ストックホルム Sutokkuhorumu           | Stockholm | ケニア Kenia                    | Kenya        |
 | カンヌ  Kan'nu                         | Cannes    | ブエノスアイレス  Buenosuairesu | Buenos Aires |
-|                                        |           | ヴェネツィア Vu~enetsu~ia       | Venice       |
+|                                        |           | ヴェネツィア Vuenetsuia         | Venice       |
 
 > there is a special writing for katakana V sounds -  ヴ for example 「ヴァ」「ヴィ」「ヴ」「ヴェ」「ヴォ」：va vi vu ve vo / バ ビ ブ ベ ボ
 
@@ -64,7 +64,7 @@ However, **イギリス** \(Igirisu\) can be used to refer to both "the UK" and 
 |            |                                |      |      |
 | ---------- | ------------------------------ | ---- | ---- |
 | 世界 sekai | せ かい, sphere, circle, world |      |      |
-|            |                                |      |      |
+| Hawaii     | ハワイ (布哇)                  |      |      |
 |            |                                |      |      |
 
 

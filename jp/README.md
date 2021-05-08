@@ -1,10 +1,16 @@
 # Japanese
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/duo_ja_duo.png)
 
-While many consider Japanese to be very difficult to learn for native English speakers, this is only partially true. Many aspects of the Japanese language are quite simple, such as the sound system, and yes, even most of the grammar.
+![preview](../.gitbook/assets/duo_ja_intro.jpg)
+
+Did you know？There are more than 120million speakers of Japanese！You can tell just by looking that it's a pretty different language from English，but don't worry.  While many consider Japanese to be very difficult to learn for native English speakers, this is only partially true. Many aspects of the Japanese language are quite simple, such as the sound system, and yes, even most of the grammar. We'll get started with the basics and help you through the tricky spots.
 
 Japanese Tutorial: [https://www.learn-japanese-adventure.com/](https://www.learn-japanese-adventure.com/)
+
+Grammar: https://jlptsensei.com/
+
+Tutorial: https://www.japaneseprofessor.com/
 
 ## Dictionaries
 
@@ -16,11 +22,9 @@ Jisho: https://jisho.org/
 
 Forum: https://japanese.stackexchange.com/
 
-## Grammar
-
-https://jlptsensei.com/
-
 ## Refs
 
+- Duolingo Tips and Notes Wiki : https://duome.eu/tips/en/ja / https://duonotes.fandom.com/
 - Japanese Hiragana: https://www.omniglot.com/writing/japanese_hiragana.htm
-- japanese-country-names：https://www.learn-japanese-adventure.com/japanese-country-names.html)
+- japanese-country-names：https://www.learn-japanese-adventure.com/japanese-country-names.html
+- Japanese Words for Food: https://www.japaneseprofessor.com/lessons/beginning/japanese-words-for-food/

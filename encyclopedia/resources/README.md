@@ -22,6 +22,8 @@ Language Blog: [https://blogs.transparent.com/](https://blogs.transparent.com/)
 
 ie languages\(19 Indo-European and 3 non-Indo-European\): [https://ielanguages.com/](https://ielanguages.com/)
 
+Duolingo Reference for "Tips and Notes" in all Duo Languages: https://forum.duolingo.com/comment/32908665/Reference-for-Tips-and-Notes-in-all-Duo-Languages
+
 ### Online Dictionaries
 
 {% embed url="https://bab.la/" %}

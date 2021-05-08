@@ -7,10 +7,11 @@ description: どうもありがとうございます
 | Japanese |  | Japanese |  |
 | :--- | :--- | :--- | :--- |
 | はい / ええ / うん | Yes | いいえ | No |
-| あ | ah，oh | 多分\(たぶん, tabun\) | maybe |
-| お願\(ねが\)いします Onegai shimasu | please | あの | um |
-|  |  |  |  |
-|  |  |  |  |
+| (それ)では / (それ) じゃ (あ) | Well(then) | 多分\(たぶん, tabun\) | maybe |
+| あ | ah，oh | あの | um |
+|                    |        |                       |       |
+|                    |        |                       |       |
+|                    |        |  |  |
 
 ## Greetings\(挨拶,aisatsu\)
 
@@ -52,6 +53,20 @@ description: どうもありがとうございます
 | こんばんは\[konbanwa\] | Good morning! |  |
 |  |  |  |
 | おやすみなさい\[oyasuminasai\] | Good night! |  |
+
+## **Please**
+
+The basic way to say “please” when making a request is **「お願いします。」** (onegai shimasu). Interestingly, this version of the word actually is an example of keigo(敬語),, as it uses humble speech. You can turn this into casual speech by just saying **「お願い。」** or more formal by swapping out しますfor いたします, a more humble form of the verb する.
+
+If you need to really amp up the formality, you can say **「お願い申し上げます。」** (onegai moushiagemasu).
+
+Another formal word for “please” in Japanese is **「どうか」** (douka), which carries connotations of sincere begging.
+
+In a restaurant or similar setting when you’re a customer asking for something, you should use the respectful word**「下さい」** (kudasai) instead in most cases.
+
+If, on the other hand, you’re inviting someone to take something offered or otherwise make themselves at home, you can use the word**「どうぞ」**(douzo).
+
+In more casual contexts you might hear**「頼む」(tanomu)**, a word that means “beg” but has come to be used as “please” in colloquial speech and**「頂戴」(ちょうだい, choudai)**, which is technically humble language but is now used typically by women to say “please” in an endearing way.
 
 ## What’s your name?
 

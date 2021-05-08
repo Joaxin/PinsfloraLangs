@@ -4,7 +4,7 @@ While many consider Japanese to be very difficult to learn for native English sp
 
 ## Hiragana/Katakana
 
-Japanese uses three different writing systems, **hiragana**, **katakana**, and **kanji**.
+Japanese uses three different writing systems/scripts, **hiragana**, **katakana**, and **kanji**.
 
 **Hiragana**\(平假名\) is the most basic Japanese syllabary. It's like an alphabet that uses **syllables** instead of individual **sounds**.
 
@@ -21,7 +21,7 @@ Below are the most basic table of Japanese hiragana and katakana.
 | **Japanese** | **IPA, Notes** |
 | :--- | :--- |
 | 1うウ | \[ɯ\], like the _oo_ in _food_ _noon_ _cool_ |
-| 3し シ | \[ɕi\], like the _shee_ in _sheep_ |
+| 3し シ shi | \[ɕi\], like the _shee_ in _sheep_ |
 | 3す ス | \[sɯ\], although it can shorten to more of a \[s\] at the end of a word |
 | 4ち チ | \[tɕi\], like the _tch_ in _itchy_ |
 | 4つ ツ | \[tsɯ\], like the _ts_ in _cats_ |
@@ -223,6 +223,31 @@ Pronouns are relatively rare in Japanese, but they are sometimes used to explici
 | 彼女 | かのじょ | she, her | Can also mean "girlfriend" |
 | 彼ら | かれら kanera | they, them | Used for an all-male or mixed-gendered group |
 | 彼女たち | かのじょたち kanojyo tachi | they, them | Used for an all-female group |
+
+**the general pronouns** 
+
+**これ**は水です。
+
+- This is water.
+
+**これ**はお茶ですか？
+
+- is this tea?
+
+**それ**は何ですか？
+
+- What is that？
+- 何 is "nani" which is contracted to "nan" before a "d" sound. So the full sentence reads "Sore wa nan desu ka ?" The meaning of 何 is "what".
+
+**それ**をください。
+
+- That (one) please.
+
+|          | **こ**                                     | **そ**                                     | **あ**                                       | **ど**      | だ       |
+| :------- | :----------------------------------------- | :----------------------------------------- | :------------------------------------------- | :---------- | -------- |
+| Japanese | これ                                       | それ                                       | あれ  are                                    | どれ dore   | だれ     |
+| English  | this                                       | that                                       | that (over there)(one)                       | which (one) | who      |
+| Notes    | closer to the speaker<br /> in front of me | closer to the listener ,<br /> Next to you | far from both <br />the speaker and listener | question    | question |
 
 ### Verbs
 

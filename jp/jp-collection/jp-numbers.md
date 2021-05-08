@@ -1,7 +1,17 @@
 # Numbers\(jp\)
 
+## Time
 
+| Kanji | Meaning      | Kunyomi Reading | Onyomi Reading |
+| :---- | :----------- | :-------------- | :------------- |
+| 一    | One          | ひと•つ         | いち           |
+| 二    | Two          | ふた•つ         | に             |
+| 三    | Three        | みっ•つ         | さん           |
+| 時    | Time         | とき            | じ             |
+| 今    | Now          | いま            | こん           |
+| 分    | Minute, Part | わ•かる         | ふん、ぶん     |
 
+ii
 |  | Japanese | Hiragana |
 | :--- | :--- | :--- |
 | 0. | ゼロ | zero |
