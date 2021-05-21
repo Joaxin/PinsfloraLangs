@@ -314,3 +314,7 @@ Several notes this time:
 | わがし         | wagashi     | traditional Japanese sweets (many of which are cracker-like) |
 
 Dessert is not traditionally served after meals in Japan (except possibly fresh fruit), but sweet foods are eaten as snacks.
+
+---
+
+Japanese Words for Food: https://www.japaneseprofessor.com/lessons/beginning/japanese-words-for-food/

@@ -258,3 +258,10 @@ Pronouns are relatively rare in Japanese, but they are sometimes used to explici
 | すき suki | like | ほしい | want |
 |  |  |  |  |
 
+---
+
+- Japanese Hiragana: https://www.omniglot.com/writing/japanese_hiragana.htm
+- On'yomi & Kun'yomi 音読み, 訓読み：https://www.japanesewithanime.com/2016/12/kunyomi-onyomi-kanji-meaning-differences.html
+
+
+

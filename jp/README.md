@@ -8,9 +8,16 @@ Did you know？There are more than 120million speakers of Japanese！You can tel
 
 Japanese Tutorial: [https://www.learn-japanese-adventure.com/](https://www.learn-japanese-adventure.com/)
 
-Grammar: https://jlptsensei.com/
+Grammar: 
+
+- https://jlptsensei.com/
+- https://www.learn-japanese.info/
 
 Tutorial: https://www.japaneseprofessor.com/
+
+Learn Japanese with ANIME: https://www.japanesewithanime.com/
+
+FAQ -  sci.lang.japan Frequently Asked Questions: https://www.sljfaq.org/afaq/afaq.html
 
 ## Dictionaries
 
@@ -25,6 +32,3 @@ Forum: https://japanese.stackexchange.com/
 ## Refs
 
 - Duolingo Tips and Notes Wiki : https://duome.eu/tips/en/ja / https://duonotes.fandom.com/
-- Japanese Hiragana: https://www.omniglot.com/writing/japanese_hiragana.htm
-- japanese-country-names：https://www.learn-japanese-adventure.com/japanese-country-names.html
-- Japanese Words for Food: https://www.japaneseprofessor.com/lessons/beginning/japanese-words-for-food/
