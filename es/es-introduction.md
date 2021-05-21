@@ -2,7 +2,7 @@
 description: Los niños escriben poemas en tiras de papel rojo.
 ---
 
-# ¶ntroduction\(es\)
+# Introduction\(es\)
 
 ## Gender
 
@@ -144,11 +144,11 @@ Because the conjugations indicate who is doing the action, it is usually possibl
 
 **er/ar**
 
-| er                      |      |      |      | ar               |                   |                    |                            |
-| ----------------------- | ---- | ---- | ---- | ---------------- | ----------------- | ------------------ | -------------------------- |
-| **aprend**er understand |      |      |      | **llam**ar named | **trabaj**ar work | **nad**ar  swim    |                            |
-| **corr**er  run         |      |      |      | **regal**ar give | **mir**ar watch   | **viaj**ar travel  | **busc**ar look/search for |
-|                         |      |      |      | **compr**ar buy  | **us**ar use      | **estudi**ar study | **pag**ar pay              |
+| er |  |  |  | ar |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **aprend**er understand |  |  |  | **llam**ar named | **trabaj**ar work | **nad**ar  swim |  |
+| **corr**er  run |  |  |  | **regal**ar give | **mir**ar watch | **viaj**ar travel | **busc**ar look/search for |
+|  |  |  |  | **compr**ar buy | **us**ar use | **estudi**ar study | **pag**ar pay |
 
 |  | beber | comer | hacer | **poner** | hablar | **llevar** | **tomar** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -165,13 +165,11 @@ In some Spanish verbs, the middle vowel changes.
 
 These are the so‑called **e‑to‑ie** verbs. But watch out! The **e** doesn't change in the **nosotros** / **nosotras** form.
 
-|              |         |      |      |      |      |      |      |
-| ------------ | ------- | ---- | ---- | ---- | ---- | ---- | ---- |
-| **viv**ir    | live    |      |      |      |      |      |      |
-| **recib**ir  | receive |      |      |      |      |      |      |
-| **escrib**ir | write   |      |      |      |      |      |      |
-
-
+|  |  |  |  |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **viv**ir | live |  |  |  |  |  |  |
+| **recib**ir | receive |  |  |  |  |  |  |
+| **escrib**ir | write |  |  |  |  |  |  |
 
 |  | abrir | **salir** | dormir\* | vestir\* | saber\* | **querer\*** | ir |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

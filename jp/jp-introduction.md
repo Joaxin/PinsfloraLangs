@@ -101,12 +101,12 @@ Below is a table of the kanji that are introduced in this lesson, complete with 
 | 生 | Born, Raw | なま、い•きる | せい sei |
 | 先 | Previous | さき saki | せん sen |
 
-| 英   | English  |         | えい         |
-| ---- | -------- | ------- | ------------ |
-| 語   | Language | かた•る | ご           |
-| 何   | What     | なに    |              |
-| 名   | Name     | な      | めい、みょう |
-| 前   | Before   | まえ    | ぜん         |
+| 英 | English |  | えい |
+| :--- | :--- | :--- | :--- |
+| 語 | Language | かた•る | ご |
+| 何 | What | なに |  |
+| 名 | Name | な | めい、みょう |
+| 前 | Before | まえ | ぜん |
 
 You may have noticed that the word Japan, or **日本** is composed of the kanji meaning "sun" and "origin." This word was first adopted by the Chinese, and to them, Japan was off to the east, the place where the sun rose or "originated."
 
@@ -149,43 +149,43 @@ Adding question marker **か** at the end will make the affirmative \(positive\)
 
 Here is the table of possible ways to say "is not/ wasn't":
 
-|          | では PRESENT                           | じゃあ PRESENT                         | では PAST                                         | じゃあ PAST                                       |
-| -------- | -------------------------------------- | -------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
-| FORMAL   | ~ではありません <br />or ~ではないです | ~じゃありません <br />or ~じゃないです | ~ではありませんでした <br /> or ~ではなかったです | ~じゃありませんでした <br /> or ~じゃなかったです |
-| INFORMAL | ~ではない                              | ~じゃない                              | ~ではなかった                                     | ~じゃなかった                                     |
+|  | では PRESENT | じゃあ PRESENT | では PAST | じゃあ PAST |
+| :--- | :--- | :--- | :--- | :--- |
+| FORMAL | ~ではありません  or ~ではないです | ~じゃありません  or ~じゃないです | ~ではありませんでした   or ~ではなかったです | ~じゃありませんでした   or ~じゃなかったです |
+| INFORMAL | ~ではない | ~じゃない | ~ではなかった | ~じゃなかった |
 
 > じゃあ is less formal than では however, じゃあ sounds easier to say so it is most commonly used in conversational Japanese.
 
-| Japanese                                        |                           |
-| ----------------------------------------------- | ------------------------- |
-| アメリカ人ではありません。                      | I’m not American.         |
-| 私は学生ではありません / 私は学生じゃないです。 | I'm not a student.        |
-| 私も学生です                                    | I’m also a student.       |
-| マリアさんも学生です                            | Maria is `also` a student |
+| Japanese |  |
+| :--- | :--- |
+| アメリカ人ではありません。 | I’m not American. |
+| 私は学生ではありません / 私は学生じゃないです。 | I'm not a student. |
+| 私も学生です | I’m also a student. |
+| マリアさんも学生です | Maria is `also` a student |
 
 ### What are you speaking?
 
 フランス語が話せますか？
 
-- Can you speak French?
+* Can you speak French?
 
-> https://forum.duolingo.com/comment/36961184/Can-you-speak-French  @DaemonBeats
+> [https://forum.duolingo.com/comment/36961184/Can-you-speak-French](https://forum.duolingo.com/comment/36961184/Can-you-speak-French) @DaemonBeats
 >
 > Alright, I'll try to explain this answer. Japanese sentence structure is SOV/Subject, Object, Verb.
 >
-> We start off with the object of the sentence, フランス語. This simply means "French." Feel free to put あなたは ("you + は," the subject of the sentence/question) or another form of address like a name, before French here, but the person you're asking most likely knows you're asking THEM the question, so it's not needed in the sentence and it's easier. Since the Subject is implied not included in the sentence, and French is the Object, it is first. SOV
+> We start off with the object of the sentence, フランス語. This simply means "French." Feel free to put あなたは \("you + は," the subject of the sentence/question\) or another form of address like a name, before French here, but the person you're asking most likely knows you're asking THEM the question, so it's not needed in the sentence and it's easier. Since the Subject is implied not included in the sentence, and French is the Object, it is first. SOV
 >
-> Then, we have the particle が. Think of it as a word that puts emphasis on what comes before it and connects it to what's after, and is often introducing what comes before it. In this case, you're asking the person if it's FRENCH that they can speak. French is probably just being introduced to the conversation, or brought back to attention. This question may prompt the answer to be something like "No, I don't speak French, but I can speak..." the new idea in the sentence is (French), and perhaps you were already talking about speaking other languages beforehand.
+> Then, we have the particle が. Think of it as a word that puts emphasis on what comes before it and connects it to what's after, and is often introducing what comes before it. In this case, you're asking the person if it's FRENCH that they can speak. French is probably just being introduced to the conversation, or brought back to attention. This question may prompt the answer to be something like "No, I don't speak French, but I can speak..." the new idea in the sentence is \(French\), and perhaps you were already talking about speaking other languages beforehand.
 >
-> If you use は instead of が, it puts more emphasis on what it is introduced after it. If it was used in this question, French would probably already be the topic of the conversation, and you'd be asking along the lines of "oh! Speaking of French, can you speak it?" The new idea is (the speaking) of French.
+> If you use は instead of が, it puts more emphasis on what it is introduced after it. If it was used in this question, French would probably already be the topic of the conversation, and you'd be asking along the lines of "oh! Speaking of French, can you speak it?" The new idea is \(the speaking\) of French.
 >
-> Lastly, 話せます (はなせます). I've more often heard 話します (はなします), with a し, which means "I DO speak..." //whilst with the せ means "I CAN speak."
+> Lastly, 話せます \(はなせます\). I've more often heard 話します \(はなします\), with a し, which means "I DO speak..." //whilst with the せ means "I CAN speak."
 >
 > ます is usually used in a sentence when a verb is the last part of a sentence, instead of です. 'か', when at the end of a sentence, turns it into a question. If か is present, do not use a question mark.
 >
 > In short, for the sentence:
 >
-> Subject(Implied listener, not included) + Object(フランス語) +(が) + Verb(話せますか)
+> Subject\(Implied listener, not included\) + Object\(フランス語\) +\(が\) + Verb\(話せますか\)
 >
 > Particles are a bit tricky in Japanese, but hang in there and you'll get it!
 
@@ -196,7 +196,7 @@ Here is the table of possible ways to say "is not/ wasn't":
 
 私は英語が話せます。
 
-- I can speak English.
+* I can speak English.
 
 日本語がはなせます。
 
@@ -207,7 +207,7 @@ Here is the table of possible ways to say "is not/ wasn't":
 
 * Mr. Tanaka can speak Japanese and English. 
 
-### Pronouns 
+### Pronouns
 
 Pronouns are relatively rare in Japanese, but they are sometimes used to explicitly specify the subject or topic of a sentence. Below are some of the most common ones.
 
@@ -224,30 +224,30 @@ Pronouns are relatively rare in Japanese, but they are sometimes used to explici
 | 彼ら | かれら kanera | they, them | Used for an all-male or mixed-gendered group |
 | 彼女たち | かのじょたち kanojyo tachi | they, them | Used for an all-female group |
 
-**the general pronouns** 
+**the general pronouns**
 
 **これ**は水です。
 
-- This is water.
+* This is water.
 
 **これ**はお茶ですか？
 
-- is this tea?
+* is this tea?
 
 **それ**は何ですか？
 
-- What is that？
-- 何 is "nani" which is contracted to "nan" before a "d" sound. So the full sentence reads "Sore wa nan desu ka ?" The meaning of 何 is "what".
+* What is that？
+* 何 is "nani" which is contracted to "nan" before a "d" sound. So the full sentence reads "Sore wa nan desu ka ?" The meaning of 何 is "what".
 
 **それ**をください。
 
-- That (one) please.
+* That \(one\) please.
 
-|          | **こ**                                     | **そ**                                     | **あ**                                       | **ど**      | だ       |
-| :------- | :----------------------------------------- | :----------------------------------------- | :------------------------------------------- | :---------- | -------- |
-| Japanese | これ                                       | それ                                       | あれ  are                                    | どれ dore   | だれ     |
-| English  | this                                       | that                                       | that (over there)(one)                       | which (one) | who      |
-| Notes    | closer to the speaker<br /> in front of me | closer to the listener ,<br /> Next to you | far from both <br />the speaker and listener | question    | question |
+|  | **こ** | **そ** | **あ** | **ど** | だ |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Japanese | これ | それ | あれ  are | どれ dore | だれ |
+| English | this | that | that \(over there\)\(one\) | which \(one\) | who |
+| Notes | closer to the speaker  in front of me | closer to the listener ,  Next to you | far from both  the speaker and listener | question | question |
 
 ### Verbs
 
@@ -258,10 +258,6 @@ Pronouns are relatively rare in Japanese, but they are sometimes used to explici
 | すき suki | like | ほしい | want |
 |  |  |  |  |
 
----
-
-- Japanese Hiragana: https://www.omniglot.com/writing/japanese_hiragana.htm
-- On'yomi & Kun'yomi 音読み, 訓読み：https://www.japanesewithanime.com/2016/12/kunyomi-onyomi-kanji-meaning-differences.html
-
-
+* Japanese Hiragana: [https://www.omniglot.com/writing/japanese\_hiragana.htm](https://www.omniglot.com/writing/japanese_hiragana.htm)
+* On'yomi & Kun'yomi 音読み, 訓読み：[https://www.japanesewithanime.com/2016/12/kunyomi-onyomi-kanji-meaning-differences.html](https://www.japanesewithanime.com/2016/12/kunyomi-onyomi-kanji-meaning-differences.html)
 
