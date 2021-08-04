@@ -8,26 +8,28 @@ Japanese uses three different writing systems/scripts, **hiragana**, **katakana*
 
 **Hiragana**\(平假名\) is the most basic Japanese syllabary. It's like an alphabet that uses **syllables** instead of individual **sounds**.
 
+> In English, each letter usually represents one sound, like k or s. But hiragana characters each represent a syllable. 
+
 **Katakana**\(片假名\) is the syllabary used to write foreign words and some noises. Although it's different from hiragana, it represents the exact same **syllables**.
 
 **Kanji**\(漢字\) are Chinese characters used in the Japanese language to write individual nouns, verbs, and adjectives. Kanji are not phonetic, meaning you need to memorize each pronunciation individually.
 
 Below are the most basic table of Japanese hiragana and katakana.
 
-![](../.gitbook/assets/jp_alphabettical.gif)
+![father see food pet open](../.gitbook/assets/jp_alphabettical.gif)
 
 **Tips**:
 
-| **Japanese** | **IPA, Notes** |
+| Japanese | IPA, Notes |
 | :--- | :--- |
 | 1うウ | \[ɯ\], like the _oo_ in _food_ _noon_ _cool_ |
-| 3し シ shi | \[ɕi\], like the _shee_ in _sheep_ |
+| 3し シ shiじ ji | \[ɕi\], like the _shee_ in _sheep_ |
 | 3す ス | \[sɯ\], although it can shorten to more of a \[s\] at the end of a word |
-| 4ち チ | \[tɕi\], like the _tch_ in _itchy_ |
-| 4つ ツ | \[tsɯ\], like the _ts_ in _cats_ |
-| 6は | \[ha\], pronounced like **wa** as a particle |
+| 4 ち チ chi  ji | \[tɕi\], like the _tch_ in itchy |
+| 4 つ ツ tsu  zu | \[tsɯ\], like the _ts_ in _cats/rats_ |
+| 6 は | \[ha\], pronounced like **wa** as a particle |
 | 6 ひ ヒ | \[çi\], like the _h_ in _human_ |
-| 6 ふ フ | \[ɸɯ\], roughly between a short "hoo" and "foo" |
+| 6 ふ フ fuぶ bu | \[ɸɯ\], roughly between a short "hoo" and "foo" |
 | 6 へ | \[he\], pronounced like \[e\] or "eh" as a particle |
 | を ヲ | \[o\], although it's most often romanized as "wo" |
 | ん ン | \[n\] or \[ŋ\], like the _n_ in _pink_, producing a \[m\] when combined with a bilabial\(hmp, 双唇音\) stop, hence "tempura" and not "tenpura".  As the only solitary consonant in hiragana, **ん** is especially notable because it is only found at the end of another syllable. In other words, you will never read a Japanese word that begins with **ん**。 |
@@ -49,13 +51,13 @@ Putting two little dots \(called Dakuten\) at the upper right corner changes the
 | t | d | た \(ta\) → だ \(**da**\), つ \(tsu\) → づ \(**zu**\)\* |
 | h | b | は \(ha\) → ば \(**ba**\) |
 
-Putting this little circle \(called Handakuten\) at the upper right corner changes the pronunciation of Hiragana in the following way:
+Putting this small circle゜ \(called Handakuten\) at the upper right corner changes the pronunciation of Hiragana h group in the following way:
 
 | Sound | Sound with ゜ | Example |
 | :--- | :--- | :--- |
 | h | p | は \(ha\) → ぱ \(**pa**\) |
 
-Putting っ \(small tsu\) between two Hiraganas doubles the letter right after っ and introduces a short pause between two sounds. Examples:
+Putting っ \(small tsu\) between two Hiraganas doubles the letter right after っ and introduces a short pause between two sounds. When you see this，it means you have to hold the next consonant longer than normal, Examples:
 
 | Without っ | With っ |
 | :--- | :--- |
@@ -143,6 +145,8 @@ Adding question marker **か** at the end will make the affirmative \(positive\)
 >
 > Technically, the word honda means rice paddy.
 
+If you want to say John is American or Maria is Japanese,put は after John or Maria to show that it's the topic of your sentence(what the subject is)! Notice that when it's a topic of your sentence.
+
 **ジョン** さんは アメリカ人です（john is american）
 
 ### Negative
@@ -165,13 +169,13 @@ Here is the table of possible ways to say "is not/ wasn't":
 
 ### What are you speaking?
 
-フランス語が話せますか？
+フランス語**が**話\(はな\)せますか？
 
 * Can you speak French?
 
-> [https://forum.duolingo.com/comment/36961184/Can-you-speak-French](https://forum.duolingo.com/comment/36961184/Can-you-speak-French) @DaemonBeats
+> from [https://forum.duolingo.com/comment/36961184/Can-you-speak-French](https://forum.duolingo.com/comment/36961184/Can-you-speak-French) @DaemonBeats
 >
-> Alright, I'll try to explain this answer. Japanese sentence structure is SOV/Subject, Object, Verb.
+> Japanese sentence structure is SOV/Subject, Object, Verb.
 >
 > We start off with the object of the sentence, フランス語. This simply means "French." Feel free to put あなたは \("you + は," the subject of the sentence/question\) or another form of address like a name, before French here, but the person you're asking most likely knows you're asking THEM the question, so it's not needed in the sentence and it's easier. Since the Subject is implied not included in the sentence, and French is the Object, it is first. SOV
 >
@@ -181,18 +185,12 @@ Here is the table of possible ways to say "is not/ wasn't":
 >
 > Lastly, 話せます \(はなせます\). I've more often heard 話します \(はなします\), with a し, which means "I DO speak..." //whilst with the せ means "I CAN speak."
 >
-> ます is usually used in a sentence when a verb is the last part of a sentence, instead of です. 'か', when at the end of a sentence, turns it into a question. If か is present, do not use a question mark.
->
-> In short, for the sentence:
->
-> Subject\(Implied listener, not included\) + Object\(フランス語\) +\(が\) + Verb\(話せますか\)
->
 > Particles are a bit tricky in Japanese, but hang in there and you'll get it!
 
-英語は話\(はな\)せますか？
+英語**は**話せますか？
 
 * Eigo wa hanasemasuka?
-* Can you speak English?
+* Can you speak English/Do you speak English?
 
 私は英語が話せます。
 
@@ -206,6 +204,10 @@ Here is the table of possible ways to say "is not/ wasn't":
 田中先生は日本語と英語がはなせます。
 
 * Mr. Tanaka can speak Japanese and English. 
+
+私は日本語学校の学生です。
+
+- I am a Japanese language school student.
 
 ### Pronouns
 
@@ -245,7 +247,7 @@ Pronouns are relatively rare in Japanese, but they are sometimes used to explici
 
 |  | **こ** | **そ** | **あ** | **ど** | だ |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Japanese | これ | それ | あれ  are | どれ dore | だれ |
+| Japanese | これ kore | それ sore | あれ  are | どれ dore | だれ |
 | English | this | that | that \(over there\)\(one\) | which \(one\) | who |
 | Notes | closer to the speaker  in front of me | closer to the listener ,  Next to you | far from both  the speaker and listener | question | question |
 
@@ -257,7 +259,4 @@ Pronouns are relatively rare in Japanese, but they are sometimes used to explici
 | のむ nomu | drink | きる kiru | wear |
 | すき suki | like | ほしい | want |
 |  |  |  |  |
-
-* Japanese Hiragana: [https://www.omniglot.com/writing/japanese\_hiragana.htm](https://www.omniglot.com/writing/japanese_hiragana.htm)
-* On'yomi & Kun'yomi 音読み, 訓読み：[https://www.japanesewithanime.com/2016/12/kunyomi-onyomi-kanji-meaning-differences.html](https://www.japanesewithanime.com/2016/12/kunyomi-onyomi-kanji-meaning-differences.html)
 

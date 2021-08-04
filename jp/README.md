@@ -4,9 +4,18 @@
 
 ![preview](../.gitbook/assets/duo_ja_intro.jpg)
 
-Did you know？There are more than 120million speakers of Japanese！You can tell just by looking that it's a pretty different language from English，but don't worry. While many consider Japanese to be very difficult to learn for native English speakers, this is only partially true. Many aspects of the Japanese language are quite simple, such as the sound system, and yes, even most of the grammar. We'll get started with the basics and help you through the tricky spots.
+Did you know？There are more than 120 million speakers of Japanese！You can tell just by looking that it's a pretty different language from English，but don't worry. 
+
+While many consider Japanese to be very difficult to learn for native English speakers, this is only partially true. Many aspects of the Japanese language are quite simple, such as the sound system, and yes, even most of the grammar. 
+
+We'll get started with the basics and help you through the tricky spots.
 
 Japanese Tutorial: [https://www.learn-japanese-adventure.com/](https://www.learn-japanese-adventure.com/)
+
+## JP Tutorial
+
+* Japanese Hiragana: [https://www.omniglot.com/writing/japanese\_hiragana.htm](https://www.omniglot.com/writing/japanese_hiragana.htm)
+* On'yomi & Kun'yomi 音読み, 訓読み：[https://www.japanesewithanime.com/2016/12/kunyomi-onyomi-kanji-meaning-differences.html](https://www.japanesewithanime.com/2016/12/kunyomi-onyomi-kanji-meaning-differences.html)
 
 Grammar:
 
@@ -19,7 +28,7 @@ Learn Japanese with ANIME: [https://www.japanesewithanime.com/](https://www.japa
 
 FAQ - sci.lang.japan Frequently Asked Questions: [https://www.sljfaq.org/afaq/afaq.html](https://www.sljfaq.org/afaq/afaq.html)
 
-## Dictionaries
+## JP Dictionaries
 
 Japandict: [https://www.japandict.com/](https://www.japandict.com/)
 
@@ -29,7 +38,8 @@ Jisho: [https://jisho.org/](https://jisho.org/)
 
 Forum: [https://japanese.stackexchange.com/](https://japanese.stackexchange.com/)
 
-## Refs
+## JP Refs
 
 * Duolingo Tips and Notes Wiki : [https://duome.eu/tips/en/ja](https://duome.eu/tips/en/ja) / [https://duonotes.fandom.com/](https://duonotes.fandom.com/)
+* Tips on Learning JP(Duolingo Mobile)
 

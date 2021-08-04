@@ -1,8 +1,6 @@
 # Nature and weather\(jp\)
 
-### The Four Seasons  <a id="mntl-sc-block_1-0-22"></a>
-
-
+### The Four Seasons  
 
 | Season | Japanese | Characters |
 | :--- | :--- | :--- |

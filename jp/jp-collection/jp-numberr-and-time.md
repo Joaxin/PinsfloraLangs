@@ -1,4 +1,10 @@
+---
+description: The next time you walk up a flight of stairs，practice a Japanese number with each step！	
+---
+
 # Number and Time\(jp\)
+
+
 
 ## Numbers
 
@@ -131,6 +137,7 @@ To give an answer，just say the number and add 時！
 | 分 | Minute, Part | わ•かる Wa• karu | ふん、ぶん Fun, bun |
 | 半 |  | はん |  |
 | 朝 | Morning | あさ |  |
+| 毎朝 | Every morning |  | |
 | 午 | Noon |  | ご |
 | 後 | After | あと、うし•ろ | ご |
 | 月 | month, moon | つき tsuki | ゲツ、 ガツ  getsu, gatsu |
@@ -153,7 +160,33 @@ It is exactly ten thirty right now.
 
 It is exactly/just eight thirty.
 
-![duo\_ja\_time](../../.gitbook/assets/duo_ja_time.jpg)
+**何時に寝ますか？**(Nanji ni ne masuka?)
+
+- What time do you go to bed?
+
+- 午後十一時に寝ます。
+
+**何時に起きますか？**(nanji ni okimasu ka?)
+
+- what time do you get up?
+
+- いいえ、起きません。(No, I will not get up.)
+
+- 午前七時に起きます。
+
+**午後六時に食べます。**
+
+**九時ごろに会社へ行きます。** (Kuji-goro ni kaisha e ikimasu.)
+
+I go to the office at around nine o'clock.
+
+**今は午前(ごぜん,A.M.)零時です。**(Ima wa gozenreijidesu.)
+
+It's midnight now. / It is twelve A.M. right now.
+
+
+
+![jp time](../../.gitbook/assets/duo_ja_time.jpg)
 
 ひる\(daytime, hiru\) きょう\(today, kyou\) よる\(night, yoru\)
 

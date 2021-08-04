@@ -6,22 +6,24 @@ description: どうもありがとうございます
 
 | Japanese |  | Japanese |  |
 | :--- | :--- | :--- | :--- |
-| はい / ええ / うん | Yes | いいえ | No |
-| \(それ\)では / \(それ\) じゃ \(あ\) | Well\(then\) | 多分\(たぶん, tabun\) | maybe |
+| はい / ええ / うん | Yes/Yeah | いいえ | No |
+| (それ)では / (それ) じゃ (あ) | Well(then) | 多分(たぶん, tabun) | maybe |
 | あ | ah，oh | あの | um |
+|  |  | じゃ | so |
 |  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| もちろん | of course |  |  |
 
 ## Greetings\(挨拶,aisatsu\)
 
+These Japanese phrases can have a couple different variations and meanings: 
+
 **How are you?**
 
-お**げんき**ですか？ \(How are you?\) \[お**元気**ですか\]
+お**げんき**ですか？ \(How are you? / Are you well?\) \[お**元気**ですか\]
 
 ええ、**げんき**です。 \(yes, I am fine\) / **げんき**ではありません \(I am not fine\)
 
-こちらこそ（Kochira koso）: 彼此彼此, 哪里哪里，Likewise，the pleasure is mine
+こちらこそ（Kochira koso）: 彼此彼此, 哪里哪里，Likewise, the pleasure is mine
 
 もちろんです \(Of course\)
 
@@ -31,34 +33,34 @@ description: どうもありがとうございます
 
 | Japanese |  |
 | :--- | :--- |
-| こんにち**は** \[konnichi**wa**\] | Hello |
-| どうい たしまして | You are welcome |
-| よろしく/どうぞ +よろしく\[Douzo yoroshiku\] | nice to meet you |
+| こんにち**は** [konnichi**wa**] | Hello |
+| どうい たしまして [Dōitashimashite] | You are welcome |
+| (どうぞ)よろしく\[Douzo yoroshiku\] | nice to meet you |
 | はじめまして \[Hajimemashite\] | Nice to meet you |
-| よろしく+お願\(ねが\)いします | Nice to meet you./Thank you for your consideration. |
+| よろしく+お願\(ねが\)いします | Nice to meet you,thank you for your consideration. |
 |  |  |
 
 お願いします「おねがいします， onegaishimasu」: 请多关照”，“拜托了”
 
-> 在日本，拜托对方做什么事情时会说「お願いします」（拜托了）。自我介绍的时候，也会在最后说一句「よろしくお願いします」（请多多关照）。
+> 在日本，拜托对方做什么事情时(do something for you)会说「お願いします」（拜托了）。自我介绍或者第一次见面的时候，也会在最后说一句「よろしくお願いします」（请多多关照）。
 >
 > 「お願いします」在一些场合下会说成「お願い」，意思是相同的，只是尊敬程度不同。「お願い」比「お願いします」更随意，多用在和关系亲近的人的对话中。
 
 **Good Morning…**
 
-|  |  |  |
+|  |               |      |
 | :--- | :--- | :--- |
-| おはよう\[ohayou\]/おはよ+う+ございます\[gozaimasu\] | Good morning! |  |
+| おはよう(ございます)\[gozaimasu\]) | Good morning! |  |
 |  |  |  |
-| こんばんは\[konbanwa\] | Good morning! |  |
+| こんばんは\[konbanwa] | Good morning! |  |
 |  |  |  |
 | おやすみなさい\[oyasuminasai\] | Good night! |  |
 
 ## **Please**
 
-The basic way to say “please” when making a request is **「お願いします。」** \(onegai shimasu\). Interestingly, this version of the word actually is an example of keigo\(敬語\),, as it uses humble speech. You can turn this into casual speech by just saying **「お願い。」** or more formal by swapping out しますfor いたします, a more humble form of the verb する.
+The basic way to say “please” when making a request is **「お願いします」** \(onegai shimasu\). Interestingly, this version of the word actually is an example of keigo\(敬語\),, as it uses humble speech. You can turn this into casual speech by just saying **「お願い。」** or more formal by swapping out しますfor いたします, a more humble form of the verb する.
 
-If you need to really amp up the formality, you can say **「お願い申し上げます。」** \(onegai moushiagemasu\).
+If you need to really amp up the formality, you can say **「お願い申し上げます」** \(onegai moushiagemasu\).
 
 Another formal word for “please” in Japanese is **「どうか」** \(douka\), which carries connotations of sincere begging.
 
@@ -70,6 +72,8 @@ In more casual contexts you might hear**「頼む」\(tanomu\)**, a word that me
 
 ## What’s your name?
 
+If you want to ask something like What is your name？in Japanese，it's more like Your name is what？
+
 お名\(な\)前\(まえ\)は何\(なに\)ですか？ \(what is your name?\)
 
 O namae wa nani desuka?
@@ -80,7 +84,12 @@ O namae wa nani desuka?
 
 マリア**と**言\(い\)います
 
+* とい います means My name is...！
+
+  > It's a verb, so remember to put it at the end.
+
 * と : particle
+
 * My name is Maria. 
 
 僕の名前は茂です。
@@ -108,15 +117,15 @@ If you'd like to thank someone for something they did in the past, you change th
 
 ## Saying Sorry
 
-ごめんなさい \(_gomen nasai_\) is the polite way to say “I’m sorry,” but you can make it more casual, too. Switching it to ごめん \(_gomen_, masculine\) or ごめんね \(_gomen ne_, feminine\) makes it more casual and lighthearted for minor issues.
+If you need to apologize for something you did，the phraseごめんなさい \(_gomen nasai_\) is the polite way to say “I’m sorry,” but you can make it more casual, too. Switching it to ごめん \(_gomen_, masculine\) or ごめんね \(_gomen ne_, feminine\) makes it more casual and lighthearted for minor issues.
 
 On the flip side, you can make it more sincere by adding 本当に \(_hontou ni_\), to say 本当にごめんなさい \(_hontou ni gomen nasai_\) which means “I’m truly sorry.”
 
 | Japanese | Explanation |
 | :--- | :--- |
 | ごめん / ごめん+なさい\[Gomen Nasai\] | This is the standard way to say “sorry” in Japanese, and you can use it in most situations. |
-| どうも\[すみません\] | excuse me |
-| すみません \[Sumimasen\] | excuse me, a super common way to apologize in most situations, e.g. bumped into someone by accident? “ああ、すみません！” |
+| どうも\[すみません\] | plz excuse me |
+| すみません \[Sumimasen\] | excuse me, a super common way to apologize in most situations, especially in formal situations. It also works to get someone's attention, like excuse me in English. e.g. bumped into someone by accident? “ああ、すみません！” |
 |  |  |
 |  |  |
 
