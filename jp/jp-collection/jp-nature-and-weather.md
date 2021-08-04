@@ -1,6 +1,6 @@
 # Nature and weather\(jp\)
 
-### The Four Seasons  
+### The Four Seasons
 
 | Season | Japanese | Characters |
 | :--- | :--- | :--- |
@@ -12,7 +12,7 @@
 
 * どの季節が一番好きですか。\(Which season do you like best?\)
 
-  Dono kisetsu ga ichiban suki desuka.  
+  Dono kisetsu ga ichiban suki desuka.
 
 ## Nature
 

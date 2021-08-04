@@ -8,7 +8,7 @@ description: Welcome and bienvenue!
 
 _Bonjour_ is a universal greeting that can be spoken to anyone at any time. In France, greeting people is very important, and some will even say _bonjour_ aloud when entering a public room or bus.
 
-If you're being casual, you can say **Salut(~hey)** ! any time of day!
+If you're being casual, you can say **Salut\(~hey\)** ! any time of day!
 
 Bon après-midi is often used as a farewell in the afternoon, while **bonsoir** is an evening greeting. \( "bonsoir" is an evening hello and "bonne soirée" an evening goodbye.\)
 
@@ -27,13 +27,13 @@ Bon après-midi is often used as a farewell in the afternoon, while **bonsoir** 
 | fr |  |
 | :--- | :--- |
 | bonne journée | \(have a\)good/nice day |
-| bon(ne) après-midi | \(have a\)good noon (note: un/une après-midi) |
+| bon\(ne\) après-midi | \(have a\)good noon \(note: un/une après-midi\) |
 | bonne soirée | \(have a\)good evening |
 | bonne nuit | \(have a\)good night/have a good night sleep |
 | au revoir | It is more polite to add "monsieur, madame or mademoiselle" or the person's name after "au revoir". |
 | À demain | See you tomorrow |
 | à bientôt | See you soon |
-| Adieu | old expression (to God, forever goodbye) |
+| Adieu | old expression \(to God, forever goodbye\) |
 
 > A good way to remember bonne soirée is to think of a party! Usually, parties happen in the evening. A soirèe is a French word, which means party. So whenever you see "bonne soirèe", just think of a party!
 

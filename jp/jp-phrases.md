@@ -7,7 +7,7 @@ description: どうもありがとうございます
 | Japanese |  | Japanese |  |
 | :--- | :--- | :--- | :--- |
 | はい / ええ / うん | Yes/Yeah | いいえ | No |
-| (それ)では / (それ) じゃ (あ) | Well(then) | 多分(たぶん, tabun) | maybe |
+| \(それ\)では / \(それ\) じゃ \(あ\) | Well\(then\) | 多分\(たぶん, tabun\) | maybe |
 | あ | ah，oh | あの | um |
 |  |  | じゃ | so |
 |  |  |  |  |
@@ -15,7 +15,7 @@ description: どうもありがとうございます
 
 ## Greetings\(挨拶,aisatsu\)
 
-These Japanese phrases can have a couple different variations and meanings: 
+These Japanese phrases can have a couple different variations and meanings:
 
 **How are you?**
 
@@ -33,26 +33,26 @@ These Japanese phrases can have a couple different variations and meanings:
 
 | Japanese |  |
 | :--- | :--- |
-| こんにち**は** [konnichi**wa**] | Hello |
-| どうい たしまして [Dōitashimashite] | You are welcome |
-| (どうぞ)よろしく\[Douzo yoroshiku\] | nice to meet you |
+| こんにち**は** \[konnichi**wa**\] | Hello |
+| どうい たしまして \[Dōitashimashite\] | You are welcome |
+| \(どうぞ\)よろしく\[Douzo yoroshiku\] | nice to meet you |
 | はじめまして \[Hajimemashite\] | Nice to meet you |
 | よろしく+お願\(ねが\)いします | Nice to meet you,thank you for your consideration. |
 |  |  |
 
 お願いします「おねがいします， onegaishimasu」: 请多关照”，“拜托了”
 
-> 在日本，拜托对方做什么事情时(do something for you)会说「お願いします」（拜托了）。自我介绍或者第一次见面的时候，也会在最后说一句「よろしくお願いします」（请多多关照）。
+> 在日本，拜托对方做什么事情时\(do something for you\)会说「お願いします」（拜托了）。自我介绍或者第一次见面的时候，也会在最后说一句「よろしくお願いします」（请多多关照）。
 >
 > 「お願いします」在一些场合下会说成「お願い」，意思是相同的，只是尊敬程度不同。「お願い」比「お願いします」更随意，多用在和关系亲近的人的对话中。
 
 **Good Morning…**
 
-|  |               |      |
-| :--- | :--- | :--- |
-| おはよう(ございます)\[gozaimasu\]) | Good morning! |  |
 |  |  |  |
-| こんばんは\[konbanwa] | Good morning! |  |
+| :--- | :--- | :--- |
+| おはよう\(ございます\)\[gozaimasu\]\) | Good morning! |  |
+|  |  |  |
+| こんばんは\[konbanwa\] | Good morning! |  |
 |  |  |  |
 | おやすみなさい\[oyasuminasai\] | Good night! |  |
 
@@ -89,8 +89,7 @@ O namae wa nani desuka?
   > It's a verb, so remember to put it at the end.
 
 * と : particle
-
-* My name is Maria. 
+* My name is Maria.
 
 僕の名前は茂です。
 
