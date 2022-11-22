@@ -1,5 +1,5 @@
 ---
-description: Arabic Introduction(Alphabet 1/Alphabet 2)
+description: Arabic Introduction(Arabic Alphabet)
 ---
 
 # Introduction

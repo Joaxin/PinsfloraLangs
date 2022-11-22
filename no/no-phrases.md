@@ -20,6 +20,17 @@ Below is a list of common greetings in the Norwegian language, for your referenc
 | **Ha en god kveld!** | Have a nice evening! |
 | **God natt**\(en,ei\) | Good night |
 | **God helg**\(en,ei\) | Good weekend |
+| **Vær så god** | You're welcome. |
+
+## Thank you
+
+Takk. Thank you.
+
+## Sorry
+
+Unnskyld. Excuse me.
+
+Beklager. I am sorry.
 
 ## Languages and Nationalities
 
@@ -37,7 +48,14 @@ As you may have noticed above, Norwegians do not capitalize adjectives, national
 
 | Norwegian | English |
 | :--- | :--- |
+| **Yes/No** | Ja/Nei |
+| **Vær så snill** | Please |
 | **bor** | lives |
 | **heter** | is named |
 | **kanskje** | maybe, perhaps |
+| **lykkeønskninger ** | best wishes |
+
+
+
+
 

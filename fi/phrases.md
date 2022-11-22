@@ -48,3 +48,8 @@ The word **hyvä**, "good", can be used in the meaning "bravo" to encourage othe
 >
 > **Hyvä Aino!** Well done Aino!/Bravo Aino!/Go Aino!
 
+Hyvää huomenta
+
+Kiitos,
+
+Terveisin

@@ -1,45 +1,36 @@
-# Phrases\(it\)
+# Phrases\(it)
 
-## _Negations_
+## Ciao
 
-The English _no_ has two main uses:
+You can say ciao regardless of the time of day, as long as you' re speaking informally or to family or friends.
 
-* Particle \(e.g. "no!"\): this translates directly to the Italian _no_.
-* Determiner \(e.g. "no one"\): 
+Ciao \(Hello/goodbye.\) is used both ways in Italian: when meeting \(also salve\) and when parting \(also arrivederci or addio\).
 
-The English _not_ almost always translates to the Italian _non_. However, while _not_ often follows the verb it negates or its auxiliary, the Italian _non_ always precedes it.
+## Greetings
 
-No, it is not bread. \(No, non è pane.\)
+Buongiorno \(Good morning\) and buonasera \(Good evening\) are normally used when meeting, although they can be used when parting as well: 
 
-## _Greetings_
+the first is used in the first half of the day and the latter in the remaining half(both good afternoon and good evening).
 
-* _Ciao_ is used both ways in Italian: when meeting \(also _salve_\) and when parting \(also _arrivederci_ or _addio_\).
-* _Buongiorno_ and _buonasera_ are normally used when meeting, although they can be used when parting as well: the first is used in the first half of the day and the latter in the remaining half.
-* _Buonanotte_ is always used when parting, as it presumes that the day is over \(same as "good night"\).
-* _Prego_ is a courtesy form used in many occasions to accompany a kind action, and it's the customary answer to reply to received thanks.
-* _Per favore_, _per piacere_ and _per cortesia_ are courtesy forms used when asking for something.
+Note that buonanotte is used to say goodbye at night or is always used when parting, as it presumes that the day is over \(same as "good night"\). It can't be used to greet people.
 
-## Excerpt
+## Sorry
 
 Io sono spiacente. \(I am sorry.\)
 
-Prego! \(You are welcome! \)
-
 Sì, spiacente.\(Yes, Sorry\)
 
-Per favore.\(please.\)
+## Thanks
 
-Buongiorno. \(Good morning.\)
+Good manners are important! Use grazie to thank people, and per favore to say please.
 
-Buonasera. \(Good evening.\)
+Per favore, per piacere and per cortesia\(please.\) are courtesy forms used when asking for something.
 
-Arrivederci, buonanotte. \(Good bye, goodnight.\)
+When someone says grazie to you,be sure to reply prego!
 
-Ciao. \(Hello.\)
+Prego\(You are welcome! \) is a courtesy form used in many occasions to accompany a kind action, and it's the customary answer to reply to received thanks.
 
-Grazie, ciao. \(Thank you, goodbye.\)
 
-No, it is not bread. \(No, non è pane. \)
 
 E Lei di dovè? \(Where are you from?\)
 

@@ -11,7 +11,7 @@ description: どうもありがとうございます
 | あ | ah，oh | あの | um |
 |  |  | じゃ | so |
 |  |  |  |  |
-| もちろん | of course |  |  |
+| もちろん(です) | of course |  |  |
 
 ## Greetings\(挨拶,aisatsu\)
 
@@ -25,26 +25,15 @@ These Japanese phrases can have a couple different variations and meanings:
 
 こちらこそ（Kochira koso）: 彼此彼此, 哪里哪里，Likewise, the pleasure is mine
 
-もちろんです \(Of course\)
-
-`もちろん`げんきです\(Of course, I am fine\)
-
 **Nice to meet you.**
 
 | Japanese |  |
 | :--- | :--- |
 | こんにち**は** \[konnichi**wa**\] | Hello |
 | どうい たしまして \[Dōitashimashite\] | You are welcome |
-| \(どうぞ\)よろしく\[Douzo yoroshiku\] | nice to meet you |
+| \(どうぞ\)よろしく\[Douzo yoroshiku\] | (Here you are)nice to meet you |
 | はじめまして \[Hajimemashite\] | Nice to meet you |
-| よろしく+お願\(ねが\)いします | Nice to meet you,thank you for your consideration. |
-|  |  |
-
-お願いします「おねがいします， onegaishimasu」: 请多关照”，“拜托了”
-
-> 在日本，拜托对方做什么事情时\(do something for you\)会说「お願いします」（拜托了）。自我介绍或者第一次见面的时候，也会在最后说一句「よろしくお願いします」（请多多关照）。
->
-> 「お願いします」在一些场合下会说成「お願い」，意思是相同的，只是尊敬程度不同。「お願い」比「お願いします」更随意，多用在和关系亲近的人的对话中。
+| どうぞ+よろしく+お願いします。 | Nice to meet you. |
 
 **Good Morning…**
 
@@ -54,11 +43,19 @@ These Japanese phrases can have a couple different variations and meanings:
 |  |  |  |
 | こんばんは\[konbanwa\] | Good morning! |  |
 |  |  |  |
-| おやすみなさい\[oyasuminasai\] | Good night! |  |
+| おやすみ(なさい)\[oyasuminasai\] | Good night! |  |
 
 ## **Please**
 
-The basic way to say “please” when making a request is **「お願いします」** \(onegai shimasu\). Interestingly, this version of the word actually is an example of keigo\(敬語\),, as it uses humble speech. You can turn this into casual speech by just saying **「お願い。」** or more formal by swapping out しますfor いたします, a more humble form of the verb する.
+お願いします「おねがいします， onegaishimasu」: 请多关照”，“拜托了”
+
+> 在日本，拜托对方做什么事情时\(do something for you\)会说「お願いします」（拜托了）。自我介绍或者第一次见面的时候，也会在最后说一句「よろしくお願いします」（请多多关照）。
+>
+> 「お願いします」在一些场合下会说成「お願い」，意思是相同的，只是尊敬程度不同。「お願い」比「お願いします」更随意，多用在和关系亲近的人的对话中。
+
+---
+
+The basic way to say “please(thank you for your consideration)” when making a request is 「お願いします」. Interestingly, this version of the word actually is an example of keigo\(敬語, Honorific), as it uses humble speech. You can turn this into casual speech by just saying **「お願い。」** or more formal by swapping out しますfor いたします, a more humble form of the verb する.
 
 If you need to really amp up the formality, you can say **「お願い申し上げます」** \(onegai moushiagemasu\).
 
@@ -99,6 +96,8 @@ O namae wa nani desuka?
 
 The phrase "thank you" in Japanese is dependent on the situation. Below is a table of the most common forms, from least to most formal. Note that the formality increases with the length of the phrase.
 
+The simplest one is 「いいえ」, "not at all". The next one up is 「どういたしまして」, "would do the same". Another one you may come across is 「とんでもない」, "don't mention it", or one of its more polite variants (replacing 「ありません」 or 「ございません」 as appropriate). There are even more polite responses, but as a 外国人 you will not be expected to have to worry about them.
+
 | Japanese | Explanation |
 | :--- | :--- |
 | どうも\[doumo\] | **Thanks**, used with friends. |
@@ -116,7 +115,7 @@ If you'd like to thank someone for something they did in the past, you change th
 
 ## Saying Sorry
 
-If you need to apologize for something you did，the phraseごめんなさい \(_gomen nasai_\) is the polite way to say “I’m sorry,” but you can make it more casual, too. Switching it to ごめん \(_gomen_, masculine\) or ごめんね \(_gomen ne_, feminine\) makes it more casual and lighthearted for minor issues.
+If you need to apologize for something you did，the phraseごめんなさい (gomen nasai) is the polite way to say “I’m sorry,” but you can make it more casual, too. Switching it to ごめん \(_gomen_, masculine\) or ごめんね \(_gomen ne_, feminine\) makes it more casual and lighthearted for minor issues.
 
 On the flip side, you can make it more sincere by adding 本当に \(_hontou ni_\), to say 本当にごめんなさい \(_hontou ni gomen nasai_\) which means “I’m truly sorry.”
 
@@ -130,7 +129,7 @@ On the flip side, you can make it more sincere by adding 本当に \(_hontou ni_
 
 If you did something wrong at work, this would be the phrase to use. It’s in humble speech and shows your sincerity more than ごめん\(ね\).
 
-申し訳ございません \(moushiwake gozaimasen, I’m terribly sorry”\) is also said if you do something wrong in any situation where you must apologize to someone of authority. That could mean law enforcement, too.
+申し訳ない, 申し訳ございません \(moushiwake gozaimasen, I’m terribly sorry”\) is also said if you do something wrong in any situation where you must apologize to someone of authority. That could mean law enforcement, too.
 
 You’ll also hear 申し訳ありません \(_moushiwake arimasen_\), which essentially means the same thing, but is slightly less polite because it’s not in humble speech.
 
@@ -160,3 +159,6 @@ You’ll also hear 申し訳ありません \(_moushiwake arimasen_\), which ess
 | また金曜日 | 周五见 |
 |  |  |
 
+お返事楽しみにしています。(O henji tanoshiminishiteimasu.)
+
+I am looking forward to your reply.

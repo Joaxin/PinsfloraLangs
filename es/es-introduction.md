@@ -180,7 +180,7 @@ These are the so‑called **e‑to‑ie** verbs. But watch out! The **e** doesn'
 | vosotros/vosotras | abrís | salís | dormís | vestís | sabéis | queréis | vais |
 | ellos/ellas/ustedes | abren | salen | d**ue**rmen | v**i**sten | saben | qu**i**eren | van |
 
-## **Questions**
+## Espanol pregunta
 
 Asking questions in Spanish is easy! Just change the pronunciation of any statement to a question by lifting your voice at the end.
 
