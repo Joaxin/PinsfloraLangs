@@ -1,6 +1,6 @@
 # Arabic
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](<../.gitbook/assets/image (11).png>)
 
 ## 疑问
 
@@ -20,9 +20,8 @@
 
 何炅解答为什么大学选择阿拉伯语专业 阿拉伯语太难了
 
-[https://v.youku.com/v\_show/id\_XNDYwNjEyMzY5Mg==.html](https://v.youku.com/v_show/id_XNDYwNjEyMzY5Mg==.html)
+[https://v.youku.com/v\_show/id\_XNDYwNjEyMzY5Mg==.html](https://v.youku.com/v\_show/id\_XNDYwNjEyMzY5Mg==.html)
 
 ## 百科
 
 维基百科：[https://en.wikipedia.org/wiki/Arabic](https://en.wikipedia.org/wiki/Arabic)
-
