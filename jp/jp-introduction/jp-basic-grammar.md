@@ -1,7 +1,5 @@
 # Basic Grammar
 
-## Basic Grammar
-
 One thing that makes Japanese very different from English is the Japanese tendency to **drop the subject of the sentence** when the meaning is clear from context. Statements usually refer to oneself, while questions usually address the person you're speaking with.
 
 ### The Question Marker
@@ -16,7 +14,7 @@ Adding question marker **か** at the end will make the affirmative \(positive\)
 
 マリア**さんは** 中国しゅっしんです \(Ms. Maria is from China / Ms. Maria is chinese.\)
 
-* 中国しゅっしんです \(Chūgoku shusshin desu\)
+* 中国**しゅっしん**です \(Chūgoku shusshin desu\)
 * 中国出身です\(I am from china\)
 
 > **Tips** ：マリア——maria；さん——honorific\(Mr./Mrs.\);はwa——is;しゅっしん——from
@@ -37,14 +35,24 @@ If you want to say John is American or Maria is Japanese,put は after John or M
 
 **ジョン** さんは アメリカ人です（john is american）
 
+マリアは留(ryū)学生です。
+
+- Maria is a foreign exchange student.
+
+直美と健太は大学生です。
+
+- Naomi and Kenta are college students.
+
 ### Negative
+
+In English, we’d say **I** **am not** **a student**, but to say that you’re **not** something in Japanese, you change the verb **です** (desu) to **ではありません** (dewa arimasen).
 
 Here is the table of possible ways to say "is not/ wasn't":
 
 |  | では PRESENT | じゃあ PRESENT | では PAST | じゃあ PAST |
 | :--- | :--- | :--- | :--- | :--- |
-| FORMAL | ~ではありません  or ~ではないです | ~じゃありません  or ~じゃないです | ~ではありませんでした   or ~ではなかったです | ~じゃありませんでした   or ~じゃなかったです |
-| INFORMAL | ~ではない | ~じゃない | ~ではなかった | ~じゃなかった |
+| FORMAL | ~ではありません  or ~ではないです | ~じゃありません  or ~**じゃない**です | ~ではありません**でした**   or ~**ではなかった**です | ~じゃありません**でした**   or ~**じゃなかった**です |
+| INFORMAL | ~ではない | ~**じゃない** | ~**ではなかった** | ~**じゃなかった** |
 
 > じゃあ is less formal than では however, じゃあ sounds easier to say so it is most commonly used in conversational Japanese.
 
@@ -57,23 +65,9 @@ Here is the table of possible ways to say "is not/ wasn't":
 
 ### What are you speaking?
 
-フランス語**が**話\(はな\)せますか？
+Remember how you use は after a noun to show what the subject is? 
 
-* Can you speak French?
-
-> from [https://forum.duolingo.com/comment/36961184/Can-you-speak-French](https://forum.duolingo.com/comment/36961184/Can-you-speak-French) @DaemonBeats
->
-> Japanese sentence structure is SOV/Subject, Object, Verb.
->
-> We start off with the object of the sentence, フランス語. This simply means "French." Feel free to put あなたは \("you + は," the subject of the sentence/question\) or another form of address like a name, before French here, but the person you're asking most likely knows you're asking THEM the question, so it's not needed in the sentence and it's easier. Since the Subject is implied not included in the sentence, and French is the Object, it is first. SOV
->
-> Then, we have the particle が. Think of it as a word that puts emphasis on what comes before it and connects it to what's after, and is often introducing what comes before it. In this case, you're asking the person if it's FRENCH that they can speak. French is probably just being introduced to the conversation, or brought back to attention. This question may prompt the answer to be something like "No, I don't speak French, but I can speak..." the new idea in the sentence is \(French\), and perhaps you were already talking about speaking other languages beforehand.
->
-> If you use は instead of が, it puts more emphasis on what it is introduced after it. If it was used in this question, French would probably already be the topic of the conversation, and you'd be asking along the lines of "oh! Speaking of French, can you speak it?" The new idea is \(the speaking\) of French.
->
-> Lastly, 話せます \(はなせます\). I've more often heard 話します \(はなします\), with a し, which means "I DO speak..." //whilst with the せ means "I CAN speak."
->
-> Particles are a bit tricky in Japanese, but hang in there and you'll get it!
+For now, when talking about languages, just remember that you usually use が in statements, and は in questions!
 
 英語**は**話せますか？
 
@@ -97,6 +91,26 @@ Here is the table of possible ways to say "is not/ wasn't":
 
 * I am a Japanese language school student.
 
+フランス語**が**話\(はな\)せますか？
+
+* Can you speak French?
+
+> from [https://forum.duolingo.com/comment/36961184/Can-you-speak-French](https://forum.duolingo.com/comment/36961184/Can-you-speak-French) @DaemonBeats
+>
+> Japanese sentence structure is SOV/Subject, Object, Verb.
+>
+> We start off with the object of the sentence, フランス語. This simply means "French." Feel free to put あなたは \("you + は," the subject of the sentence/question\) or another form of address like a name, before French here, but the person you're asking most likely knows you're asking THEM the question, so it's not needed in the sentence and it's easier. Since the Subject is implied not included in the sentence, and French is the Object, it is first. SOV
+>
+> Then, we have the particle が. Think of it as a word that puts emphasis on what comes before it and connects it to what's after, and is often introducing what comes before it. In this case, you're asking the person if it's FRENCH that they can speak. French is probably just being introduced to the conversation, or brought back to attention. This question may prompt the answer to be something like "No, I don't speak French, but I can speak..." the new idea in the sentence is \(French\), and perhaps you were already talking about speaking other languages beforehand.
+>
+> If you use は instead of が, it puts more emphasis on what it is introduced after it. If it was used in this question, French would probably already be the topic of the conversation, and you'd be asking along the lines of "oh! Speaking of French, can you speak it?" The new idea is \(the speaking\) of French.
+>
+> Lastly, 話せます \(はなせます\). I've more often heard 話します \(はなします\), with a し, which means "I DO speak..." //whilst with the せ means "I CAN speak."
+>
+> Particles are a bit tricky in Japanese, but hang in there and you'll get it!
+
+
+
 ### Pronouns
 
 Pronouns are relatively rare in Japanese, but they are sometimes used to explicitly specify the subject or topic of a sentence. Below are some of the most common ones.
@@ -105,7 +119,7 @@ Pronouns are relatively rare in Japanese, but they are sometimes used to explici
 | :--- | :--- | :--- | :--- |
 | 私 | わたし | I, me | Used in polite settings by women and men, used by women in most other settings |
 | 僕 | ぼくboku | I, me | Used by men in informal settings |
-| 私たち | わたしたち | we, us |  |
+| 私たち | わたしたち | we, us | most common |
 | 我々 | われわれ |  | sounds rather stiff and business-like. |
 |  | あなた | you | あなた is used in polite settings, If you know someone's name, it's best to call someone by their name, typically followed by さんor せんせい。あなた**たち** is used in formal settings. |
 | 君 | きみ |  | Used by men in informal settings, specifically to those on or beneath one's social level. 君**たち** is used in informal settings, especially to subordinates. |
@@ -131,13 +145,29 @@ Pronouns are relatively rare in Japanese, but they are sometimes used to explici
 
 あれとあれをください。
 
-* That one and that one, please.
+* That one and that one, please.  
 
-|  | **こ** | **そ** | **あ** | **ど** | だ |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Japanese | これ kore | それ sore | あれ  are | どれ dore | だれ |
-| English | this | that | that \(over there\)\(one\) | which \(one\) | who |
-| Notes | closer to the speaker  in front of me | closer to the listener ,  Next to you | far from both  the speaker and listener | question | question |
+> そと (outside)
+
+|  | **こ** | **そ** | **あ** | **ど** | だ |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | ---- |
+| Japanese | これ kore | それ sore | あれ  are | どれ dore | だれ | どこ doko |
+| English | this | that | that \(over there\)\(one\) | which \(one\) | who | where |
+| Notes | closer to the speaker  in front of me | closer to the listener ,  Next to you | far from both the speaker and listener | question | question |  |
+
+You can also use を (o) when asking for something! Just put it after the thing you want, then add please!
+
+これをください。(Kore o kudasai.)
+This one, please.
+
+ペットはどこですか？ Where is your pet?
+
+In English, we’d say There is a table or There are tables. In Japanese, you can use the verb あります (arimasu)! Keep in mind, nouns in Japanese have the same form, whether you’re talking about one thing or many things. In a conversation, you can tell based on context, or it’s just not important.
+
+But, if you want to say something like There is a cat, you actually need to use 
+います (imasu) instead of あります (arimasu)! あります (arimasu) is for inanimate things, while います (imasu) is for people and animals!
+
+カメラ**は**どこ**に**ありますか？Where is the camera ?
 
 ### Verbs
 

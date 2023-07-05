@@ -1,8 +1,8 @@
 # Time
 
-To ask **What time is it？**in Japanese，say 何時ですか？
+To ask **What time is it？**in Japanese，say 何時ですか/今、何時ですか？？
 
-To give an answer，just say the number and add 時！
+To give an answer/If you want to say when something happens，just say the number and add 時！
 
 | Kanji | Meaning | Kunyomi Reading | Onyomi Reading |
 | :--- | :--- | :--- | :--- |
@@ -12,7 +12,7 @@ To give an answer，just say the number and add 時！
 | 時 | Time, literally means hour | とき toki | じ ji |
 | 今 | Now | いま | こん |
 | 分 | Minute, Part | わ•かる Wa• karu | ふん、ぶん Fun, bun |
-| 半 |  | はん |  |
+| 半 |  | はん han |  |
 | 朝 | Morning | あさ |  |
 | 毎朝 | Every morning |  |  |
 | 午 | Noon |  | ご |
@@ -58,7 +58,30 @@ I go to the office at around nine o'clock.
 
 It's midnight now. / It is twelve A.M. right now.
 
-![jp time](../../../.gitbook/assets/duo_ja_time.jpg)
+This table will show you the pronunciation changes you need to know for saying what time it is!
+
+| TIME  |                             |
+| ----- | --------------------------------------------------- |
+| 1:01  | 一時一分 ichi‑ji ip‑pun     |
+| 2:02  | 二時二分 ni‑ji ni‑fun       |
+| 3:03  | 三時三分 san‑ji san‑pun     |
+| 4:04  | 四時四分 yo‑ji yon‑pun      |
+| 5:05  | 五時五分 go‑ji go‑fun       |
+| 6:06  | 六時六分 roku‑ji rop‑pun    |
+| 7:07  | 七時七分 shichi‑ji nana‑fun |
+| 8:08  | 八時八分 hachi‑ji hap‑pun   |
+| 9:09  | 九時九分 ku‑ji kyū‑fun      |
+| 10:10 | 十時十分 jū‑ji jūp‑pun      |
+
+> When there is っ or ん in front of fen, read ぷん
+
+Since the numbers from 11 ‑ 99 are all made with those first ten numbers, they use the same pronunciation changes!
+
+| 8:18 | 八時十八分 hachi‑ji jūhap‑pun |
+| ---- | ----------------------------------------------------- |
+| 6:20 | 六時二十分 roku‑ji nijūp‑pun  |
+
+---
 
 ひる\(daytime, hiru\) きょう\(today, kyou\) よる\(night, yoru\)
 

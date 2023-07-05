@@ -23,6 +23,8 @@ These Japanese phrases can have a couple different variations and meanings:
 
 ええ、**げんき**です。 \(yes, I am fine\) / **げんき**ではありません \(I am not fine\)
 
+> What’s that  お in the question, by the way? It’s just something for adding a little extra politeness!
+
 こちらこそ（Kochira koso）: 彼此彼此, 哪里哪里，Likewise, the pleasure is mine
 
 **Nice to meet you.**
@@ -33,7 +35,7 @@ These Japanese phrases can have a couple different variations and meanings:
 | どうい たしまして \[Dōitashimashite\] | You are welcome |
 | \(どうぞ\)よろしく\[Douzo yoroshiku\] | (Here you are)nice to meet you |
 | はじめまして \[Hajimemashite\] | Nice to meet you |
-| どうぞ+よろしく+お願いします。 | Nice to meet you. |
+| どうぞ+よろしく+お願(nega)いします。 | Nice to meet you. |
 
 **Good Morning…**
 
@@ -91,6 +93,9 @@ O namae wa nani desuka?
 僕の名前は茂です。
 
 * My name is Shigeru.
+
+兄の名前は健太です。Ani no namae wa Kentadesu.
+My older brother's name is Kenta.
 
 ## Saying Thank You
 
@@ -158,6 +163,38 @@ You’ll also hear 申し訳ありません \(_moushiwake arimasen_\), which ess
 | また来週 | 下周见 |
 | また金曜日 | 周五见 |
 |  |  |
+
+## With feeling!
+
+There are also little words at the end of a sentence that add feeling and attitude!
+
+Putting よ (yo) at the end of a sentence adds a bit of emphasis, often when you’re saying new information to the listener!
+
+そうですよ。Sō desu yo.
+
+- (That) is right, you know.
+
+違いますよ。Chigaimasu yo.
+
+- (That) is wrong, you know.
+
+You can also add ね (ne) when you expect the listener to agree or show approval. It’s kind of like adding ...right? to the end of a sentence when you’re not actually looking for an answer. You can even have よ (yo)  and 
+ね (ne) in the same sentence!
+
+よろしくね。Yoroshiku ne.
+
+- Nice to meet you.
+  そうですよね？
+
+Sō desu yo ne?
+
+- (That) is right, isn't it?
+
+
+
+
+
+
 
 お返事楽しみにしています。(O henji tanoshiminishiteimasu.)
 

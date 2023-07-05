@@ -1,34 +1,21 @@
 # Countries and Cities(jp)
 
+## Japanese CIties
 
-
-## Katakana characters
-
-If you sound out the words below using katakana characters, you might find some familiar words! Some of the pronunciation is a little different than its English equivalent, though.
-
-| Japanese | Romaji    | English                              |
-| -------- | --------- | ------------------------------------ |
-| カメラ      | kamera    | camera                               |
-| アフリカ     | Afurika   | Africa                               |
-| フランス     | Furansu   | France                               |
-| メキシコ     | Mekishiko | Mexico                               |
-| アメリカ     | Amerika   | the US / America / アメリカ人です(American) |
-| マリア      | Maria     | Maria (female given name)            |
-| エリカ      | Erika     | Erika (female given name)            |
-| マリオ      | Mario     | Mario (male given name)              |
-| マドリード    | Madoriido | Madrid                               |
-
-Just be careful - not all words written in katakana were taken from English!
-
-| Japanese | Romaji  | English                                          |
-| -------- | ------- | ------------------------------------------------ |
-| イギリス     | Igirisu | the UK / the United Kingdom / inglês(Portuguese) |
-| イタリア     | Itaria  | Italy / Italia(Italian)                          |
-| ローマ      | Rōma    | Rome / Roma(Italian)                             |
-
-Not all foreign loan words in Japanese are directly equivalent to their English counterparts! For instance, in Japanese **アメリカ** (Amerika) isn't commonly used to refer to all of North America or to both North and South America - it's used almost exclusively to mean "the United States."
-
-However, **イギリス** (Igirisu) can be used to refer to both "the UK" and "England."
+| JP                                     |           |                                 |              |
+| -------------------------------------- | --------- | ------------------------------- | ------------ |
+| Kyо̄to                                  | 京都      | Tо̄kyо̄                           | 東京         |
+| Osaka                                  | 大阪      | 北京 pekin                      | beijingh     |
+| ボストン Bosuton                       | Boston    | 上海  Shanhai                   | shanghai     |
+| シカゴ  Shikago                        | Chicago   | ニューヨーク                    | New York     |
+| コロンビア Koronbia                    | Colombia  |                                 |              |
+| ハワイ hawai                           | hawai     | ベルリン berurin                | berlin       |
+| ワルシャワ warushawa                   | warsaw    | モスクワ mosukuwa               | Moscow       |
+| アムステルダム  amusuterudamu          | Amsterdam | ソウル souru                    | Seoul        |
+| バンクーバー/ヴァンクーヴァー  bankūbā | Vancouver | ロサンゼルス rosanzerusu        | Los Angeles  |
+| ストックホルム Sutokkuhorumu           | Stockholm | ケニア Kenia                    | Kenya        |
+| カンヌ  Kan'nu                         | Cannes    | ブエノスアイレス  Buenosuairesu | Buenos Aires |
+|                                        |           | ヴェネツィア Vuenetsuia         | Venice       |
 
 ## Cities in Japanese
 

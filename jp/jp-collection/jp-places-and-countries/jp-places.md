@@ -2,8 +2,8 @@
 
 |  |  |  |  |
 | :--- | :--- | :--- | :--- |
-| へや | room | きたない | dirty |
-| そと | outside | いえ | house |
+|  |  | きたない | dirty |
+|  |  | いえ | house |
 |  |  | えき 駅 | Station |
 | ぎんこう jinkou | bank |  |  |
 |  |  |  |  |

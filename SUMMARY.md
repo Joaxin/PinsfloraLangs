@@ -10,6 +10,7 @@
       * [Time](jp/jp-collection/jp-numberr-and-time/jp-time.md)
       * [Date](jp/jp-collection/jp-numberr-and-time/date.md)
       * [Numbers](jp/jp-collection/jp-numberr-and-time/jp-numbers.md)
+      * [Counting](jp/jp-collection/jp-numberr-and-time/jp-counting.md)
     * [Objects(jp)](jp/jp-collection/jp-objects.md)
     * [People(jp)](jp/jp-collection/jp-people.md)
     * [Clothes & Colors(jp)](jp/jp-collection/jp-clothes-and-colors.md)

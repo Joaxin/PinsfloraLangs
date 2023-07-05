@@ -1,3 +1,5 @@
+ Home 1 - Unit 8 - routines
+
 # Japanese
 
 ![](../.gitbook/assets/duo_ja_duo.png)
@@ -22,9 +24,9 @@ Grammar:
 * [https://jlptsensei.com/](https://jlptsensei.com/)
 * [https://www.learn-japanese.info/](https://www.learn-japanese.info/)
 
-Tutorial: [https://www.japaneseprofessor.com/](https://www.japaneseprofessor.com/)
+Tutorial:  🌸 [https://www.japaneseprofessor.com/](https://www.japaneseprofessor.com/)
 
-Learn Japanese with ANIME: [https://www.japanesewithanime.com/](https://www.japanesewithanime.com/)
+ 🌸 Learn Japanese with ANIME: [https://www.japanesewithanime.com/](https://www.japanesewithanime.com/)  
 
 FAQ - sci.lang.japan Frequently Asked Questions: [https://www.sljfaq.org/afaq/afaq.html](https://www.sljfaq.org/afaq/afaq.html)
 
@@ -40,6 +42,12 @@ Forum: [https://japanese.stackexchange.com/](https://japanese.stackexchange.com/
 
 ## JP Refs
 
-* Duolingo Tips and Notes Wiki : [https://duome.eu/tips/en/ja](https://duome.eu/tips/en/ja) / [https://duonotes.fandom.com/](https://duonotes.fandom.com/)
+* Duolingo Tips and Notes Wiki : 
+
+  旧版本网页的知识集
+
+ 	[https://duome.eu/tips/en/ja](https://duome.eu/tips/en/ja)
+ 	[https://duonotes.fandom.com/](https://duonotes.fandom.com/)
+
 * Tips on Learning JP\(Duolingo Mobile\)
 

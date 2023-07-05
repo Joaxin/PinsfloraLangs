@@ -1,9 +1,5 @@
 # Numbers
 
-
-
-## Numbers
-
 Japanese has two systems of counting, a native system now only used for small numbers, and a Chinese-based system used for most kinds of counting.
 
 | Arabic numeral | English | Japanese system | Japanese system | Chinese system | Chinese system | Chinese system |
@@ -117,3 +113,19 @@ Depending on context，四 can be read as yon or shi，七 can be nana or shichi
 
 > In Japanese, you just combine the numbers above to make bigger numbers.
 
+
+
+## Phrases
+
+As for age, we’d say something like I am ten years old in English. In Japanese, you’d use 歳 (sai). 
+
+There are pronunciation changes with a couple of the smaller numbers. Take a look!
+
+| 1 year old  | **一歳** issai  |
+| ----------- | --------------- |
+| 8 year old  | **八歳** hassai |
+| 10 year old | **十歳** jussai |
+
+二十一歳です。  Nijūissaidesu.
+
+- I am twenty-one years old.

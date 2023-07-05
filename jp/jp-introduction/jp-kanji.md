@@ -23,6 +23,8 @@ Below is a table of the kanji that are introduced in this lesson, complete with 
 | 学 | Education | まな•ぶ | がく gaku |
 | 生 | Born, Raw | なま、い•きる | せい sei |
 | 先 | Previous | さき saki | せん sen |
+| 村 | village | むら mura | ソン son |
+| 山 | mountain | やま | サン、 セン |
 
 | 英 | English |  | えい |
 | :--- | :--- | :--- | :--- |

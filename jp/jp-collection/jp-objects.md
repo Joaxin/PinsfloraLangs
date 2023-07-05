@@ -2,13 +2,41 @@
 
 ## Room
 
-へや \(room\) きたない \(dirty\)
+> 部屋へや \(room\)
+>
+> Adj.  きたない \(dirty, messy\)
 
-いえ \(house,and/or\)
+|          |                                    |      |      |
+| -------- | ---------------------------------- | ---- | ---- |
+| テーブル | table, teeburu                     |      |      |
+| 窓       | window, Mado                       |      |      |
+| 机       | デスク(desuku), Desk,Tsukue つくえ |      |      |
+| 椅子     | Chair,いす                         |      |      |
+|          |                                    |      |      |
+|          |                                    |      |      |
+|          |                                    |      |      |
 
-そと \(outside\)
+## House
 
-Note \(ノート\)
+> いえ \(house/home ,and/or\)
+
+トイレ【といれ】 toire: toilet bathroom/restroom
+
+便所 【べんじょ】 【bennjo】
+
+風fu呂ro: bathtub  お風呂です。
+
+浴槽です。 Yokusōdesu. 
+
+台所 Daidokoro, kitchen
+
+にわ,  garden 庭
+
+## Bag
+
+> かばん \(bag, Kaban)
+
+でんわ \(phone\)
 
 おかね 金钱
 
@@ -16,19 +44,42 @@ Note \(ノート\)
 
 きっぷ \(tickets, kippu\)
 
-でんわ \(phone\)
+ べんとう \(lunch box, 弁当)
 
-かばん \(bag\) べんとう \(lunch box\)
+かさ 傘
+
+Note \(ノート\)
+
+## School/がっこう
 
 えんぴつ \(pencil, enpitsu\)
 
+
+
 くるま 車
 
-かさ 傘
+
 
 けむり 煙
 
 すな 砂 sand
 
-きゅう \(old\)
 
+
+
+
+---
+
+トイレ**が**あります
+
+There is a restroom
+
+トイレはありません！
+
+Toire wa arimasen!
+There is no bathroom!
+
+窓があります。
+
+Mado ga arimasu.
+There is (a) window.
