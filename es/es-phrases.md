@@ -1,8 +1,8 @@
 ---
-description: 'Hola, Mucho gusto.'
+description: Hola, Mucho gusto.
 ---
 
-# Phrases\(es\)
+# Phrases(es)
 
 You probably already know that "hello" in Spanish is "hola", right? But Spanish greetings and pleasantries don't stop there.
 
@@ -18,9 +18,9 @@ Many Spanish greetings depend on the time of day.
 
 Even though "buenos días" literally means "good days," it is used in the mornings to mean "good morning."
 
-Note that Spanish greetings are always in the plural \("Good days"\), but you might occasionally hear the singular **"buen día"** instead of **"buenos días"**.
+Note that Spanish greetings are always in the plural ("Good days"), but you might occasionally hear the singular **"buen día"** instead of **"buenos días"**.
 
----
+
 
 In English, "afternoon" comes before "evening," which in turn comes before "night."
 
@@ -30,19 +30,17 @@ Therefore, at 6:30pm it is ok to say either "buenas tardes" or "buenas noches."
 
 ### ¿Cómo está?
 
-Just like in English, it's nice to follow up with _"how are you?"_, _"what's up?" "how's it going?" "how you doin'?"_ etc. \(Although just like in English, don't always expect to get an answer.\)
+Just like in English, it's nice to follow up with _"how are you?"_, _"what's up?" "how's it going?" "how you doin'?"_ etc. (Although just like in English, don't always expect to get an answer.)
 
+¿Cómo está? (How are you?)(formal)
 
+¿Cómo está usted? (How are you?) (formal)
 
-¿Cómo está? \(How are you?\)\(formal\)
+¿Cómo estás (tú)? (How are you? )(informal)
 
-¿Cómo está usted? \(How are you?\) \(formal\)
+¿Qué tal? ¿Cómo andas? ¿Cómo va? (How are you? ) (very casual)
 
-¿Cómo estás \(tú\)? \(How are you? \)\(informal\)
-
-¿Qué tal? ¿Cómo andas? ¿Cómo va? \(How are you? \) \(very casual\)
-
-¿Qué haces? \(How are you?/what do you do?/ what are you doing?\)
+¿Qué haces? (How are you?/what do you do?/ what are you doing?)
 
 ¿Que pasa?
 
@@ -52,23 +50,23 @@ Yup, just as you do in English, if someone asks you _"How are you?"_ you will us
 
 > Blurting out is the best way to prove your Spanish level.
 
-Bien, gracias, ¿y usted? \(formal\)
+Bien, gracias, ¿y usted? (formal)
 
-Bien, gracias, ¿y tú? \(informal\)
+Bien, gracias, ¿y tú? (informal)
 
 If things are a little better than "good" in your world, you can use one of these instead:
 
-\(Estoy\) Todo bien / Muy bien \(Very good\)
+(Estoy) Todo bien / Muy bien (Very good)
 
 _If things are a bit more so-so, you could also use one of these:_
 
-Aquí estamos / Acá andamos \(Literally _"here we are"_, but it's usually used like _"I'm hanging in there"_, or _"I'm alive"_. \)
+Aquí estamos / Acá andamos (Literally _"here we are"_, but it's usually used like _"I'm hanging in there"_, or _"I'm alive"_. )
 
-Bien...¿o te cuento? \(Good... or shall I really tell you about it?\)
+Bien...¿o te cuento? (Good... or shall I really tell you about it?)
 
-Even if you're feeling really terrible, it's bad form to ever come straight out and say "**mal**" \("bad"\).
+Even if you're feeling really terrible, it's bad form to ever come straight out and say "**mal**" ("bad").
 
-In some Spanish-speaking countries \(eg, Argentina\) people will often only say that they're "very good" when they're being ironic. If you hear someone say "**¡Mejor imposible!**" \(_"it doesn't get any better than this!"_\) — there's a good chance they're probably not having a very good day.
+In some Spanish-speaking countries (eg, Argentina) people will often only say that they're "very good" when they're being ironic. If you hear someone say "**¡Mejor imposible!**" (_"it doesn't get any better than this!"_) — there's a good chance they're probably not having a very good day.
 
 ¿Cómo **te** sientes?
 
@@ -79,19 +77,19 @@ In some Spanish-speaking countries \(eg, Argentina\) people will often only say 
 
 **Conocerle** and **conocerles** don't have a gender difference they mean **to meet him/her** and **to meet them**, but the others.
 
-**conocerla \(a ella\)** = To meet **her**
+**conocerla (a ella)** = To meet **her**
 
-**conocerlo \(a él\)** = to meet **him**
+**conocerlo (a él)** = to meet **him**
 
-**conocerlos \(a ellos\)** = to meet **them**\(masculine\)
+**conocerlos (a ellos)** = to meet **them**(masculine)
 
-**conocerlas \(a ellas\)** = to meet **them**\(femenine\)
+**conocerlas (a ellas)** = to meet **them**(femenine)
 
 Boy to Boy: Encantado de conocerlo
 
 Boy to Girl : Encantado de conocerla
 
-Informal: Encantado de conocerle \(a usted / a ti\)
+Informal: Encantado de conocerle (a usted / a ti)
 
 Girl to Boy: Encantada de conocerlo
 
@@ -101,19 +99,19 @@ Informal: Encantada de conocerle
 
 ### Adiós
 
-\(It's well worth getting familiar with **Hasta**. It's very adaptable and useful for saying goodbye, and it's easy to remember: Just think of Arnie in Terminator: _Hasta la vista, baby_.\)
+(It's well worth getting familiar with **Hasta**. It's very adaptable and useful for saying goodbye, and it's easy to remember: Just think of Arnie in Terminator: _Hasta la vista, baby_.)
 
-Chau \(Goodbye, casual\)
+Chau (Goodbye, casual)
 
-Nos vemos \(See you, casual\)
+Nos vemos (See you, casual)
 
-Hasta mañana \(See you tomorrow\)
+Hasta mañana (See you tomorrow)
 
-Hasta luego \(See you later\)
+Hasta luego (See you later)
 
-Hasta la próxima semana \(See you next week\)
+Hasta la próxima semana (See you next week)
 
-Hasta el próximo lunes \(See you next Monday\)
+Hasta el próximo lunes (See you next Monday)
 
 ## Gracias
 
@@ -123,11 +121,11 @@ Hasta el próximo lunes \(See you next Monday\)
 
 Y tu ingles es muy bueno. Buena suerte with future studies.
 
-Muchas gracias y buena suerte a todos 
+Muchas gracias y buena suerte a todos
 
 **Muchísimas gracias** = "Thank you so very, very much!" Example use: Now they have really done you a big favor. Maybe they changed your flat tire (llanta desinflada) for you.
 
-**Mil gracias** = "A thousand thanks." Example use: Again, they did something extraordinarily wonderful for you. 
+**Mil gracias** = "A thousand thanks." Example use: Again, they did something extraordinarily wonderful for you.
 
 Maybe a big bus (un gran autobús) was about to run over you, & they pushed you out of the way just in time? :)
 
@@ -145,8 +143,7 @@ Maybe a big bus (un gran autobús) was about to run over you, & they pushed you 
 | Se/Te lo agradezco               | I appreciate it                  |
 | Estoy en deuda con usted/contigo | I owe you                        |
 
-
-*Gracias a tí/usted* is only advised as an answer to *gracias*.
+_Gracias a tí/usted_ is only advised as an answer to _gracias_.
 
 | **how to reply to thanks** | **translation**          |
 | -------------------------- | ------------------------ |
@@ -157,7 +154,7 @@ Maybe a big bus (un gran autobús) was about to run over you, & they pushed you 
 | A la orden                 | As you wish              |
 | Con (mucho) gusto          | With (a lot of) pleasure |
 | Fue/Es un placer           | It was/is a pleasure     |
-| Gracias a usted/tí*        | Thanks to you            |
+| Gracias a usted/tí\*       | Thanks to you            |
 | A mandar                   | At your service          |
 | A su servicio              | At your service          |
 | No hay de qué              | Think nothing of it      |
@@ -165,17 +162,17 @@ Maybe a big bus (un gran autobús) was about to run over you, & they pushed you 
 
 ## Lo Siento
 
-**Lo Siento** is for apologizing and expressing sorrow. It is used as "I am sorry"  if you feel bad about something someone or want to show condolences, but literally it means "I feel it"
+**Lo Siento** is for apologizing and expressing sorrow. It is used as "I am sorry" if you feel bad about something someone or want to show condolences, but literally it means "I feel it"
 
 **Permiso/Con Permiso** is used for saying "excuse me" like if you want to pass by someone in the store aisle, and they don't yet see you. The literal translation is "permission/with permission" and is basically a request/question.
 
 **Perdon/Perdoname** is also "excuse me" (literal Pardon(forgive)/Pardon me?) but is used more in the event that two people accidentally bump into each other in a crowded space. Its basically an apology in essence.
 
-**Disculpe** is also a form of "excuse me" but more in an exclamatory form: "Excuse me!" Implying shock or surprise at something said or done. 
+**Disculpe** is also a form of "excuse me" but more in an exclamatory form: "Excuse me!" Implying shock or surprise at something said or done.
 
 ## **¿Cómo te llamas?**
 
-**¿Cómo te llamas\(Cual es tu nombre\)?** is used to ask **What's your name?** in informal interactions.
+**¿Cómo te llamas(Cual es tu nombre)?** is used to ask **What's your name?** in informal interactions.
 
 **Me llamo** is used to say **my name is**. It literally means **I call myself**.
 
@@ -199,7 +196,7 @@ In Spanish, we use words like **señor**, **señora**, and **señorita** to show
 
 **Señora** is generally for married women, while **señorita** is usually for young women or unmarried women.
 
-Disculpe, **señora**. \(Excuse me, ma'am.\)
+Disculpe, **señora**. (Excuse me, ma'am.)
 
 **Señor** can be used for any man.
 
@@ -212,4 +209,3 @@ Señor Sánchez, ¿cómo está usted?
 **El** señor Pérez es americano.
 
 * Mr. Pérez is American.
-
