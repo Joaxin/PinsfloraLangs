@@ -30,3 +30,5 @@ TIPS & NOTES: https://duome.eu/tips
 为什么印尼语辣么简单？
 
 https://zhuanlan.zhihu.com/p/97537142
+
+https://www.thelanguageisland.com/

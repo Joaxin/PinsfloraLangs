@@ -33,6 +33,7 @@ These Japanese phrases can have a couple different variations and meanings:
 | :--- | :--- |
 | こんにち**は** \[konnichi**wa**\] | Hello |
 | どうい たしまして \[Dōitashimashite\] | You are welcome |
+| おかえりなさい [Okaerinasai] | Welcome back |
 | \(どうぞ\)よろしく\[Douzo yoroshiku\] | (Here you are)nice to meet you |
 | はじめまして \[Hajimemashite\] | Nice to meet you |
 | どうぞ+よろしく+お願(nega)いします。 | Nice to meet you. |
@@ -75,7 +76,7 @@ If you want to ask something like What is your name？in Japanese，it's more li
 
 お名\(な\)前\(まえ\)は何\(なに\)ですか？ \(what is your name?\)
 
-O namae wa nani desuka?
+O namae wa nan(i) desuka?
 
 > お——honorific before a noun
 >

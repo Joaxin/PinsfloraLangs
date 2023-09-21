@@ -38,6 +38,8 @@ Jisho: [https://jisho.org/](https://jisho.org/)
 
 > Jisho is a powerful Japanese-English dictionary. It lets you find words, kanji, example sentences and more quickly and easily.
 
+romajidesu: https://www.romajidesu.com/
+
 Forum: [https://japanese.stackexchange.com/](https://japanese.stackexchange.com/)
 
 ## JP Refs

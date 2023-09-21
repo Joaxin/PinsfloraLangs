@@ -4,7 +4,7 @@ One thing that makes Japanese very different from English is the Japanese tenden
 
 ### The Question Marker
 
-Adding question marker **か** at the end will make the affirmative \(positive\) sentence into question. If the sentences end in ～です, it’s easy to formulate questions by using ～ですか。
+Adding question marker **か** at the end will make the affirmative \(positive\) sentence into question. If the sentences end in ～です(to be), it’s easy to formulate questions by using ～ですか。
 
 | Positive | Question |
 | :--- | :--- |
@@ -51,10 +51,10 @@ Here is the table of possible ways to say "is not/ wasn't":
 
 |  | では PRESENT | じゃあ PRESENT | では PAST | じゃあ PAST |
 | :--- | :--- | :--- | :--- | :--- |
-| FORMAL | ~ではありません  or ~ではないです | ~じゃありません  or ~**じゃない**です | ~ではありません**でした**   or ~**ではなかった**です | ~じゃありません**でした**   or ~**じゃなかった**です |
+| FORMAL | ~ではありません  or ~ではないです | ~じゃありません  or ~**じゃない**です | ~ではありません**でした(deshita)**   or ~**ではなかった(nakatta)**です | ~じゃありません**でした**   or ~**じゃなかった**です |
 | INFORMAL | ~ではない | ~**じゃない** | ~**ではなかった** | ~**じゃなかった** |
 
-> じゃあ is less formal than では however, じゃあ sounds easier to say so it is most commonly used in conversational Japanese.
+> じゃ is less formal than では however, じゃ sounds easier to say so it is most commonly used in conversational Japanese.
 
 | Japanese |  |
 | :--- | :--- |
@@ -62,6 +62,16 @@ Here is the table of possible ways to say "is not/ wasn't":
 | 私は学生ではありません / 私は学生じゃないです。 | I'm not a student. |
 | 私も学生です | I’m also a student. |
 | マリアさんも学生です | Maria is `also` a student |
+
+です (desu) is used in many other situations that aren’t translatable to English.
+
+For example, to say I like water! or I like tea!, use が  (ga) to mark the thing you like, then end with 
+好きです (suki desu).
+
+Don’t like it? Change 好きです (suki desu) to  好きじゃないです (suki janai desu)!
+
+野菜は好きじゃないです。Yasai wa suki janai desu.
+(I) do not like vegetables.
 
 ### What are you speaking?
 
@@ -125,7 +135,7 @@ Pronouns are relatively rare in Japanese, but they are sometimes used to explici
 | 君 | きみ |  | Used by men in informal settings, specifically to those on or beneath one's social level. 君**たち** is used in informal settings, especially to subordinates. |
 | 彼 | かれ | he, him | Can also mean "boyfriend" |
 | 彼女 | かのじょ | she, her | Can also mean "girlfriend" |
-| 彼ら | かれら kanera | they, them | Used for an all-male or mixed-gendered group |
+| 彼ら | かれら karera | they, them | Used for an all-male or mixed-gendered group(where men are the majority) |
 | 彼女たち | かのじょたち kanojyo tachi | they, them | Used for an all-female group |
 
 **the general pronouns**
@@ -151,9 +161,15 @@ Pronouns are relatively rare in Japanese, but they are sometimes used to explici
 
 |  | **こ** | **そ** | **あ** | **ど** | だ |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | ---- |
-| Japanese | これ kore | それ sore | あれ  are | どれ dore | だれ | どこ doko |
+| Japanese | これ kore | それ sore | あれ  are | どれ dore | だれdare | どこ doko |
 | English | this | that | that \(over there\)\(one\) | which \(one\) | who | where |
 | Notes | closer to the speaker  in front of me | closer to the listener ,  Next to you | far from both the speaker and listener | question | question |  |
+
+| near the speaker  | これ, ここ, この kore, koko, kono this, here, this    |
+| ----------------- | ----------------------------------------------------- |
+| near the listener | それ, そこ, その sore, soko, sono that, there, that   |
+| far from both     | あれ, あそこ, あの are, asoko, ano that, there, that  |
+| question word     | どれ, どこ, どの dore, doko, dono which, where, which |
 
 You can also use を (o) when asking for something! Just put it after the thing you want, then add please!
 

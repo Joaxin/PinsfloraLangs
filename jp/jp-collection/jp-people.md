@@ -1,6 +1,14 @@
-# Family(jp)
+# People\(jp\)
 
-## Family Terms
+えもじ \(emoji\)
+
+## Appellation
+
+先生（sensi）：teacher
+
+
+
+### Family Terms
 
 ![Family Words | Japanese with Anime](https://3.bp.blogspot.com/--6EI9YWouFI/WtF3QFqr0NI/AAAAAAAACqs/BIRmi2a0_bMIuNTKkI4rTfQ0yr_VYhEIwCK4BGAYYCw/w1200-h630-p-k-no-nu/family-members-japanese.png)
 
@@ -9,7 +17,7 @@
 > https://www.japanesewithanime.com/2018/04/family-members.html
 
 | English                              | Japanese Kanji | Japanese Hiragana | Romaji  |
-| ------------------------------------ | -------------- | ----------------- | ------- |
+| :----------------------------------- | :------------- | :---------------- | :------ |
 | Family                               | 家族           | かぞく            | kazoku  |
 | Parents                              | 両親           | りょうしん        | ryōshin |
 | Father                               | 父             | ちち chichi       | chichi  |
@@ -28,33 +36,27 @@
 | Daughter                             | 娘             | むすめ            | musume  |
 | Children                             | 子供           | こども            | kodomo  |
 
-When you talk to others about your own family, you actually use different words! 
+## Body
 
-| your own family               | other people’s family             |
-| ----------------------------- | --------------------------------- |
-| **父** chichi (my) father     | **お父さん** otо̄san father        |
-| **母** haha (my) mother       | **お母さん** okāsan mother        |
-| **兄** ani (my) older brother | **お兄さん** onīsan older brother |
-| **姉** ane (my) older sister  | **お姉さん** onēsan older sister  |
-
-## Family Sentences
-
-Japanese has lots of words to talk about family! When you talk to your family members, or when you talk about other people’s family, you generally use the words that end with that respectful ‑さん (san).
-
-ご家族はお元気ですか？ How is your family?
-
-父も母も元気です。Chichi mo haha mo genki desu.
-(My) father and (my) mother are well.
-
-> Notice that if you have two nouns, you can put も  (mo) after each one to mean both my father and my mother!
-
-兄弟はいますか？Do you have siblings?
-
-ええ、姉が二人います。Yes, I have two older sisters.
-
-私の両親は東京出身です。My parents are from Tokyo.
+|              |       |                       |                |
+| ------------ | ----- | --------------------- | -------------- |
+| め           | eye   | 目がない              | 为。。。着迷   |
+| みみ         | ear   |                       |                |
+| かお　kao 顔 | face  | 顔が広(hiro)い        | 面子大，交际广 |
+| はな、鼻     | nose  | 鼻が高(hana)い        | 骄傲           |
+| くち　口     | mouth | 口が重(omo)い         | 话少，沉默     |
+| あたま　頭   | head  | 頭がいい/頭にいい     |                |
+| せなか       | back  |                       |                |
+| からだ　身体 | body  | 身体がいい/身体にいい |                |
 
 
 
-あなたの子供は何歳ですか？Anata no kodomo wa nan‑sai desu ka?
-How old is your child?
+こえ 声
+
+## Health
+
+健康　kenkou
+
+## Adj.
+
+きゅう \(old\)

@@ -10,5 +10,23 @@ Japanese people usually say these phrases before and after eating. It's simply g
 
 * Thank you for the meal.
 
+## Ask about food
 
+英語のメニューはありますか？ Eigo no menyū wa arimasu ka?
+Do you have an English menu?
 
+これはいくらですか？Kore wa ikuradesu ka?
+
+How much is this?
+
+からいですか？
+Is it spicy?
+
+この朝ご飯はおいしいです。
+This breakfast is delicious.
+
+この朝ご飯はおいしいです。Kono asagohan wa oishī desu. 
+This breakfast is delicious.
+
+肉は好きじゃないです。
+I don't like meat.

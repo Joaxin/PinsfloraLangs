@@ -20,6 +20,7 @@ Below is a table of the kanji that are introduced in this lesson, complete with 
 | 日 | Sun, Day | ひ | にち、じつ |
 | 本 | Origin, Book | もと moto | ほん hon |
 | 田 | Rice Paddy | た ta | でん  den |
+| 大 |  |  | dai |
 | 学 | Education | まな•ぶ | がく gaku |
 | 生 | Born, Raw | なま、い•きる | せい sei |
 | 先 | Previous | さき saki | せん sen |
