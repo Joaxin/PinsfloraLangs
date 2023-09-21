@@ -4,7 +4,7 @@ description: Alles ist toll! (Everything is great!)
 
 # Cases & Pronouns
 
-![](../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (4).png>)
 
 In English, we say **He** **likes Sam**, but **Sam likes** **him**.
 

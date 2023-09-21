@@ -16,7 +16,7 @@
 
 ### &#x20;**一、印欧语系**
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p><strong>Indo-European Family</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p><strong>Indo-European Family</strong></p></figcaption></figure>
 
 印欧语系是世界上最大的语系，亦是最为广泛研究的语系。印欧语系包含了世界上许多最重要的语言，如英语、西班牙语、法语、德语、俄语等等。这些语言是很多 国家和组织的官方语言，在世界商业、科技、学术、通讯、国际会议中占有极其重要的地位。上述语言的使用者占全球总人口的一半以上。印欧语系还包含使用人数 众多的语言如葡萄牙语、印地语、孟加拉语等等。关于宗教、文化、哲学方面的一些经典语言也在印欧语系中，如拉丁语、希腊语、波斯语、梵语、巴利语等。
 
@@ -94,7 +94,7 @@
 
 ### **二、汉藏语系**&#x20;
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p><strong>Sino-Tibetan Family</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p><strong>Sino-Tibetan Family</strong></p></figcaption></figure>
 
 按使用人数来算，汉藏语系是仅次于印欧语系的第二大语系。它包括世界上使用人数最多的语言—汉语普通话。汉藏语系一般归为四个语族，即汉语族、藏缅语族、侗台语族和苗瑶语族。关于汉藏语系的分类和归属，学术界一直有争论。西方一些学者一般认为侗台和苗瑶不属于汉藏语系，而属于南亚语系。
 
@@ -114,14 +114,14 @@
 
 ### **三、闪含语系**
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p><strong>Semitic-Hamitic Family</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p><strong>Semitic-Hamitic Family</strong></p></figcaption></figure>
 
 闪含语系也称“亚非语系”或“阿非罗—亚细亚语系”（Afro-Asiatic Family），主要分布在亚洲的阿拉伯半岛和非洲的北部。闪含语系的名称是从圣经的传说中挪亚的两个儿子的名字来源的。圣经说挪亚的儿子闪是希伯来人的祖先，含是亚述人和非洲人的祖先。\
 
 
 闪含语系的主要共同特征是：辅音除了清辅音、浊辅音外，还有一种重辅音，在口腔后部和喉腔形成，又叫喉音。名词有格和性，但比印欧语系简单。阿拉伯和希伯来字母只有辅音，元音用附加上辅音上的符号表示。书写时一般也只写辅音，读者需要从语境中判断出正确的元音。
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 **闪语族 Semitic Branch**
 
@@ -145,7 +145,7 @@
 
 ### **四、乌拉尔语系**
 
-![](<../.gitbook/assets/image (3).png>)**Uralic Family**
+![](<../../.gitbook/assets/image (3).png>)**Uralic Family**
 
 前面提到，有三种欧洲语言不属于印欧语系：芬兰语、匈牙利语和爱沙尼亚语。它们属于乌拉尔语系。乌拉尔语的原始居民在大约1500年前从乌拉尔山脉的西 伯利亚一侧迁入欧洲，生活习俗已经完全欧洲化，但语言仍然保存了原来的面貌。乌拉尔语系分为两个大语族：芬兰—乌戈尔语族和萨莫耶德语族。
 
@@ -179,7 +179,7 @@
 
 ### **六、高加索语系**
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p><strong>Caucasian Family</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p><strong>Caucasian Family</strong></p></figcaption></figure>
 
 高加索语系由黑海和里海之间的高加索山 脉得名。其南支的卡尔特维里语族（Kartvelian Branch）中最主要的语言是格鲁吉亚语，其它语言还有明格雷利亚（Mingrelian）、拉兹语（Laz）、斯凡语（Svan）。西北支的阿布哈兹 —阿第盖语族（Abkhaz-Adyghean Branch）主要包括阿布哈兹语（Abkhaz）、阿第盖语（Adyghe）、卡巴尔达语（Kabardian）、阿巴兹语（Abaza）等等。东北地 区主要有车臣语（Chechen）、印古什语（Ingush）、达吉斯坦语（Daghestanian）、阿瓦尔语（Avar）、莱兹金语 （Lezgin）、拉克语（Lak）、列兹吉语（Lezgi）、塔巴萨兰语（Tabasaran）等。
 
@@ -187,7 +187,7 @@
 
 ### &#x20;**七、达罗毗荼语系**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p><strong>Dravidian Family</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p><strong>Dravidian Family</strong></p></figcaption></figure>
 
 **达罗毗荼语系**又译德拉维达语系。主要分布在印度南部和中部，其次在斯里兰卡北部和巴基斯坦等地。达罗毗荼诸语言跟印度其他语言没有亲属关系。达罗毗荼语系通常分为南部、中部和北部3个语族。**主要是印度南部的语言，包括比哈尔语、泰卢固语、泰米尔语、马拉亚兰语等。**
 
@@ -215,7 +215,7 @@
 
 ### **九、南岛语系**
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p><strong>Austronesian Family</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p><strong>Austronesian Family</strong></p></figcaption></figure>
 
 或称“马来—玻利尼西亚语系”（Malayo-Polynesian Family）。该语系从印度洋、马来半岛、东南亚，越过太平洋直到复活节岛，由一千多种语言组成。该语系的使用者据说最早起源于黄河谷地，公元前 2500年左右经台湾迁移到菲律宾，公元前约1000年进一步迁至印度尼西亚、太平洋诸岛屿。南岛语系包括以下五个分支。
 
@@ -259,7 +259,7 @@
 \
 
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p><strong>Niger-Congo Family</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p><strong>Niger-Congo Family</strong></p></figcaption></figure>
 
 尼日尔—刚果语系包含撒哈拉沙漠以南的非洲大陆的共900多种语言。该语系起源于西非，逐渐迁徙至非洲东南部。非洲国家的疆界并不完全反映语言的划分，而更多展现的是其被殖民的历史，所以非洲诸语言常常不按国界划分，通常一种语言可能被几个国家同时使用；同样，一个国家也可能有多种互不相同的语言。&#x20;
 
